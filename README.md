@@ -11,10 +11,11 @@ Before running the web application, you need to train the machine learning model
 - pip
 - Jupyter Notebook or JupyterLab
 
+```
 ### Setup and Model Training
 
 1. Clone the repository to your local machine:
-```
+
    ```bash
    git clone https://github.com/satishkumarmurugan/CODEX_AI-Driven-Travel-Suggestion.git
    ```
