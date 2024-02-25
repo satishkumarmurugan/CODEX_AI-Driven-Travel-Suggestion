@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="../static/styles.css">
+    <title>Submission Results</title>
+</head>
+<body>
+    <h1>Form Submission Results</h1>
+    <p><strong>Trip Type:</strong> {{ data.trip_type }}</p>
+    <p><strong>Room Type:</strong> {{ data.room_type }}</p>
+    <p><strong>Season:</strong> {{ data.Season }}</p>
+    <p><strong>Duration_Days:</strong> {{ data.Duration_Days }}</p>
+    <p><strong>Activity_To_Perform:</strong> {{ data.Activity_To_Perform | join(", ") }}</p>
+    <a href="/">Submit another response</a>
+</body>
+</html>

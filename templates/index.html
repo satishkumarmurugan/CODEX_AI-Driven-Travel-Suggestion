@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../static/styles.css">
+
+<title>Trip Planner</title>
+<script>
+
+var Activity_To_Perform_by_trip_type = {
+  "Solo Trip": ["Skiing", "Trekking", "Relaxation", "Scuba Diving", "Motorcycling"],
+  "Family Trip": ["Relaxation", "Sightseeing", "Toy Train Ride", "Heritage Walk", "Ayurvedic Spa"],
+  "Backpacking Trip": ["Trekking", "Camping", "Motorcycling", "Heritage Walk"],
+  "Group Trip": ["Sightseeing", "Relaxation", "Temple hopping", "Toy Train Ride", "Heritage Walk"],
+  "Adventure Trip": ["White Water Rafting", "Trekking", "Camping", "Motorcycling", "Scuba Diving"],
+  "Wildlife Trip": ["Safari"],
+  "cultural Trip": ["Temple hopping", "Heritage Walk"],
+  "pilgrimage Trip": ["Religious visit"],
+  "Romantic Getaway": ["Relaxation", "Scuba Diving", "Ayurvedic Spa", "Honeymoon Cruise"],
+  "Honeymoon Trip": ["Relaxation", "Sightseeing", "Scuba Diving", "Honeymoon Cruise", "Ayurvedic Spa"]
+};
+
+function updateActivity_To_Perform() {
+  var Trip_TypeSelect = document.getElementById("Trip_Type");
+  var selectedTrip_Type = Trip_TypeSelect.value;
+  var Activity_To_PerformSelect = document.getElementById("Activity_To_Perform");
+  Activity_To_PerformSelect.innerHTML = ""; 
+
+  // Populate Activity_To_Perform based on the selected trip type
+  var Activity_To_Perform = Activity_To_Perform_by_trip_type[selectedTrip_Type] || [];
+  Activity_To_Perform.forEach(function(activity) {
+    var option = new Option(activity, activity);
+    Activity_To_PerformSelect.add(option);
+  });
+}
+
+// Wait until the DOM is fully loaded before attaching the event listener
+document.addEventListener('DOMContentLoaded', function() {
+  // Attach the change event listener to the Trip_Type select element
+  document.getElementById("Trip_Type").addEventListener("change", updateActivity_To_Perform);
+});
+</script>
+</head>
+
+<body>
+    
+   <h1>Trip Planner</h1>
+<form action="/submit-form" method="post">
+
+    <label for="Trip_Type">Choose a trip type:</label>
+    <select name="Trip_Type" id="Trip_Type" onchange="updateActivity_To_Perform()">
+        <option value="Solo Trip">Solo Trip</option>
+        <option value="Family Trip">Family Trip</option>
+        <option value="Backpacking Trip">Backpacking Trip</option>
+        <option value="Group Trip">Group Trip</option>
+        <option value="Adventure Trip">Adventure Trip</option>
+        <option value="Wildlife Trip">Wildlife Trip</option>
+        <option value="CulturalTrip">Cultural Trip</option>
+        <option value="Pilgrimage Trip">Pilgrimage Trip</option>
+        <option value="Romantic Getaway">Romantic Getaway</option>
+        <option value="Honeymoon Trip">Honeymoon Trip</option>
+    </select>
+
+    <label for="Surroundings">Choose a Surroundings:</label>
+    <select name="Surroundings" id="Surroundings">
+        <option value="Mountains">Mountains</option>
+        <option value="Beach">Beach</option>
+        <option value="Hills">Hills</option>
+        <option value="Backwaters">Backwaters</option>
+        <option value="Forest">Forest</option>
+        <option value="City">City</option>
+        <option value="Temple Town">Temple Town</option>
+        <option value="French Colony">French Colony</option>
+        <option value="Religious Town">Religious Town</option>
+    </select>
+
+    <label for="Room_Type">Choose a room type:</label>
+    <select name="Room_Type" id="Room_Type">
+            <option value="Hostel Dorm">Hostel Dorm</option>
+            <option value="Beachfront Resort">Beachfront Resort</option>
+            <option value="Homestay">Homestay</option>
+            <option value="Houseboat">Houseboat</option>
+            <option value="Camping">Camping</option>
+            <option value="Jungle Lodge">Jungle Lodge</option>
+            <option value="Heritage Hotel">Heritage Hotel</option>
+            <option value="Ashram Accommodation">Ashram Accommodation</option>
+            <option value="Beachfront Villa">Beachfront Villa</option>
+            <option value="Luxury Hotel">Luxury Hotel</option>
+    </select>
+
+    <label for="Season">Choose a Season:</label>
+    <select name="Season" id="Season">
+        <option value="Winter">Winter</option>
+        <option value="Summer">Summer</option>
+        <option value="Monsoon">Monsoon</option>
+        <option value="Spring">Spring</option>
+        <option value="Autumn">Autumn</option>
+    </select>
+
+
+    <label for="Duration_Days">Choose a Duration_Days (in days):</label>
+    <select name="Duration_Days" id="Duration_Days">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+    </select>
+
+    <label for="Activity_To_Perform">Choose Activity_To_Perform:</label>
+    <select name="Activity_To_Perform" id="Activity_To_Perform">
+    <!-- Activity_To_Perform will be populated based on the trip type selection -->
+    </select>
+
+    
+    <button type="submit">Submit</button>
+
+</form>
+
+</body>
+</html>
