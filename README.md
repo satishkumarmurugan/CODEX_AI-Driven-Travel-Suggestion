@@ -23,13 +23,13 @@ Before running the web application, you need to train the machine learning model
 
    ```bash
    cd <project-directory>
-   ```
+   ```bash
 
 3. Open the Jupyter Notebook used for model training:
 
    ```bash
    jupyter notebook ID3.ipynb
-   ```
+   ```bash
 
 4. Follow the instructions in the notebook to train the model. This will involve loading your dataset, preprocessing the data, training the model, and saving the trained model along with any necessary label encoders to disk.
 
@@ -45,7 +45,7 @@ After training the model and saving it, you can start the Flask web application 
 
    ```bash
    python app.py
-   ```
+   ```bash
 
 3. The application will start running on a local server (usually `http://127.0.0.1:5000`). Open a web browser and go to the URL provided in the terminal to interact with the application.
 
