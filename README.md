@@ -17,19 +17,19 @@ Before running the web application, you need to train the machine learning model
 
    ```bash
    git clone https://github.com/satishkumarmurugan/CODEX_AI-Driven-Travel-Suggestion.git
-   ```bash
+   ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project-directory>
-   ```bash
+   cd CODEX_AI-Driven-Travel-Suggestion
+   ```
 
 3. Open the Jupyter Notebook used for model training:
 
    ```bash
    jupyter notebook ID3.ipynb
-   ```bash
+   ```
 
 4. Follow the instructions in the notebook to train the model. This will involve loading your dataset, preprocessing the data, training the model, and saving the trained model along with any necessary label encoders to disk.
 
