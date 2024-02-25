@@ -1,0 +1,2001 @@
+Trip_Type,Surroundings,Room_Type,Season,Duration_Days,Activity_To_Perform,Budget_INR,Destination
+Romantic Getaway,Religious Town,Heritage Hotel,Monsoon,6,Ayurvedic Spa,72597,Uttar Pradesh
+Honeymoon Trip,Forest,Houseboat,Autumn,8,Honeymoon Cruise,72597,Madhya Pradesh
+Solo Trip,Mountains,Luxury Hotel,Spring,9,Motorcycling,72597,Himachal Pradesh
+Wildlife Trip,Mountains,Jungle Lodge,Summer,7,Safari,72597,Himachal Pradesh
+Cultural Trip,Desert,Ashram Accommodation,Spring,10,Heritage Walk,72597,Ladakh
+Group Trip,Religious Town,Homestay,Spring,6,Temple hopping,72597,Uttar Pradesh
+Backpacking Trip,French Colony,Heritage Hotel,Spring,3,Camping,72597,Puducherry
+Solo Trip,Hills,Beachfront Villa,Autumn,5,Trekking,72597,Kerala
+Romantic Getaway,Backwaters,Houseboat,Monsoon,6,Scuba Diving,72597,Kerala
+Wildlife Trip,Beach,Hostel Dorm,Summer,10,Safari,72597,Goa
+Honeymoon Trip,Royal Palaces,Homestay,Summer,2,Scuba Diving,72597,Rajasthan
+Family Trip,Beach,Camping,Monsoon,7,Ayurvedic Spa,72597,Goa
+Pilgrimage Trip,Deserts,Camping,Summer,8,Religious visit,72597,Rajasthan
+Backpacking Trip,Temples,Camping,Spring,3,Camping,72597,Madhya Pradesh
+Pilgrimage Trip,Mountains,Houseboat,Summer,10,Religious visit,72597,Jammu and Kashmir
+Honeymoon Trip,Backwaters,Ashram Accommodation,Autumn,7,Relaxation,72597,Kerala
+Pilgrimage Trip,Mountains,Homestay,Autumn,3,Religious visit,72597,Himachal Pradesh
+Pilgrimage Trip,Backwaters,Luxury Hotel,Summer,4,Religious visit,72597,Kerala
+Honeymoon Trip,Religious Town,Houseboat,Spring,9,Scuba Diving,72597,Uttar Pradesh
+Solo Trip,Temples,Heritage Hotel,Winter,3,Skiing,72597,Madhya Pradesh
+Family Trip,French Colony,Houseboat,Autumn,9,Toy Train Ride,72597,Puducherry
+Wildlife Trip,Temple Town,Hostel Dorm,Spring,5,Safari,72597,Maharashtra
+Cultural Trip,Religious Town,Luxury Hotel,Autumn,7,Temple hopping,72597,Uttar Pradesh
+Romantic Getaway,City,Heritage Hotel,Spring,7,Ayurvedic Spa,72597,Uttar Pradesh
+Pilgrimage Trip,Religious Town,Luxury Hotel,Winter,7,Religious visit,72597,Uttar Pradesh
+Adventure Trip,Forest,Camping,Summer,3,White Water Rafting,72597,Maharashtra
+Group Trip,French Colony,Camping,Autumn,2,Sightseeing,72597,Puducherry
+Group Trip,Forest,Ashram Accommodation,Winter,6,Relaxation,72597,Madhya Pradesh
+Solo Trip,Temple Town,Beachfront Villa,Winter,10,Motorcycling,72597,Maharashtra
+Romantic Getaway,Forest,Hostel Dorm,Winter,2,Relaxation,72597,Madhya Pradesh
+Adventure Trip,Mountains,Homestay,Winter,5,Trekking,72597,Jammu and Kashmir
+Cultural Trip,Mountains,Jungle Lodge,Winter,7,Temple hopping,72597,Himachal Pradesh
+Family Trip,City,Homestay,Autumn,10,Sightseeing,72597,Uttar Pradesh
+Cultural Trip,Religious Town,Heritage Hotel,Autumn,4,Temple hopping,72597,Uttar Pradesh
+Honeymoon Trip,City,Homestay,Summer,2,Scuba Diving,72597,Uttar Pradesh
+Solo Trip,Hills,Beachfront Resort,Winter,5,Trekking,72597,West Bengal
+Solo Trip,Desert,Luxury Hotel,Spring,3,Scuba Diving,72597,Ladakh
+Solo Trip,Backwaters,Beachfront Resort,Spring,6,Trekking,72597,Kerala
+Cultural Trip,Desert,Camping,Summer,10,Heritage Walk,72597,Ladakh
+Wildlife Trip,Islands,Hostel Dorm,Monsoon,3,Safari,72597,Andaman & Nicobar Islands
+Family Trip,Desert,Jungle Lodge,Winter,3,Heritage Walk,72597,Ladakh
+Romantic Getaway,Royal Palaces,Beachfront Villa,Autumn,8,Relaxation,72597,Rajasthan
+Backpacking Trip,Temple Town,Homestay,Winter,3,Trekking,72597,Maharashtra
+Pilgrimage Trip,Islands,Beachfront Villa,Monsoon,10,Religious visit,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Deserts,Beachfront Resort,Winter,8,Religious visit,72597,Rajasthan
+Group Trip,Hills,Houseboat,Spring,10,Heritage Walk,72597,West Bengal
+Cultural Trip,Deserts,Beachfront Villa,Autumn,9,Temple hopping,72597,Rajasthan
+Adventure Trip,Mountains,Heritage Hotel,Winter,4,White Water Rafting,72597,Himachal Pradesh
+Honeymoon Trip,Temple Town,Heritage Hotel,Winter,5,Honeymoon Cruise,72597,Maharashtra
+Cultural Trip,Backwaters,Jungle Lodge,Winter,9,Heritage Walk,72597,Kerala
+Wildlife Trip,Deserts,Jungle Lodge,Winter,7,Safari,72597,Rajasthan
+Backpacking Trip,Deserts,Homestay,Spring,9,Heritage Walk,72597,Rajasthan
+Adventure Trip,Hills,Heritage Hotel,Winter,10,White Water Rafting,72597,Kerala
+Group Trip,Temple Town,Jungle Lodge,Monsoon,5,Temple hopping,72597,Maharashtra
+Family Trip,Mountains,Heritage Hotel,Monsoon,7,Ayurvedic Spa,72597,Ladakh
+Wildlife Trip,Hills,Jungle Lodge,Autumn,9,Safari,72597,Kerala
+Solo Trip,Temples,Ashram Accommodation,Monsoon,9,Scuba Diving,72597,Madhya Pradesh
+Cultural Trip,Mountains,Luxury Hotel,Monsoon,2,Heritage Walk,72597,Ladakh
+Romantic Getaway,Hills,Jungle Lodge,Summer,2,Relaxation,72597,West Bengal
+Honeymoon Trip,Mountains,Ashram Accommodation,Winter,2,Ayurvedic Spa,72597,Himachal Pradesh
+Cultural Trip,Mountains,Beachfront Villa,Summer,6,Temple hopping,72597,Uttarakhand
+Adventure Trip,Forest,Luxury Hotel,Monsoon,4,White Water Rafting,72597,Madhya Pradesh
+Wildlife Trip,French Colony,Hostel Dorm,Spring,4,Safari,72597,Puducherry
+Family Trip,Backwaters,Camping,Autumn,2,Relaxation,72597,Kerala
+Cultural Trip,Mountains,Houseboat,Spring,2,Heritage Walk,72597,Himachal Pradesh
+Solo Trip,Mountains,Hostel Dorm,Winter,4,Scuba Diving,72597,Uttarakhand
+Adventure Trip,City,Hostel Dorm,Monsoon,9,Motorcycling,72597,Uttar Pradesh
+Adventure Trip,City,Ashram Accommodation,Monsoon,4,Motorcycling,72597,Uttar Pradesh
+Group Trip,Forest,Jungle Lodge,Winter,2,Heritage Walk,72597,Madhya Pradesh
+Romantic Getaway,Mountains,Houseboat,Spring,10,Relaxation,72597,Himachal Pradesh
+Adventure Trip,Hills,Luxury Hotel,Autumn,6,White Water Rafting,72597,West Bengal
+Romantic Getaway,Backwaters,Beachfront Villa,Monsoon,6,Ayurvedic Spa,72597,Kerala
+Pilgrimage Trip,Religious Town,Beachfront Villa,Monsoon,3,Religious visit,72597,Uttar Pradesh
+Adventure Trip,Desert,Heritage Hotel,Spring,7,Trekking,72597,Ladakh
+Adventure Trip,Forest,Hostel Dorm,Autumn,8,Trekking,72597,Maharashtra
+Adventure Trip,Mountains,Ashram Accommodation,Summer,9,Trekking,72597,Jammu and Kashmir
+Pilgrimage Trip,Forest,Homestay,Summer,5,Religious visit,72597,Madhya Pradesh
+Family Trip,Temples,Homestay,Spring,3,Ayurvedic Spa,72597,Madhya Pradesh
+Cultural Trip,Temples,Beachfront Resort,Monsoon,10,Temple hopping,72597,Madhya Pradesh
+Romantic Getaway,French Colony,Ashram Accommodation,Spring,5,Ayurvedic Spa,72597,Puducherry
+Solo Trip,Forest,Hostel Dorm,Autumn,3,Trekking,72597,Madhya Pradesh
+Honeymoon Trip,Temple Town,Homestay,Autumn,5,Honeymoon Cruise,72597,Maharashtra
+Backpacking Trip,Hills,Houseboat,Spring,4,Heritage Walk,72597,West Bengal
+Family Trip,Beach,Beachfront Villa,Spring,8,Ayurvedic Spa,72597,Goa
+Family Trip,Mountains,Beachfront Villa,Winter,4,Sightseeing,72597,Uttarakhand
+Wildlife Trip,Hills,Luxury Hotel,Spring,8,Safari,72597,Kerala
+Wildlife Trip,Backwaters,Houseboat,Monsoon,2,Safari,72597,Kerala
+Group Trip,Temple Town,Camping,Monsoon,7,Sightseeing,72597,Maharashtra
+Solo Trip,Royal Palaces,Hostel Dorm,Monsoon,6,Trekking,72597,Rajasthan
+Wildlife Trip,Mountains,Beachfront Villa,Winter,5,Safari,72597,Ladakh
+Honeymoon Trip,French Colony,Beachfront Resort,Autumn,3,Sightseeing,72597,Puducherry
+Backpacking Trip,Backwaters,Ashram Accommodation,Autumn,4,Heritage Walk,72597,Kerala
+Cultural Trip,Mountains,Heritage Hotel,Summer,3,Heritage Walk,72597,Himachal Pradesh
+Honeymoon Trip,Deserts,Houseboat,Winter,8,Relaxation,72597,Rajasthan
+Romantic Getaway,Backwaters,Houseboat,Autumn,9,Relaxation,72597,Kerala
+Honeymoon Trip,Backwaters,Beachfront Resort,Monsoon,9,Sightseeing,72597,Kerala
+Family Trip,Religious Town,Houseboat,Autumn,10,Sightseeing,72597,Uttar Pradesh
+Romantic Getaway,Temple Town,Heritage Hotel,Autumn,6,Scuba Diving,72597,Maharashtra
+Family Trip,Islands,Camping,Winter,7,Toy Train Ride,72597,Andaman & Nicobar Islands
+Group Trip,Beach,Beachfront Resort,Spring,4,Toy Train Ride,72597,Goa
+Wildlife Trip,Mountains,Homestay,Spring,7,Safari,72597,Himachal Pradesh
+Group Trip,Beach,Heritage Hotel,Summer,2,Heritage Walk,72597,Andaman & Nicobar Islands
+Wildlife Trip,Mountains,Ashram Accommodation,Monsoon,10,Safari,72597,Himachal Pradesh
+Adventure Trip,Mountains,Ashram Accommodation,Winter,4,Trekking,72597,Himachal Pradesh
+Family Trip,Hills,Jungle Lodge,Monsoon,10,Relaxation,72597,West Bengal
+Cultural Trip,Royal Palaces,Heritage Hotel,Winter,7,Temple hopping,72597,Rajasthan
+Cultural Trip,Mountains,Camping,Monsoon,8,Heritage Walk,72597,Himachal Pradesh
+Solo Trip,French Colony,Hostel Dorm,Winter,7,Trekking,72597,Puducherry
+Solo Trip,Forest,Luxury Hotel,Winter,7,Trekking,72597,Madhya Pradesh
+Group Trip,Hills,Camping,Spring,7,Sightseeing,72597,Kerala
+Romantic Getaway,Beach,Heritage Hotel,Spring,4,Ayurvedic Spa,72597,Goa
+Solo Trip,Temples,Jungle Lodge,Monsoon,3,Skiing,72597,Madhya Pradesh
+Group Trip,Desert,Jungle Lodge,Spring,9,Toy Train Ride,72597,Ladakh
+Adventure Trip,Desert,Ashram Accommodation,Summer,10,Trekking,72597,Ladakh
+Wildlife Trip,Backwaters,Ashram Accommodation,Winter,9,Safari,72597,Kerala
+Romantic Getaway,Backwaters,Hostel Dorm,Summer,4,Relaxation,72597,Kerala
+Solo Trip,Hills,Ashram Accommodation,Spring,3,Relaxation,72597,West Bengal
+Backpacking Trip,Mountains,Jungle Lodge,Monsoon,5,Camping,72597,Himachal Pradesh
+Cultural Trip,Islands,Jungle Lodge,Summer,9,Temple hopping,72597,Andaman & Nicobar Islands
+Cultural Trip,Backwaters,Beachfront Villa,Autumn,9,Heritage Walk,72597,Kerala
+Group Trip,Temples,Luxury Hotel,Monsoon,5,Relaxation,72597,Madhya Pradesh
+Adventure Trip,Hills,Camping,Autumn,7,White Water Rafting,72597,Kerala
+Wildlife Trip,Deserts,Houseboat,Winter,3,Safari,72597,Rajasthan
+Backpacking Trip,Backwaters,Hostel Dorm,Spring,10,Trekking,72597,Kerala
+Romantic Getaway,Religious Town,Camping,Autumn,3,Relaxation,72597,Uttar Pradesh
+Wildlife Trip,Religious Town,Hostel Dorm,Spring,6,Safari,72597,Uttar Pradesh
+Honeymoon Trip,City,Jungle Lodge,Spring,5,Relaxation,72597,Uttar Pradesh
+Wildlife Trip,Royal Palaces,Heritage Hotel,Summer,5,Safari,72597,Rajasthan
+Group Trip,Backwaters,Beachfront Villa,Monsoon,8,Temple hopping,72597,Kerala
+Group Trip,Beach,Heritage Hotel,Summer,7,Heritage Walk,72597,Goa
+Backpacking Trip,Mountains,Houseboat,Autumn,2,Trekking,72597,Uttarakhand
+Solo Trip,Backwaters,Hostel Dorm,Winter,9,Skiing,72597,Kerala
+Group Trip,Mountains,Jungle Lodge,Monsoon,10,Temple hopping,72597,Jammu and Kashmir
+Cultural Trip,City,Ashram Accommodation,Summer,3,Temple hopping,72597,Uttar Pradesh
+Cultural Trip,Religious Town,Beachfront Villa,Autumn,10,Temple hopping,72597,Uttar Pradesh
+Pilgrimage Trip,Hills,Heritage Hotel,Autumn,5,Religious visit,72597,Kerala
+Adventure Trip,Mountains,Jungle Lodge,Autumn,4,Motorcycling,72597,Himachal Pradesh
+Honeymoon Trip,Religious Town,Luxury Hotel,Spring,3,Scuba Diving,72597,Uttar Pradesh
+Cultural Trip,Forest,Camping,Summer,10,Temple hopping,72597,Madhya Pradesh
+Adventure Trip,Beach,Hostel Dorm,Monsoon,5,White Water Rafting,72597,Andaman & Nicobar Islands
+Wildlife Trip,Desert,Ashram Accommodation,Summer,2,Safari,72597,Ladakh
+Adventure Trip,Mountains,Beachfront Villa,Spring,7,Camping,72597,Himachal Pradesh
+Family Trip,Mountains,Beachfront Villa,Summer,7,Heritage Walk,72597,Himachal Pradesh
+Honeymoon Trip,Royal Palaces,Beachfront Resort,Autumn,5,Ayurvedic Spa,72597,Rajasthan
+Backpacking Trip,Temple Town,Homestay,Winter,10,Camping,72597,Maharashtra
+Adventure Trip,City,Ashram Accommodation,Summer,9,Camping,72597,Uttar Pradesh
+Wildlife Trip,City,Beachfront Resort,Autumn,3,Safari,72597,Uttar Pradesh
+Cultural Trip,French Colony,Homestay,Spring,2,Temple hopping,72597,Puducherry
+Adventure Trip,Backwaters,Ashram Accommodation,Spring,8,White Water Rafting,72597,Kerala
+Wildlife Trip,Islands,Luxury Hotel,Autumn,10,Safari,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Backwaters,Houseboat,Monsoon,9,Religious visit,72597,Kerala
+Cultural Trip,City,Houseboat,Summer,7,Temple hopping,72597,Uttar Pradesh
+Romantic Getaway,Mountains,Jungle Lodge,Spring,6,Ayurvedic Spa,72597,Himachal Pradesh
+Honeymoon Trip,City,Homestay,Monsoon,2,Ayurvedic Spa,72597,Uttar Pradesh
+Romantic Getaway,Beach,Ashram Accommodation,Summer,9,Honeymoon Cruise,72597,Goa
+Pilgrimage Trip,Mountains,Heritage Hotel,Summer,10,Religious visit,72597,Ladakh
+Honeymoon Trip,Forest,Ashram Accommodation,Autumn,5,Honeymoon Cruise,72597,Maharashtra
+Pilgrimage Trip,Hills,Houseboat,Autumn,9,Religious visit,72597,West Bengal
+Pilgrimage Trip,Mountains,Jungle Lodge,Monsoon,2,Religious visit,72597,Ladakh
+Pilgrimage Trip,Backwaters,Houseboat,Autumn,7,Religious visit,72597,Kerala
+Honeymoon Trip,Mountains,Beachfront Villa,Spring,8,Relaxation,72597,Jammu and Kashmir
+Backpacking Trip,Mountains,Jungle Lodge,Spring,10,Camping,72597,Uttarakhand
+Romantic Getaway,French Colony,Heritage Hotel,Autumn,10,Scuba Diving,72597,Puducherry
+Group Trip,Beach,Houseboat,Spring,3,Relaxation,72597,Goa
+Romantic Getaway,Beach,Hostel Dorm,Summer,8,Scuba Diving,72597,Andaman & Nicobar Islands
+Romantic Getaway,City,Heritage Hotel,Monsoon,7,Scuba Diving,72597,Uttar Pradesh
+Romantic Getaway,Mountains,Jungle Lodge,Monsoon,9,Scuba Diving,72597,Himachal Pradesh
+Solo Trip,Temples,Camping,Spring,3,Scuba Diving,72597,Madhya Pradesh
+Pilgrimage Trip,City,Hostel Dorm,Spring,7,Religious visit,72597,Uttar Pradesh
+Group Trip,Hills,Ashram Accommodation,Winter,6,Relaxation,72597,Kerala
+Adventure Trip,Backwaters,Heritage Hotel,Spring,7,Trekking,72597,Kerala
+Pilgrimage Trip,Deserts,Houseboat,Summer,6,Religious visit,72597,Rajasthan
+Cultural Trip,City,Ashram Accommodation,Winter,7,Temple hopping,72597,Uttar Pradesh
+Pilgrimage Trip,City,Luxury Hotel,Winter,8,Religious visit,72597,Uttar Pradesh
+Pilgrimage Trip,French Colony,Heritage Hotel,Autumn,2,Religious visit,72597,Puducherry
+Backpacking Trip,City,Hostel Dorm,Monsoon,7,Motorcycling,72597,Uttar Pradesh
+Pilgrimage Trip,Temple Town,Heritage Hotel,Summer,4,Religious visit,72597,Maharashtra
+Family Trip,Temple Town,Beachfront Villa,Summer,2,Heritage Walk,72597,Maharashtra
+Adventure Trip,Beach,Jungle Lodge,Winter,2,Camping,72597,Andaman & Nicobar Islands
+Family Trip,French Colony,Heritage Hotel,Monsoon,5,Relaxation,72597,Puducherry
+Family Trip,French Colony,Camping,Autumn,9,Heritage Walk,72597,Puducherry
+Adventure Trip,City,Camping,Winter,4,Scuba Diving,72597,Uttar Pradesh
+Family Trip,Deserts,Homestay,Winter,9,Sightseeing,72597,Rajasthan
+Pilgrimage Trip,Backwaters,Heritage Hotel,Autumn,4,Religious visit,72597,Kerala
+Solo Trip,Islands,Beachfront Resort,Summer,5,Skiing,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Mountains,Homestay,Summer,4,Religious visit,72597,Himachal Pradesh
+Honeymoon Trip,Beach,Jungle Lodge,Summer,8,Honeymoon Cruise,72597,Goa
+Family Trip,Deserts,Homestay,Autumn,4,Ayurvedic Spa,72597,Rajasthan
+Backpacking Trip,Beach,Beachfront Resort,Summer,10,Trekking,72597,Goa
+Backpacking Trip,Forest,Beachfront Resort,Monsoon,4,Trekking,72597,Madhya Pradesh
+Honeymoon Trip,Forest,Homestay,Autumn,4,Sightseeing,72597,Maharashtra
+Adventure Trip,Desert,Hostel Dorm,Autumn,9,Camping,72597,Ladakh
+Pilgrimage Trip,Religious Town,Houseboat,Summer,7,Religious visit,72597,Uttar Pradesh
+Family Trip,Beach,Ashram Accommodation,Winter,5,Heritage Walk,72597,Goa
+Backpacking Trip,Backwaters,Homestay,Winter,10,Heritage Walk,72597,Kerala
+Solo Trip,Temples,Camping,Summer,7,Motorcycling,72597,Madhya Pradesh
+Group Trip,Backwaters,Houseboat,Summer,9,Toy Train Ride,72597,Kerala
+Honeymoon Trip,Forest,Houseboat,Spring,7,Sightseeing,72597,Maharashtra
+Romantic Getaway,Forest,Jungle Lodge,Spring,5,Scuba Diving,72597,Maharashtra
+Adventure Trip,Mountains,Jungle Lodge,Autumn,5,Motorcycling,72597,Jammu and Kashmir
+Honeymoon Trip,Mountains,Beachfront Resort,Summer,2,Ayurvedic Spa,72597,Uttarakhand
+Cultural Trip,Mountains,Jungle Lodge,Summer,10,Heritage Walk,72597,Jammu and Kashmir
+Romantic Getaway,Religious Town,Homestay,Winter,2,Scuba Diving,72597,Uttar Pradesh
+Family Trip,Beach,Beachfront Villa,Spring,8,Sightseeing,72597,Goa
+Wildlife Trip,Beach,Luxury Hotel,Monsoon,9,Safari,72597,Andaman & Nicobar Islands
+Cultural Trip,Mountains,Heritage Hotel,Winter,7,Temple hopping,72597,Himachal Pradesh
+Group Trip,Mountains,Beachfront Villa,Autumn,3,Sightseeing,72597,Himachal Pradesh
+Wildlife Trip,Temples,Homestay,Autumn,10,Safari,72597,Madhya Pradesh
+Group Trip,Deserts,Luxury Hotel,Winter,10,Heritage Walk,72597,Rajasthan
+Backpacking Trip,Backwaters,Jungle Lodge,Autumn,6,Motorcycling,72597,Kerala
+Honeymoon Trip,Royal Palaces,Luxury Hotel,Autumn,10,Sightseeing,72597,Rajasthan
+Backpacking Trip,Religious Town,Beachfront Villa,Spring,6,Motorcycling,72597,Uttar Pradesh
+Wildlife Trip,Beach,Beachfront Villa,Monsoon,7,Safari,72597,Andaman & Nicobar Islands
+Cultural Trip,Mountains,Beachfront Villa,Summer,2,Temple hopping,72597,Himachal Pradesh
+Honeymoon Trip,Mountains,Camping,Summer,9,Relaxation,72597,Himachal Pradesh
+Romantic Getaway,Temples,Homestay,Winter,5,Honeymoon Cruise,72597,Madhya Pradesh
+Group Trip,Temple Town,Beachfront Resort,Spring,5,Sightseeing,72597,Maharashtra
+Family Trip,French Colony,Luxury Hotel,Monsoon,9,Toy Train Ride,72597,Puducherry
+Cultural Trip,Forest,Homestay,Spring,2,Temple hopping,72597,Maharashtra
+Backpacking Trip,Islands,Hostel Dorm,Autumn,4,Camping,72597,Andaman & Nicobar Islands
+Solo Trip,Desert,Beachfront Villa,Winter,9,Trekking,72597,Ladakh
+Family Trip,Mountains,Hostel Dorm,Monsoon,7,Toy Train Ride,72597,Uttarakhand
+Honeymoon Trip,Backwaters,Luxury Hotel,Spring,5,Ayurvedic Spa,72597,Kerala
+Group Trip,Mountains,Heritage Hotel,Spring,7,Sightseeing,72597,Himachal Pradesh
+Solo Trip,Mountains,Camping,Winter,8,Motorcycling,72597,Uttarakhand
+Cultural Trip,Mountains,Luxury Hotel,Autumn,5,Temple hopping,72597,Himachal Pradesh
+Adventure Trip,City,Ashram Accommodation,Spring,8,White Water Rafting,72597,Uttar Pradesh
+Honeymoon Trip,Mountains,Jungle Lodge,Winter,7,Scuba Diving,72597,Himachal Pradesh
+Romantic Getaway,Backwaters,Heritage Hotel,Autumn,4,Scuba Diving,72597,Kerala
+Honeymoon Trip,City,Camping,Autumn,10,Relaxation,72597,Uttar Pradesh
+Wildlife Trip,Royal Palaces,Camping,Spring,10,Safari,72597,Rajasthan
+Pilgrimage Trip,City,Heritage Hotel,Autumn,3,Religious visit,72597,Uttar Pradesh
+Wildlife Trip,Beach,Ashram Accommodation,Autumn,9,Safari,72597,Goa
+Family Trip,Mountains,Camping,Winter,3,Relaxation,72597,Himachal Pradesh
+Pilgrimage Trip,Temple Town,Beachfront Villa,Summer,5,Religious visit,72597,Maharashtra
+Adventure Trip,Mountains,Camping,Monsoon,5,Scuba Diving,72597,Himachal Pradesh
+Honeymoon Trip,Forest,Camping,Spring,9,Scuba Diving,72597,Madhya Pradesh
+Romantic Getaway,Temples,Camping,Monsoon,10,Honeymoon Cruise,72597,Madhya Pradesh
+Solo Trip,Deserts,Ashram Accommodation,Monsoon,6,Relaxation,72597,Rajasthan
+Solo Trip,French Colony,Houseboat,Spring,3,Skiing,72597,Puducherry
+Romantic Getaway,Royal Palaces,Camping,Monsoon,6,Honeymoon Cruise,72597,Rajasthan
+Romantic Getaway,Religious Town,Beachfront Villa,Autumn,5,Honeymoon Cruise,72597,Uttar Pradesh
+Cultural Trip,Forest,Beachfront Resort,Summer,6,Heritage Walk,72597,Madhya Pradesh
+Romantic Getaway,Royal Palaces,Luxury Hotel,Monsoon,5,Ayurvedic Spa,72597,Rajasthan
+Family Trip,Hills,Ashram Accommodation,Monsoon,8,Toy Train Ride,72597,West Bengal
+Solo Trip,City,Homestay,Summer,2,Scuba Diving,72597,Uttar Pradesh
+Romantic Getaway,Royal Palaces,Hostel Dorm,Winter,7,Ayurvedic Spa,72597,Rajasthan
+Backpacking Trip,Forest,Homestay,Summer,9,Camping,72597,Madhya Pradesh
+Adventure Trip,Mountains,Camping,Summer,9,Trekking,72597,Jammu and Kashmir
+Wildlife Trip,Temples,Beachfront Villa,Autumn,6,Safari,72597,Madhya Pradesh
+Wildlife Trip,Beach,Hostel Dorm,Winter,4,Safari,72597,Goa
+Solo Trip,Deserts,Houseboat,Winter,2,Trekking,72597,Rajasthan
+Solo Trip,Mountains,Hostel Dorm,Monsoon,6,Trekking,72597,Jammu and Kashmir
+Solo Trip,Beach,Luxury Hotel,Autumn,3,Motorcycling,72597,Goa
+Romantic Getaway,French Colony,Jungle Lodge,Spring,4,Ayurvedic Spa,72597,Puducherry
+Honeymoon Trip,Mountains,Hostel Dorm,Winter,10,Ayurvedic Spa,72597,Ladakh
+Honeymoon Trip,Mountains,Jungle Lodge,Autumn,8,Relaxation,72597,Uttarakhand
+Romantic Getaway,Mountains,Ashram Accommodation,Summer,5,Honeymoon Cruise,72597,Himachal Pradesh
+Pilgrimage Trip,Mountains,Jungle Lodge,Monsoon,9,Religious visit,72597,Uttarakhand
+Cultural Trip,Beach,Houseboat,Winter,4,Temple hopping,72597,Goa
+Group Trip,Hills,Beachfront Villa,Spring,10,Temple hopping,72597,Kerala
+Cultural Trip,Forest,Beachfront Resort,Spring,7,Heritage Walk,72597,Maharashtra
+Solo Trip,Mountains,Ashram Accommodation,Autumn,4,Scuba Diving,72597,Jammu and Kashmir
+Adventure Trip,Hills,Beachfront Villa,Monsoon,2,White Water Rafting,72597,West Bengal
+Solo Trip,Mountains,Beachfront Villa,Monsoon,3,Trekking,72597,Uttarakhand
+Family Trip,Backwaters,Houseboat,Spring,9,Heritage Walk,72597,Kerala
+Pilgrimage Trip,Beach,Beachfront Resort,Summer,8,Religious visit,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Hills,Houseboat,Monsoon,10,Religious visit,72597,West Bengal
+Solo Trip,Hills,Camping,Winter,5,Trekking,72597,Kerala
+Adventure Trip,Beach,Houseboat,Winter,8,Scuba Diving,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Hills,Ashram Accommodation,Winter,7,Religious visit,72597,West Bengal
+Adventure Trip,Beach,Heritage Hotel,Monsoon,2,Scuba Diving,72597,Andaman & Nicobar Islands
+Cultural Trip,Backwaters,Ashram Accommodation,Spring,6,Heritage Walk,72597,Kerala
+Adventure Trip,Beach,Hostel Dorm,Spring,8,Motorcycling,72597,Goa
+Adventure Trip,Mountains,Hostel Dorm,Autumn,3,Scuba Diving,72597,Ladakh
+Group Trip,Hills,Hostel Dorm,Summer,4,Sightseeing,72597,West Bengal
+Honeymoon Trip,Temples,Houseboat,Autumn,6,Ayurvedic Spa,72597,Madhya Pradesh
+Honeymoon Trip,Backwaters,Hostel Dorm,Spring,9,Relaxation,72597,Kerala
+Group Trip,Forest,Jungle Lodge,Autumn,9,Toy Train Ride,72597,Maharashtra
+Family Trip,Backwaters,Luxury Hotel,Autumn,10,Toy Train Ride,72597,Kerala
+Honeymoon Trip,French Colony,Homestay,Summer,4,Scuba Diving,72597,Puducherry
+Solo Trip,Backwaters,Heritage Hotel,Autumn,7,Motorcycling,72597,Kerala
+Honeymoon Trip,Hills,Beachfront Resort,Winter,10,Honeymoon Cruise,72597,Kerala
+Backpacking Trip,City,Beachfront Villa,Summer,5,Camping,72597,Uttar Pradesh
+Cultural Trip,Beach,Ashram Accommodation,Winter,3,Heritage Walk,72597,Andaman & Nicobar Islands
+Wildlife Trip,Religious Town,Beachfront Villa,Spring,2,Safari,72597,Uttar Pradesh
+Romantic Getaway,Desert,Jungle Lodge,Autumn,8,Honeymoon Cruise,72597,Ladakh
+Honeymoon Trip,French Colony,Heritage Hotel,Spring,4,Honeymoon Cruise,72597,Puducherry
+Pilgrimage Trip,Religious Town,Beachfront Resort,Summer,6,Religious visit,72597,Uttar Pradesh
+Adventure Trip,Beach,Luxury Hotel,Spring,5,Trekking,72597,Goa
+Solo Trip,Forest,Beachfront Villa,Summer,7,Relaxation,72597,Maharashtra
+Cultural Trip,Mountains,Homestay,Summer,2,Heritage Walk,72597,Himachal Pradesh
+Cultural Trip,Mountains,Homestay,Summer,9,Temple hopping,72597,Uttarakhand
+Backpacking Trip,Beach,Ashram Accommodation,Autumn,6,Heritage Walk,72597,Goa
+Family Trip,Islands,Luxury Hotel,Monsoon,2,Toy Train Ride,72597,Andaman & Nicobar Islands
+Group Trip,Mountains,Beachfront Villa,Spring,5,Toy Train Ride,72597,Himachal Pradesh
+Backpacking Trip,Deserts,Hostel Dorm,Winter,8,Motorcycling,72597,Rajasthan
+Solo Trip,Islands,Luxury Hotel,Winter,6,Motorcycling,72597,Andaman & Nicobar Islands
+Honeymoon Trip,Religious Town,Houseboat,Summer,9,Sightseeing,72597,Uttar Pradesh
+Pilgrimage Trip,Forest,Heritage Hotel,Spring,2,Religious visit,72597,Madhya Pradesh
+Solo Trip,Royal Palaces,Ashram Accommodation,Summer,3,Trekking,72597,Rajasthan
+Romantic Getaway,Mountains,Heritage Hotel,Spring,7,Ayurvedic Spa,72597,Jammu and Kashmir
+Group Trip,Desert,Jungle Lodge,Spring,3,Toy Train Ride,72597,Ladakh
+Cultural Trip,Mountains,Heritage Hotel,Autumn,5,Temple hopping,72597,Himachal Pradesh
+Honeymoon Trip,Hills,Hostel Dorm,Spring,9,Honeymoon Cruise,72597,Kerala
+Adventure Trip,Backwaters,Camping,Winter,6,Scuba Diving,72597,Kerala
+Romantic Getaway,Temples,Beachfront Resort,Monsoon,8,Relaxation,72597,Madhya Pradesh
+Solo Trip,Hills,Homestay,Summer,6,Skiing,72597,West Bengal
+Backpacking Trip,French Colony,Ashram Accommodation,Spring,7,Motorcycling,72597,Puducherry
+Group Trip,Hills,Luxury Hotel,Summer,4,Sightseeing,72597,West Bengal
+Group Trip,Religious Town,Jungle Lodge,Spring,6,Heritage Walk,72597,Uttar Pradesh
+Romantic Getaway,Mountains,Jungle Lodge,Winter,7,Ayurvedic Spa,72597,Ladakh
+Pilgrimage Trip,Forest,Homestay,Winter,7,Religious visit,72597,Maharashtra
+Family Trip,Mountains,Hostel Dorm,Autumn,10,Toy Train Ride,72597,Himachal Pradesh
+Romantic Getaway,Mountains,Heritage Hotel,Monsoon,5,Honeymoon Cruise,72597,Uttarakhand
+Romantic Getaway,Hills,Hostel Dorm,Spring,6,Honeymoon Cruise,72597,West Bengal
+Adventure Trip,Deserts,Hostel Dorm,Spring,10,Scuba Diving,72597,Rajasthan
+Adventure Trip,Mountains,Ashram Accommodation,Autumn,9,Trekking,72597,Uttarakhand
+Family Trip,Temple Town,Ashram Accommodation,Autumn,6,Relaxation,72597,Maharashtra
+Solo Trip,Hills,Beachfront Villa,Monsoon,8,Relaxation,72597,West Bengal
+Backpacking Trip,Mountains,Homestay,Autumn,4,Heritage Walk,72597,Jammu and Kashmir
+Wildlife Trip,Beach,Hostel Dorm,Spring,3,Safari,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Hills,Luxury Hotel,Monsoon,5,Religious visit,72597,West Bengal
+Backpacking Trip,Backwaters,Beachfront Resort,Winter,8,Motorcycling,72597,Kerala
+Cultural Trip,Desert,Luxury Hotel,Winter,4,Temple hopping,72597,Ladakh
+Backpacking Trip,Mountains,Beachfront Resort,Summer,4,Camping,72597,Uttarakhand
+Solo Trip,Mountains,Luxury Hotel,Summer,7,Trekking,72597,Jammu and Kashmir
+Honeymoon Trip,Desert,Hostel Dorm,Spring,3,Scuba Diving,72597,Ladakh
+Group Trip,French Colony,Homestay,Winter,5,Toy Train Ride,72597,Puducherry
+Group Trip,French Colony,Homestay,Winter,10,Relaxation,72597,Puducherry
+Cultural Trip,Mountains,Homestay,Autumn,2,Temple hopping,72597,Uttarakhand
+Family Trip,Backwaters,Houseboat,Summer,3,Relaxation,72597,Kerala
+Backpacking Trip,Beach,Ashram Accommodation,Spring,6,Heritage Walk,72597,Goa
+Group Trip,Beach,Homestay,Winter,5,Sightseeing,72597,Goa
+Honeymoon Trip,Hills,Heritage Hotel,Winter,7,Relaxation,72597,Kerala
+Romantic Getaway,Beach,Jungle Lodge,Spring,10,Relaxation,72597,Andaman & Nicobar Islands
+Solo Trip,Beach,Heritage Hotel,Winter,5,Motorcycling,72597,Andaman & Nicobar Islands
+Adventure Trip,City,Camping,Winter,6,White Water Rafting,72597,Uttar Pradesh
+Honeymoon Trip,Forest,Hostel Dorm,Autumn,3,Honeymoon Cruise,72597,Maharashtra
+Cultural Trip,Religious Town,Beachfront Resort,Autumn,10,Heritage Walk,72597,Uttar Pradesh
+Cultural Trip,Forest,Beachfront Villa,Monsoon,4,Temple hopping,72597,Madhya Pradesh
+Adventure Trip,Royal Palaces,Hostel Dorm,Spring,10,Scuba Diving,72597,Rajasthan
+Cultural Trip,Mountains,Houseboat,Autumn,8,Heritage Walk,72597,Jammu and Kashmir
+Pilgrimage Trip,Religious Town,Heritage Hotel,Spring,7,Religious visit,72597,Uttar Pradesh
+Pilgrimage Trip,Beach,Ashram Accommodation,Autumn,8,Religious visit,72597,Andaman & Nicobar Islands
+Solo Trip,Mountains,Hostel Dorm,Spring,6,Trekking,72597,Uttarakhand
+Group Trip,Mountains,Camping,Autumn,10,Heritage Walk,72597,Uttarakhand
+Adventure Trip,Hills,Houseboat,Monsoon,3,Motorcycling,72597,Kerala
+Honeymoon Trip,Backwaters,Houseboat,Spring,6,Scuba Diving,72597,Kerala
+Group Trip,Backwaters,Beachfront Resort,Summer,10,Heritage Walk,72597,Kerala
+Honeymoon Trip,Desert,Heritage Hotel,Winter,5,Ayurvedic Spa,72597,Ladakh
+Cultural Trip,Beach,Heritage Hotel,Spring,6,Heritage Walk,72597,Andaman & Nicobar Islands
+Solo Trip,Hills,Camping,Spring,9,Motorcycling,72597,Kerala
+Group Trip,Hills,Jungle Lodge,Autumn,2,Sightseeing,72597,West Bengal
+Wildlife Trip,French Colony,Jungle Lodge,Winter,9,Safari,72597,Puducherry
+Adventure Trip,Forest,Heritage Hotel,Winter,3,Trekking,72597,Maharashtra
+Family Trip,Temple Town,Ashram Accommodation,Spring,5,Toy Train Ride,72597,Maharashtra
+Wildlife Trip,Backwaters,Houseboat,Summer,2,Safari,72597,Kerala
+Pilgrimage Trip,City,Ashram Accommodation,Summer,5,Religious visit,72597,Uttar Pradesh
+Family Trip,Hills,Beachfront Resort,Winter,8,Relaxation,72597,West Bengal
+Family Trip,French Colony,Heritage Hotel,Monsoon,7,Heritage Walk,72597,Puducherry
+Honeymoon Trip,Temples,Houseboat,Autumn,10,Ayurvedic Spa,72597,Madhya Pradesh
+Solo Trip,Backwaters,Beachfront Villa,Autumn,2,Trekking,72597,Kerala
+Wildlife Trip,Mountains,Houseboat,Winter,6,Safari,72597,Himachal Pradesh
+Pilgrimage Trip,Forest,Houseboat,Monsoon,5,Religious visit,72597,Madhya Pradesh
+Family Trip,Mountains,Luxury Hotel,Autumn,9,Toy Train Ride,72597,Himachal Pradesh
+Pilgrimage Trip,Hills,Heritage Hotel,Autumn,6,Religious visit,72597,Kerala
+Pilgrimage Trip,Mountains,Houseboat,Monsoon,7,Religious visit,72597,Himachal Pradesh
+Family Trip,Backwaters,Houseboat,Autumn,3,Heritage Walk,72597,Kerala
+Group Trip,Forest,Houseboat,Monsoon,4,Sightseeing,72597,Madhya Pradesh
+Romantic Getaway,Backwaters,Homestay,Summer,5,Relaxation,72597,Kerala
+Romantic Getaway,Hills,Hostel Dorm,Summer,9,Honeymoon Cruise,72597,West Bengal
+Honeymoon Trip,Hills,Ashram Accommodation,Autumn,3,Ayurvedic Spa,72597,West Bengal
+Group Trip,Royal Palaces,Hostel Dorm,Monsoon,2,Sightseeing,72597,Rajasthan
+Backpacking Trip,Mountains,Luxury Hotel,Winter,6,Trekking,72597,Jammu and Kashmir
+Group Trip,Islands,Houseboat,Spring,9,Relaxation,72597,Andaman & Nicobar Islands
+Adventure Trip,Mountains,Luxury Hotel,Summer,10,Trekking,72597,Himachal Pradesh
+Family Trip,Forest,Beachfront Villa,Monsoon,3,Sightseeing,72597,Maharashtra
+Family Trip,Backwaters,Beachfront Resort,Autumn,10,Ayurvedic Spa,72597,Kerala
+Solo Trip,Islands,Hostel Dorm,Autumn,6,Skiing,72597,Andaman & Nicobar Islands
+Family Trip,Mountains,Camping,Spring,3,Heritage Walk,72597,Uttarakhand
+Cultural Trip,Backwaters,Beachfront Villa,Winter,9,Temple hopping,72597,Kerala
+Romantic Getaway,Backwaters,Ashram Accommodation,Spring,10,Scuba Diving,72597,Kerala
+Adventure Trip,Forest,Houseboat,Winter,5,White Water Rafting,72597,Madhya Pradesh
+Cultural Trip,Beach,Beachfront Villa,Autumn,8,Temple hopping,72597,Goa
+Cultural Trip,Backwaters,Jungle Lodge,Summer,5,Temple hopping,72597,Kerala
+Cultural Trip,Forest,Beachfront Resort,Winter,6,Temple hopping,72597,Maharashtra
+Wildlife Trip,Mountains,Houseboat,Winter,8,Safari,72597,Ladakh
+Cultural Trip,Mountains,Jungle Lodge,Monsoon,3,Temple hopping,72597,Ladakh
+Wildlife Trip,Hills,Hostel Dorm,Winter,7,Safari,72597,West Bengal
+Cultural Trip,Deserts,Jungle Lodge,Spring,4,Temple hopping,72597,Rajasthan
+Adventure Trip,Temples,Heritage Hotel,Autumn,10,Motorcycling,72597,Madhya Pradesh
+Adventure Trip,Royal Palaces,Heritage Hotel,Summer,5,White Water Rafting,72597,Rajasthan
+Family Trip,Mountains,Ashram Accommodation,Autumn,9,Heritage Walk,72597,Uttarakhand
+Solo Trip,Forest,Camping,Autumn,10,Skiing,72597,Madhya Pradesh
+Honeymoon Trip,Royal Palaces,Homestay,Winter,4,Sightseeing,72597,Rajasthan
+Pilgrimage Trip,Backwaters,Beachfront Resort,Spring,2,Religious visit,72597,Kerala
+Backpacking Trip,City,Ashram Accommodation,Monsoon,7,Trekking,72597,Uttar Pradesh
+Solo Trip,Temples,Luxury Hotel,Winter,9,Relaxation,72597,Madhya Pradesh
+Family Trip,Forest,Beachfront Villa,Autumn,5,Toy Train Ride,72597,Maharashtra
+Cultural Trip,Temple Town,Jungle Lodge,Summer,10,Heritage Walk,72597,Maharashtra
+Group Trip,Backwaters,Heritage Hotel,Summer,4,Heritage Walk,72597,Kerala
+Solo Trip,Religious Town,Heritage Hotel,Winter,7,Trekking,72597,Uttar Pradesh
+Romantic Getaway,Temple Town,Hostel Dorm,Monsoon,5,Relaxation,72597,Maharashtra
+Cultural Trip,Mountains,Hostel Dorm,Autumn,3,Temple hopping,72597,Ladakh
+Family Trip,Hills,Heritage Hotel,Autumn,7,Heritage Walk,72597,West Bengal
+Solo Trip,French Colony,Beachfront Villa,Monsoon,7,Skiing,72597,Puducherry
+Backpacking Trip,Hills,Hostel Dorm,Autumn,6,Trekking,72597,West Bengal
+Solo Trip,Temples,Ashram Accommodation,Spring,7,Motorcycling,72597,Madhya Pradesh
+Solo Trip,Religious Town,Hostel Dorm,Autumn,7,Motorcycling,72597,Uttar Pradesh
+Adventure Trip,Mountains,Hostel Dorm,Summer,10,Camping,72597,Uttarakhand
+Honeymoon Trip,Mountains,Hostel Dorm,Spring,8,Scuba Diving,72597,Jammu and Kashmir
+Honeymoon Trip,Forest,Homestay,Monsoon,5,Sightseeing,72597,Madhya Pradesh
+Group Trip,Mountains,Houseboat,Autumn,3,Temple hopping,72597,Himachal Pradesh
+Solo Trip,Mountains,Camping,Monsoon,10,Motorcycling,72597,Uttarakhand
+Cultural Trip,Forest,Hostel Dorm,Summer,7,Temple hopping,72597,Madhya Pradesh
+Pilgrimage Trip,City,Beachfront Resort,Spring,6,Religious visit,72597,Uttar Pradesh
+Honeymoon Trip,City,Ashram Accommodation,Spring,5,Ayurvedic Spa,72597,Uttar Pradesh
+Solo Trip,Backwaters,Heritage Hotel,Monsoon,8,Relaxation,72597,Kerala
+Wildlife Trip,Forest,Heritage Hotel,Autumn,6,Safari,72597,Maharashtra
+Adventure Trip,Desert,Luxury Hotel,Autumn,2,Motorcycling,72597,Ladakh
+Honeymoon Trip,French Colony,Heritage Hotel,Spring,6,Ayurvedic Spa,72597,Puducherry
+Solo Trip,Temples,Hostel Dorm,Winter,3,Relaxation,72597,Madhya Pradesh
+Romantic Getaway,Backwaters,Camping,Monsoon,2,Scuba Diving,72597,Kerala
+Family Trip,Desert,Ashram Accommodation,Autumn,10,Ayurvedic Spa,72597,Ladakh
+Romantic Getaway,Mountains,Jungle Lodge,Monsoon,3,Relaxation,72597,Himachal Pradesh
+Backpacking Trip,Backwaters,Camping,Autumn,3,Heritage Walk,72597,Kerala
+Honeymoon Trip,Forest,Camping,Autumn,5,Ayurvedic Spa,72597,Maharashtra
+Group Trip,Mountains,Luxury Hotel,Summer,6,Toy Train Ride,72597,Himachal Pradesh
+Cultural Trip,Deserts,Hostel Dorm,Spring,7,Heritage Walk,72597,Rajasthan
+Honeymoon Trip,Temples,Ashram Accommodation,Summer,4,Relaxation,72597,Madhya Pradesh
+Family Trip,Mountains,Heritage Hotel,Winter,4,Relaxation,72597,Uttarakhand
+Group Trip,Forest,Beachfront Villa,Winter,2,Sightseeing,72597,Maharashtra
+Group Trip,Religious Town,Hostel Dorm,Winter,9,Heritage Walk,72597,Uttar Pradesh
+Pilgrimage Trip,Mountains,Jungle Lodge,Summer,10,Religious visit,72597,Jammu and Kashmir
+Adventure Trip,Hills,Beachfront Villa,Summer,10,White Water Rafting,72597,Kerala
+Backpacking Trip,Hills,Beachfront Villa,Winter,9,Camping,72597,Kerala
+Romantic Getaway,Forest,Hostel Dorm,Spring,4,Relaxation,72597,Maharashtra
+Backpacking Trip,Mountains,Camping,Spring,7,Heritage Walk,72597,Jammu and Kashmir
+Family Trip,Beach,Camping,Autumn,6,Ayurvedic Spa,72597,Goa
+Backpacking Trip,Mountains,Heritage Hotel,Autumn,4,Motorcycling,72597,Himachal Pradesh
+Romantic Getaway,Backwaters,Houseboat,Monsoon,10,Relaxation,72597,Kerala
+Honeymoon Trip,Backwaters,Hostel Dorm,Winter,2,Sightseeing,72597,Kerala
+Family Trip,Desert,Jungle Lodge,Autumn,6,Sightseeing,72597,Ladakh
+Romantic Getaway,Hills,Luxury Hotel,Winter,2,Honeymoon Cruise,72597,West Bengal
+Backpacking Trip,Mountains,Hostel Dorm,Summer,3,Trekking,72597,Jammu and Kashmir
+Honeymoon Trip,Mountains,Beachfront Resort,Spring,3,Sightseeing,72597,Himachal Pradesh
+Solo Trip,Mountains,Jungle Lodge,Summer,4,Skiing,72597,Himachal Pradesh
+Honeymoon Trip,Temple Town,Beachfront Villa,Autumn,4,Sightseeing,72597,Maharashtra
+Pilgrimage Trip,French Colony,Jungle Lodge,Autumn,5,Religious visit,72597,Puducherry
+Honeymoon Trip,Mountains,Jungle Lodge,Monsoon,7,Honeymoon Cruise,72597,Himachal Pradesh
+Romantic Getaway,Desert,Houseboat,Spring,8,Honeymoon Cruise,72597,Ladakh
+Group Trip,Beach,Houseboat,Winter,6,Relaxation,72597,Goa
+Cultural Trip,French Colony,Heritage Hotel,Winter,4,Temple hopping,72597,Puducherry
+Pilgrimage Trip,Hills,Houseboat,Monsoon,9,Religious visit,72597,West Bengal
+Honeymoon Trip,Hills,Homestay,Autumn,4,Scuba Diving,72597,West Bengal
+Honeymoon Trip,Hills,Camping,Winter,7,Ayurvedic Spa,72597,West Bengal
+Solo Trip,Religious Town,Ashram Accommodation,Monsoon,6,Skiing,72597,Uttar Pradesh
+Wildlife Trip,City,Luxury Hotel,Spring,4,Safari,72597,Uttar Pradesh
+Group Trip,Royal Palaces,Luxury Hotel,Summer,3,Relaxation,72597,Rajasthan
+Backpacking Trip,Religious Town,Heritage Hotel,Spring,9,Trekking,72597,Uttar Pradesh
+Solo Trip,Royal Palaces,Homestay,Autumn,9,Scuba Diving,72597,Rajasthan
+Adventure Trip,Backwaters,Heritage Hotel,Autumn,2,Camping,72597,Kerala
+Honeymoon Trip,Religious Town,Houseboat,Autumn,8,Honeymoon Cruise,72597,Uttar Pradesh
+Solo Trip,Deserts,Camping,Winter,4,Scuba Diving,72597,Rajasthan
+Family Trip,Temple Town,Beachfront Villa,Autumn,2,Relaxation,72597,Maharashtra
+Wildlife Trip,Forest,Hostel Dorm,Autumn,2,Safari,72597,Maharashtra
+Backpacking Trip,Mountains,Houseboat,Summer,5,Camping,72597,Jammu and Kashmir
+Solo Trip,Mountains,Houseboat,Spring,9,Relaxation,72597,Ladakh
+Backpacking Trip,Backwaters,Camping,Monsoon,10,Heritage Walk,72597,Kerala
+Romantic Getaway,Mountains,Ashram Accommodation,Winter,9,Honeymoon Cruise,72597,Uttarakhand
+Adventure Trip,Beach,Houseboat,Monsoon,8,Trekking,72597,Andaman & Nicobar Islands
+Solo Trip,French Colony,Jungle Lodge,Spring,7,Motorcycling,72597,Puducherry
+Cultural Trip,Temples,Beachfront Resort,Spring,2,Heritage Walk,72597,Madhya Pradesh
+Cultural Trip,Backwaters,Hostel Dorm,Monsoon,7,Temple hopping,72597,Kerala
+Backpacking Trip,Religious Town,Jungle Lodge,Monsoon,2,Trekking,72597,Uttar Pradesh
+Pilgrimage Trip,French Colony,Heritage Hotel,Spring,5,Religious visit,72597,Puducherry
+Adventure Trip,Religious Town,Luxury Hotel,Winter,3,Camping,72597,Uttar Pradesh
+Solo Trip,Religious Town,Heritage Hotel,Winter,7,Relaxation,72597,Uttar Pradesh
+Cultural Trip,Islands,Jungle Lodge,Monsoon,4,Heritage Walk,72597,Andaman & Nicobar Islands
+Adventure Trip,Royal Palaces,Ashram Accommodation,Summer,3,Trekking,72597,Rajasthan
+Honeymoon Trip,Forest,Camping,Spring,4,Honeymoon Cruise,72597,Maharashtra
+Honeymoon Trip,Backwaters,Homestay,Monsoon,8,Scuba Diving,72597,Kerala
+Honeymoon Trip,French Colony,Homestay,Winter,10,Scuba Diving,72597,Puducherry
+Family Trip,Mountains,Homestay,Spring,5,Relaxation,72597,Jammu and Kashmir
+Solo Trip,Mountains,Camping,Winter,4,Motorcycling,72597,Uttarakhand
+Romantic Getaway,Backwaters,Heritage Hotel,Autumn,10,Ayurvedic Spa,72597,Kerala
+Adventure Trip,Beach,Ashram Accommodation,Winter,5,Scuba Diving,72597,Goa
+Family Trip,Mountains,Beachfront Resort,Spring,10,Heritage Walk,72597,Jammu and Kashmir
+Backpacking Trip,Mountains,Ashram Accommodation,Winter,7,Trekking,72597,Jammu and Kashmir
+Adventure Trip,Deserts,Beachfront Resort,Monsoon,5,Camping,72597,Rajasthan
+Solo Trip,Hills,Ashram Accommodation,Monsoon,9,Skiing,72597,Kerala
+Backpacking Trip,Temple Town,Ashram Accommodation,Winter,8,Camping,72597,Maharashtra
+Solo Trip,Mountains,Heritage Hotel,Summer,7,Scuba Diving,72597,Uttarakhand
+Pilgrimage Trip,Hills,Beachfront Villa,Summer,9,Religious visit,72597,Kerala
+Adventure Trip,Desert,Luxury Hotel,Spring,3,Trekking,72597,Ladakh
+Adventure Trip,Beach,Camping,Summer,8,Scuba Diving,72597,Goa
+Group Trip,Temple Town,Ashram Accommodation,Autumn,6,Relaxation,72597,Maharashtra
+Backpacking Trip,Religious Town,Jungle Lodge,Autumn,7,Heritage Walk,72597,Uttar Pradesh
+Backpacking Trip,Temples,Camping,Monsoon,3,Camping,72597,Madhya Pradesh
+Honeymoon Trip,French Colony,Jungle Lodge,Winter,8,Sightseeing,72597,Puducherry
+Family Trip,Mountains,Luxury Hotel,Winter,7,Heritage Walk,72597,Ladakh
+Adventure Trip,Islands,Ashram Accommodation,Winter,4,White Water Rafting,72597,Andaman & Nicobar Islands
+Group Trip,Forest,Luxury Hotel,Monsoon,8,Temple hopping,72597,Madhya Pradesh
+Pilgrimage Trip,Religious Town,Camping,Winter,2,Religious visit,72597,Uttar Pradesh
+Backpacking Trip,Beach,Jungle Lodge,Summer,4,Heritage Walk,72597,Goa
+Group Trip,French Colony,Beachfront Villa,Spring,8,Sightseeing,72597,Puducherry
+Wildlife Trip,Beach,Jungle Lodge,Autumn,4,Safari,72597,Andaman & Nicobar Islands
+Adventure Trip,Backwaters,Beachfront Resort,Monsoon,4,White Water Rafting,72597,Kerala
+Honeymoon Trip,Temples,Jungle Lodge,Summer,7,Ayurvedic Spa,72597,Madhya Pradesh
+Pilgrimage Trip,Beach,Hostel Dorm,Monsoon,8,Religious visit,72597,Goa
+Pilgrimage Trip,Forest,Hostel Dorm,Spring,7,Religious visit,72597,Maharashtra
+Backpacking Trip,Forest,Beachfront Villa,Winter,2,Trekking,72597,Madhya Pradesh
+Family Trip,City,Heritage Hotel,Winter,5,Toy Train Ride,72597,Uttar Pradesh
+Wildlife Trip,French Colony,Heritage Hotel,Winter,10,Safari,72597,Puducherry
+Solo Trip,Mountains,Luxury Hotel,Summer,5,Skiing,72597,Uttarakhand
+Family Trip,Mountains,Houseboat,Spring,3,Ayurvedic Spa,72597,Himachal Pradesh
+Solo Trip,Hills,Heritage Hotel,Winter,7,Scuba Diving,72597,Kerala
+Backpacking Trip,Forest,Luxury Hotel,Summer,9,Heritage Walk,72597,Maharashtra
+Solo Trip,Mountains,Beachfront Villa,Winter,4,Motorcycling,72597,Uttarakhand
+Romantic Getaway,Deserts,Luxury Hotel,Monsoon,6,Scuba Diving,72597,Rajasthan
+Backpacking Trip,Mountains,Luxury Hotel,Spring,5,Motorcycling,72597,Ladakh
+Wildlife Trip,Backwaters,Beachfront Villa,Summer,8,Safari,72597,Kerala
+Adventure Trip,Mountains,Beachfront Villa,Autumn,8,Scuba Diving,72597,Jammu and Kashmir
+Backpacking Trip,Forest,Homestay,Monsoon,7,Motorcycling,72597,Maharashtra
+Wildlife Trip,Royal Palaces,Beachfront Resort,Autumn,9,Safari,72597,Rajasthan
+Wildlife Trip,Temple Town,Camping,Spring,3,Safari,72597,Maharashtra
+Honeymoon Trip,Religious Town,Beachfront Resort,Spring,6,Scuba Diving,72597,Uttar Pradesh
+Honeymoon Trip,Religious Town,Beachfront Villa,Winter,3,Relaxation,72597,Uttar Pradesh
+Romantic Getaway,Mountains,Camping,Autumn,5,Honeymoon Cruise,72597,Jammu and Kashmir
+Wildlife Trip,French Colony,Houseboat,Summer,7,Safari,72597,Puducherry
+Pilgrimage Trip,Backwaters,Houseboat,Autumn,10,Religious visit,72597,Kerala
+Honeymoon Trip,Temples,Beachfront Villa,Spring,2,Relaxation,72597,Madhya Pradesh
+Family Trip,Religious Town,Heritage Hotel,Summer,4,Toy Train Ride,72597,Uttar Pradesh
+Honeymoon Trip,Mountains,Houseboat,Summer,10,Scuba Diving,72597,Ladakh
+Cultural Trip,Backwaters,Camping,Spring,4,Heritage Walk,72597,Kerala
+Pilgrimage Trip,Religious Town,Hostel Dorm,Spring,2,Religious visit,72597,Uttar Pradesh
+Cultural Trip,Beach,Beachfront Resort,Autumn,9,Heritage Walk,72597,Goa
+Honeymoon Trip,Forest,Heritage Hotel,Autumn,10,Relaxation,72597,Maharashtra
+Adventure Trip,Beach,Houseboat,Spring,2,Motorcycling,72597,Andaman & Nicobar Islands
+Backpacking Trip,Temple Town,Heritage Hotel,Summer,3,Camping,72597,Maharashtra
+Wildlife Trip,Beach,Luxury Hotel,Autumn,4,Safari,72597,Goa
+Backpacking Trip,Backwaters,Houseboat,Spring,5,Trekking,72597,Kerala
+Adventure Trip,City,Heritage Hotel,Winter,5,Trekking,72597,Uttar Pradesh
+Group Trip,City,Camping,Summer,5,Relaxation,72597,Uttar Pradesh
+Backpacking Trip,Mountains,Beachfront Resort,Summer,9,Motorcycling,72597,Himachal Pradesh
+Adventure Trip,Backwaters,Heritage Hotel,Monsoon,2,Motorcycling,72597,Kerala
+Wildlife Trip,Backwaters,Beachfront Villa,Monsoon,7,Safari,72597,Kerala
+Group Trip,Forest,Beachfront Resort,Autumn,4,Relaxation,72597,Maharashtra
+Wildlife Trip,Hills,Heritage Hotel,Monsoon,8,Safari,72597,Kerala
+Adventure Trip,Temples,Ashram Accommodation,Spring,7,Camping,72597,Madhya Pradesh
+Cultural Trip,Royal Palaces,Beachfront Villa,Spring,10,Temple hopping,72597,Rajasthan
+Honeymoon Trip,Temples,Camping,Monsoon,4,Ayurvedic Spa,72597,Madhya Pradesh
+Backpacking Trip,Royal Palaces,Hostel Dorm,Autumn,6,Motorcycling,72597,Rajasthan
+Backpacking Trip,Mountains,Luxury Hotel,Autumn,6,Motorcycling,72597,Himachal Pradesh
+Cultural Trip,Backwaters,Beachfront Villa,Summer,10,Temple hopping,72597,Kerala
+Wildlife Trip,Mountains,Beachfront Villa,Spring,5,Safari,72597,Ladakh
+Wildlife Trip,Hills,Ashram Accommodation,Summer,4,Safari,72597,Kerala
+Romantic Getaway,Islands,Homestay,Summer,6,Scuba Diving,72597,Andaman & Nicobar Islands
+Group Trip,French Colony,Hostel Dorm,Winter,7,Heritage Walk,72597,Puducherry
+Cultural Trip,Backwaters,Homestay,Spring,2,Heritage Walk,72597,Kerala
+Solo Trip,Forest,Camping,Spring,7,Scuba Diving,72597,Maharashtra
+Honeymoon Trip,City,Hostel Dorm,Monsoon,10,Honeymoon Cruise,72597,Uttar Pradesh
+Honeymoon Trip,Mountains,Houseboat,Autumn,10,Honeymoon Cruise,72597,Jammu and Kashmir
+Backpacking Trip,Mountains,Houseboat,Autumn,6,Trekking,72597,Himachal Pradesh
+Group Trip,Temples,Camping,Summer,3,Sightseeing,72597,Madhya Pradesh
+Romantic Getaway,Mountains,Luxury Hotel,Autumn,3,Scuba Diving,72597,Himachal Pradesh
+Family Trip,Beach,Ashram Accommodation,Winter,4,Toy Train Ride,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Forest,Ashram Accommodation,Autumn,2,Religious visit,72597,Maharashtra
+Wildlife Trip,Mountains,Heritage Hotel,Winter,10,Safari,72597,Ladakh
+Family Trip,Backwaters,Ashram Accommodation,Summer,3,Sightseeing,72597,Kerala
+Backpacking Trip,Beach,Beachfront Villa,Winter,4,Heritage Walk,72597,Goa
+Group Trip,Royal Palaces,Camping,Autumn,3,Heritage Walk,72597,Rajasthan
+Backpacking Trip,Mountains,Beachfront Villa,Autumn,8,Camping,72597,Ladakh
+Adventure Trip,Beach,Beachfront Resort,Autumn,6,White Water Rafting,72597,Andaman & Nicobar Islands
+Group Trip,Hills,Luxury Hotel,Spring,6,Sightseeing,72597,Kerala
+Backpacking Trip,Desert,Houseboat,Winter,4,Heritage Walk,72597,Ladakh
+Backpacking Trip,Royal Palaces,Hostel Dorm,Autumn,2,Trekking,72597,Rajasthan
+Solo Trip,Forest,Homestay,Monsoon,5,Skiing,72597,Maharashtra
+Wildlife Trip,Mountains,Houseboat,Autumn,10,Safari,72597,Himachal Pradesh
+Wildlife Trip,Forest,Camping,Autumn,3,Safari,72597,Maharashtra
+Group Trip,Hills,Houseboat,Monsoon,8,Sightseeing,72597,Kerala
+Backpacking Trip,City,Jungle Lodge,Autumn,9,Trekking,72597,Uttar Pradesh
+Solo Trip,Forest,Heritage Hotel,Autumn,2,Scuba Diving,72597,Madhya Pradesh
+Cultural Trip,Backwaters,Ashram Accommodation,Winter,6,Heritage Walk,72597,Kerala
+Cultural Trip,Temple Town,Homestay,Spring,10,Temple hopping,72597,Maharashtra
+Cultural Trip,French Colony,Houseboat,Spring,2,Heritage Walk,72597,Puducherry
+Solo Trip,Temples,Houseboat,Monsoon,9,Skiing,72597,Madhya Pradesh
+Pilgrimage Trip,Temples,Camping,Autumn,10,Religious visit,72597,Madhya Pradesh
+Solo Trip,Hills,Luxury Hotel,Monsoon,7,Scuba Diving,72597,West Bengal
+Family Trip,Forest,Hostel Dorm,Spring,6,Sightseeing,72597,Madhya Pradesh
+Backpacking Trip,Mountains,Ashram Accommodation,Spring,6,Motorcycling,72597,Himachal Pradesh
+Family Trip,Forest,Heritage Hotel,Summer,6,Heritage Walk,72597,Madhya Pradesh
+Honeymoon Trip,French Colony,Beachfront Villa,Monsoon,9,Relaxation,72597,Puducherry
+Backpacking Trip,Mountains,Jungle Lodge,Winter,2,Motorcycling,72597,Himachal Pradesh
+Wildlife Trip,Religious Town,Ashram Accommodation,Monsoon,6,Safari,72597,Uttar Pradesh
+Cultural Trip,Hills,Hostel Dorm,Spring,8,Heritage Walk,72597,West Bengal
+Cultural Trip,Forest,Houseboat,Monsoon,9,Heritage Walk,72597,Madhya Pradesh
+Honeymoon Trip,Backwaters,Homestay,Spring,9,Relaxation,72597,Kerala
+Group Trip,Backwaters,Hostel Dorm,Summer,2,Temple hopping,72597,Kerala
+Wildlife Trip,Mountains,Hostel Dorm,Spring,8,Safari,72597,Uttarakhand
+Cultural Trip,Deserts,Ashram Accommodation,Autumn,6,Heritage Walk,72597,Rajasthan
+Adventure Trip,Mountains,Jungle Lodge,Summer,10,Trekking,72597,Uttarakhand
+Honeymoon Trip,Mountains,Beachfront Resort,Autumn,6,Ayurvedic Spa,72597,Himachal Pradesh
+Backpacking Trip,Temple Town,Homestay,Winter,8,Heritage Walk,72597,Maharashtra
+Romantic Getaway,Temples,Homestay,Winter,4,Ayurvedic Spa,72597,Madhya Pradesh
+Group Trip,Mountains,Ashram Accommodation,Monsoon,6,Sightseeing,72597,Uttarakhand
+Adventure Trip,City,Camping,Autumn,3,White Water Rafting,72597,Uttar Pradesh
+Solo Trip,Forest,Luxury Hotel,Autumn,9,Scuba Diving,72597,Maharashtra
+Cultural Trip,Mountains,Houseboat,Spring,10,Temple hopping,72597,Himachal Pradesh
+Backpacking Trip,Mountains,Jungle Lodge,Spring,4,Camping,72597,Ladakh
+Wildlife Trip,French Colony,Houseboat,Monsoon,3,Safari,72597,Puducherry
+Backpacking Trip,Hills,Heritage Hotel,Summer,6,Motorcycling,72597,West Bengal
+Honeymoon Trip,Temples,Ashram Accommodation,Winter,7,Honeymoon Cruise,72597,Madhya Pradesh
+Adventure Trip,City,Beachfront Resort,Monsoon,3,Camping,72597,Uttar Pradesh
+Solo Trip,Forest,Luxury Hotel,Summer,10,Motorcycling,72597,Madhya Pradesh
+Honeymoon Trip,Mountains,Houseboat,Monsoon,7,Ayurvedic Spa,72597,Uttarakhand
+Wildlife Trip,Mountains,Beachfront Resort,Autumn,3,Safari,72597,Jammu and Kashmir
+Cultural Trip,French Colony,Heritage Hotel,Monsoon,7,Temple hopping,72597,Puducherry
+Adventure Trip,Hills,Houseboat,Monsoon,9,White Water Rafting,72597,Kerala
+Group Trip,Backwaters,Beachfront Resort,Summer,9,Heritage Walk,72597,Kerala
+Adventure Trip,Royal Palaces,Jungle Lodge,Monsoon,6,White Water Rafting,72597,Rajasthan
+Family Trip,City,Beachfront Resort,Summer,8,Toy Train Ride,72597,Uttar Pradesh
+Family Trip,City,Homestay,Spring,7,Heritage Walk,72597,Uttar Pradesh
+Adventure Trip,Mountains,Luxury Hotel,Winter,3,Scuba Diving,72597,Jammu and Kashmir
+Solo Trip,Temple Town,Beachfront Villa,Summer,5,Skiing,72597,Maharashtra
+Honeymoon Trip,City,Jungle Lodge,Autumn,6,Scuba Diving,72597,Uttar Pradesh
+Honeymoon Trip,Temple Town,Luxury Hotel,Spring,5,Ayurvedic Spa,72597,Maharashtra
+Pilgrimage Trip,Forest,Camping,Summer,9,Religious visit,72597,Maharashtra
+Pilgrimage Trip,Backwaters,Jungle Lodge,Summer,4,Religious visit,72597,Kerala
+Wildlife Trip,Temple Town,Luxury Hotel,Monsoon,3,Safari,72597,Maharashtra
+Wildlife Trip,Forest,Homestay,Autumn,5,Safari,72597,Maharashtra
+Pilgrimage Trip,French Colony,Houseboat,Summer,10,Religious visit,72597,Puducherry
+Adventure Trip,City,Heritage Hotel,Summer,9,White Water Rafting,72597,Uttar Pradesh
+Cultural Trip,Beach,Beachfront Villa,Spring,4,Temple hopping,72597,Goa
+Family Trip,Mountains,Hostel Dorm,Autumn,4,Sightseeing,72597,Jammu and Kashmir
+Solo Trip,French Colony,Homestay,Winter,8,Trekking,72597,Puducherry
+Romantic Getaway,City,Houseboat,Winter,2,Ayurvedic Spa,72597,Uttar Pradesh
+Adventure Trip,Forest,Beachfront Villa,Autumn,3,Scuba Diving,72597,Madhya Pradesh
+Solo Trip,Mountains,Luxury Hotel,Monsoon,6,Scuba Diving,72597,Jammu and Kashmir
+Solo Trip,French Colony,Camping,Winter,8,Scuba Diving,72597,Puducherry
+Backpacking Trip,Temples,Camping,Spring,6,Camping,72597,Madhya Pradesh
+Family Trip,Mountains,Houseboat,Winter,10,Sightseeing,72597,Ladakh
+Honeymoon Trip,Hills,Homestay,Winter,4,Ayurvedic Spa,72597,West Bengal
+Group Trip,Temple Town,Beachfront Villa,Monsoon,9,Temple hopping,72597,Maharashtra
+Pilgrimage Trip,Hills,Ashram Accommodation,Monsoon,4,Religious visit,72597,West Bengal
+Adventure Trip,Desert,Jungle Lodge,Winter,7,Motorcycling,72597,Ladakh
+Romantic Getaway,Mountains,Ashram Accommodation,Monsoon,9,Relaxation,72597,Jammu and Kashmir
+Backpacking Trip,Beach,Hostel Dorm,Monsoon,10,Heritage Walk,72597,Goa
+Romantic Getaway,Beach,Beachfront Resort,Monsoon,7,Relaxation,72597,Goa
+Romantic Getaway,Hills,Homestay,Summer,6,Relaxation,72597,Kerala
+Solo Trip,City,Hostel Dorm,Monsoon,3,Relaxation,72597,Uttar Pradesh
+Adventure Trip,Forest,Luxury Hotel,Monsoon,2,Scuba Diving,72597,Maharashtra
+Wildlife Trip,Temple Town,Hostel Dorm,Spring,4,Safari,72597,Maharashtra
+Honeymoon Trip,Royal Palaces,Hostel Dorm,Monsoon,4,Sightseeing,72597,Rajasthan
+Solo Trip,Forest,Beachfront Villa,Summer,2,Motorcycling,72597,Maharashtra
+Family Trip,Hills,Luxury Hotel,Winter,3,Toy Train Ride,72597,West Bengal
+Adventure Trip,Temple Town,Ashram Accommodation,Autumn,6,Motorcycling,72597,Maharashtra
+Wildlife Trip,Backwaters,Houseboat,Spring,3,Safari,72597,Kerala
+Wildlife Trip,Mountains,Beachfront Resort,Monsoon,2,Safari,72597,Himachal Pradesh
+Backpacking Trip,Forest,Camping,Spring,2,Heritage Walk,72597,Madhya Pradesh
+Cultural Trip,Temples,Beachfront Villa,Spring,5,Temple hopping,72597,Madhya Pradesh
+Pilgrimage Trip,Forest,Hostel Dorm,Summer,6,Religious visit,72597,Madhya Pradesh
+Adventure Trip,City,Hostel Dorm,Spring,10,Motorcycling,72597,Uttar Pradesh
+Adventure Trip,Religious Town,Beachfront Resort,Winter,3,Motorcycling,72597,Uttar Pradesh
+Backpacking Trip,Forest,Hostel Dorm,Monsoon,9,Camping,72597,Madhya Pradesh
+Cultural Trip,Islands,Homestay,Monsoon,7,Heritage Walk,72597,Andaman & Nicobar Islands
+Backpacking Trip,Hills,Beachfront Villa,Summer,10,Trekking,72597,West Bengal
+Backpacking Trip,Religious Town,Luxury Hotel,Autumn,10,Camping,72597,Uttar Pradesh
+Group Trip,Religious Town,Camping,Spring,9,Temple hopping,72597,Uttar Pradesh
+Wildlife Trip,French Colony,Beachfront Villa,Spring,8,Safari,72597,Puducherry
+Backpacking Trip,Mountains,Homestay,Summer,6,Motorcycling,72597,Jammu and Kashmir
+Romantic Getaway,Deserts,Jungle Lodge,Monsoon,2,Honeymoon Cruise,72597,Rajasthan
+Solo Trip,City,Ashram Accommodation,Spring,4,Trekking,72597,Uttar Pradesh
+Backpacking Trip,Forest,Ashram Accommodation,Autumn,5,Trekking,72597,Madhya Pradesh
+Pilgrimage Trip,Forest,Beachfront Villa,Winter,7,Religious visit,72597,Maharashtra
+Family Trip,Deserts,Heritage Hotel,Monsoon,4,Ayurvedic Spa,72597,Rajasthan
+Romantic Getaway,Mountains,Ashram Accommodation,Monsoon,9,Relaxation,72597,Uttarakhand
+Cultural Trip,Backwaters,Beachfront Villa,Winter,2,Temple hopping,72597,Kerala
+Solo Trip,Temples,Houseboat,Autumn,3,Relaxation,72597,Madhya Pradesh
+Group Trip,Royal Palaces,Hostel Dorm,Spring,10,Temple hopping,72597,Rajasthan
+Wildlife Trip,Beach,Jungle Lodge,Monsoon,4,Safari,72597,Andaman & Nicobar Islands
+Adventure Trip,Islands,Heritage Hotel,Monsoon,8,White Water Rafting,72597,Andaman & Nicobar Islands
+Cultural Trip,Backwaters,Luxury Hotel,Autumn,9,Heritage Walk,72597,Kerala
+Honeymoon Trip,Backwaters,Ashram Accommodation,Spring,6,Relaxation,72597,Kerala
+Solo Trip,Temple Town,Houseboat,Monsoon,9,Relaxation,72597,Maharashtra
+Wildlife Trip,Temple Town,Ashram Accommodation,Summer,3,Safari,72597,Maharashtra
+Wildlife Trip,Temples,Ashram Accommodation,Spring,6,Safari,72597,Madhya Pradesh
+Romantic Getaway,Religious Town,Jungle Lodge,Autumn,6,Scuba Diving,72597,Uttar Pradesh
+Pilgrimage Trip,Temples,Beachfront Resort,Winter,2,Religious visit,72597,Madhya Pradesh
+Honeymoon Trip,Mountains,Beachfront Resort,Winter,2,Relaxation,72597,Himachal Pradesh
+Honeymoon Trip,Forest,Homestay,Winter,9,Sightseeing,72597,Maharashtra
+Solo Trip,Forest,Ashram Accommodation,Autumn,3,Skiing,72597,Maharashtra
+Solo Trip,Hills,Jungle Lodge,Monsoon,10,Skiing,72597,West Bengal
+Solo Trip,Mountains,Houseboat,Summer,9,Relaxation,72597,Himachal Pradesh
+Solo Trip,Religious Town,Homestay,Summer,4,Motorcycling,72597,Uttar Pradesh
+Solo Trip,Royal Palaces,Luxury Hotel,Monsoon,6,Scuba Diving,72597,Rajasthan
+Cultural Trip,Desert,Hostel Dorm,Spring,5,Temple hopping,72597,Ladakh
+Solo Trip,Backwaters,Ashram Accommodation,Spring,4,Trekking,72597,Kerala
+Wildlife Trip,Deserts,Beachfront Villa,Winter,2,Safari,72597,Rajasthan
+Wildlife Trip,Beach,Camping,Autumn,5,Safari,72597,Andaman & Nicobar Islands
+Adventure Trip,Beach,Beachfront Villa,Winter,6,Trekking,72597,Goa
+Honeymoon Trip,Backwaters,Houseboat,Autumn,5,Honeymoon Cruise,72597,Kerala
+Backpacking Trip,Mountains,Ashram Accommodation,Summer,3,Trekking,72597,Himachal Pradesh
+Cultural Trip,Hills,Luxury Hotel,Autumn,8,Heritage Walk,72597,West Bengal
+Cultural Trip,Royal Palaces,Hostel Dorm,Spring,8,Temple hopping,72597,Rajasthan
+Solo Trip,Hills,Jungle Lodge,Spring,2,Trekking,72597,Kerala
+Cultural Trip,Beach,Houseboat,Winter,10,Temple hopping,72597,Andaman & Nicobar Islands
+Group Trip,Hills,Heritage Hotel,Monsoon,8,Relaxation,72597,Kerala
+Cultural Trip,Mountains,Heritage Hotel,Summer,4,Heritage Walk,72597,Jammu and Kashmir
+Backpacking Trip,Backwaters,Jungle Lodge,Winter,8,Camping,72597,Kerala
+Romantic Getaway,Beach,Houseboat,Monsoon,8,Relaxation,72597,Goa
+Wildlife Trip,Mountains,Luxury Hotel,Monsoon,8,Safari,72597,Uttarakhand
+Cultural Trip,Religious Town,Hostel Dorm,Autumn,6,Heritage Walk,72597,Uttar Pradesh
+Romantic Getaway,Mountains,Beachfront Resort,Spring,5,Honeymoon Cruise,72597,Jammu and Kashmir
+Honeymoon Trip,Mountains,Beachfront Villa,Summer,8,Ayurvedic Spa,72597,Himachal Pradesh
+Pilgrimage Trip,Mountains,Heritage Hotel,Summer,7,Religious visit,72597,Jammu and Kashmir
+Solo Trip,Mountains,Luxury Hotel,Summer,3,Scuba Diving,72597,Uttarakhand
+Backpacking Trip,Mountains,Beachfront Villa,Autumn,8,Camping,72597,Jammu and Kashmir
+Solo Trip,Mountains,Hostel Dorm,Winter,2,Skiing,72597,Himachal Pradesh
+Romantic Getaway,Beach,Beachfront Villa,Summer,6,Honeymoon Cruise,72597,Goa
+Group Trip,French Colony,Heritage Hotel,Monsoon,9,Toy Train Ride,72597,Puducherry
+Pilgrimage Trip,Hills,Hostel Dorm,Autumn,8,Religious visit,72597,West Bengal
+Honeymoon Trip,French Colony,Heritage Hotel,Summer,7,Honeymoon Cruise,72597,Puducherry
+Pilgrimage Trip,Backwaters,Camping,Autumn,3,Religious visit,72597,Kerala
+Backpacking Trip,Mountains,Camping,Monsoon,8,Motorcycling,72597,Himachal Pradesh
+Pilgrimage Trip,Backwaters,Beachfront Resort,Spring,2,Religious visit,72597,Kerala
+Solo Trip,Temple Town,Heritage Hotel,Spring,3,Skiing,72597,Maharashtra
+Solo Trip,Beach,Camping,Autumn,8,Skiing,72597,Goa
+Cultural Trip,Temples,Luxury Hotel,Monsoon,10,Heritage Walk,72597,Madhya Pradesh
+Adventure Trip,Hills,Beachfront Resort,Spring,5,Scuba Diving,72597,Kerala
+Wildlife Trip,Beach,Beachfront Villa,Spring,6,Safari,72597,Goa
+Family Trip,Hills,Homestay,Spring,3,Sightseeing,72597,Kerala
+Group Trip,Mountains,Ashram Accommodation,Monsoon,10,Sightseeing,72597,Jammu and Kashmir
+Adventure Trip,Backwaters,Jungle Lodge,Winter,2,Motorcycling,72597,Kerala
+Cultural Trip,Backwaters,Jungle Lodge,Winter,4,Heritage Walk,72597,Kerala
+Backpacking Trip,Temple Town,Beachfront Resort,Monsoon,2,Motorcycling,72597,Maharashtra
+Romantic Getaway,Backwaters,Hostel Dorm,Monsoon,7,Relaxation,72597,Kerala
+Solo Trip,Forest,Beachfront Villa,Spring,7,Skiing,72597,Maharashtra
+Romantic Getaway,Royal Palaces,Hostel Dorm,Spring,4,Scuba Diving,72597,Rajasthan
+Honeymoon Trip,Backwaters,Luxury Hotel,Autumn,10,Honeymoon Cruise,72597,Kerala
+Wildlife Trip,Mountains,Jungle Lodge,Summer,5,Safari,72597,Himachal Pradesh
+Honeymoon Trip,French Colony,Luxury Hotel,Winter,6,Sightseeing,72597,Puducherry
+Romantic Getaway,City,Homestay,Autumn,3,Ayurvedic Spa,72597,Uttar Pradesh
+Cultural Trip,Backwaters,Heritage Hotel,Monsoon,8,Temple hopping,72597,Kerala
+Cultural Trip,Mountains,Camping,Spring,2,Temple hopping,72597,Jammu and Kashmir
+Group Trip,Beach,Jungle Lodge,Autumn,8,Temple hopping,72597,Goa
+Backpacking Trip,Temples,Houseboat,Spring,7,Motorcycling,72597,Madhya Pradesh
+Honeymoon Trip,Forest,Hostel Dorm,Winter,6,Relaxation,72597,Madhya Pradesh
+Pilgrimage Trip,French Colony,Heritage Hotel,Monsoon,3,Religious visit,72597,Puducherry
+Group Trip,Forest,Jungle Lodge,Summer,6,Heritage Walk,72597,Madhya Pradesh
+Wildlife Trip,French Colony,Jungle Lodge,Winter,6,Safari,72597,Puducherry
+Backpacking Trip,Backwaters,Jungle Lodge,Monsoon,9,Trekking,72597,Kerala
+Solo Trip,Backwaters,Luxury Hotel,Spring,7,Relaxation,72597,Kerala
+Honeymoon Trip,Backwaters,Ashram Accommodation,Summer,10,Scuba Diving,72597,Kerala
+Group Trip,Deserts,Luxury Hotel,Autumn,7,Relaxation,72597,Rajasthan
+Cultural Trip,Temples,Beachfront Resort,Monsoon,9,Temple hopping,72597,Madhya Pradesh
+Solo Trip,Temple Town,Jungle Lodge,Winter,10,Scuba Diving,72597,Maharashtra
+Romantic Getaway,Backwaters,Ashram Accommodation,Winter,9,Ayurvedic Spa,72597,Kerala
+Cultural Trip,Islands,Camping,Autumn,8,Temple hopping,72597,Andaman & Nicobar Islands
+Romantic Getaway,Desert,Homestay,Winter,10,Relaxation,72597,Ladakh
+Wildlife Trip,Mountains,Jungle Lodge,Monsoon,6,Safari,72597,Uttarakhand
+Pilgrimage Trip,Mountains,Beachfront Resort,Winter,9,Religious visit,72597,Himachal Pradesh
+Family Trip,Mountains,Ashram Accommodation,Summer,6,Sightseeing,72597,Uttarakhand
+Romantic Getaway,Forest,Hostel Dorm,Monsoon,6,Ayurvedic Spa,72597,Maharashtra
+Pilgrimage Trip,Forest,Houseboat,Summer,5,Religious visit,72597,Madhya Pradesh
+Adventure Trip,Desert,Beachfront Villa,Monsoon,9,Camping,72597,Ladakh
+Family Trip,Backwaters,Luxury Hotel,Summer,10,Heritage Walk,72597,Kerala
+Adventure Trip,Mountains,Homestay,Autumn,3,White Water Rafting,72597,Uttarakhand
+Family Trip,Temples,Luxury Hotel,Summer,2,Heritage Walk,72597,Madhya Pradesh
+Family Trip,Mountains,Jungle Lodge,Summer,7,Toy Train Ride,72597,Himachal Pradesh
+Cultural Trip,French Colony,Luxury Hotel,Spring,7,Heritage Walk,72597,Puducherry
+Honeymoon Trip,Mountains,Luxury Hotel,Autumn,6,Honeymoon Cruise,72597,Jammu and Kashmir
+Solo Trip,Forest,Homestay,Autumn,5,Motorcycling,72597,Madhya Pradesh
+Backpacking Trip,Forest,Camping,Summer,7,Motorcycling,72597,Maharashtra
+Pilgrimage Trip,Hills,Luxury Hotel,Spring,7,Religious visit,72597,Kerala
+Group Trip,City,Hostel Dorm,Spring,10,Sightseeing,72597,Uttar Pradesh
+Backpacking Trip,Beach,Houseboat,Winter,6,Heritage Walk,72597,Andaman & Nicobar Islands
+Honeymoon Trip,Religious Town,Jungle Lodge,Spring,9,Relaxation,72597,Uttar Pradesh
+Pilgrimage Trip,Forest,Luxury Hotel,Monsoon,4,Religious visit,72597,Maharashtra
+Wildlife Trip,City,Jungle Lodge,Autumn,6,Safari,72597,Uttar Pradesh
+Romantic Getaway,Forest,Jungle Lodge,Monsoon,10,Ayurvedic Spa,72597,Madhya Pradesh
+Family Trip,Royal Palaces,Camping,Winter,2,Ayurvedic Spa,72597,Rajasthan
+Cultural Trip,Hills,Heritage Hotel,Summer,6,Heritage Walk,72597,Kerala
+Wildlife Trip,Islands,Luxury Hotel,Winter,7,Safari,72597,Andaman & Nicobar Islands
+Adventure Trip,Hills,Luxury Hotel,Spring,5,Camping,72597,West Bengal
+Romantic Getaway,Mountains,Camping,Winter,10,Relaxation,72597,Himachal Pradesh
+Romantic Getaway,Royal Palaces,Ashram Accommodation,Summer,8,Honeymoon Cruise,72597,Rajasthan
+Solo Trip,Mountains,Hostel Dorm,Autumn,6,Skiing,72597,Uttarakhand
+Solo Trip,Forest,Jungle Lodge,Spring,10,Relaxation,72597,Madhya Pradesh
+Honeymoon Trip,Temples,Homestay,Autumn,2,Sightseeing,72597,Madhya Pradesh
+Honeymoon Trip,Mountains,Houseboat,Spring,4,Relaxation,72597,Himachal Pradesh
+Cultural Trip,City,Homestay,Spring,7,Heritage Walk,72597,Uttar Pradesh
+Cultural Trip,Mountains,Houseboat,Winter,9,Temple hopping,72597,Jammu and Kashmir
+Pilgrimage Trip,Backwaters,Jungle Lodge,Autumn,3,Religious visit,72597,Kerala
+Pilgrimage Trip,Religious Town,Luxury Hotel,Spring,6,Religious visit,72597,Uttar Pradesh
+Backpacking Trip,Deserts,Beachfront Resort,Spring,8,Trekking,72597,Rajasthan
+Group Trip,Mountains,Beachfront Resort,Spring,8,Sightseeing,72597,Himachal Pradesh
+Wildlife Trip,Forest,Jungle Lodge,Autumn,8,Safari,72597,Maharashtra
+Cultural Trip,Hills,Beachfront Resort,Summer,6,Temple hopping,72597,Kerala
+Romantic Getaway,Desert,Houseboat,Winter,4,Relaxation,72597,Ladakh
+Adventure Trip,Hills,Heritage Hotel,Spring,8,Scuba Diving,72597,Kerala
+Family Trip,Mountains,Luxury Hotel,Spring,7,Ayurvedic Spa,72597,Himachal Pradesh
+Cultural Trip,French Colony,Homestay,Winter,6,Temple hopping,72597,Puducherry
+Group Trip,Mountains,Homestay,Spring,4,Sightseeing,72597,Uttarakhand
+Wildlife Trip,Backwaters,Beachfront Resort,Spring,10,Safari,72597,Kerala
+Family Trip,Mountains,Camping,Autumn,6,Ayurvedic Spa,72597,Himachal Pradesh
+Family Trip,Mountains,Hostel Dorm,Autumn,10,Ayurvedic Spa,72597,Jammu and Kashmir
+Honeymoon Trip,Temples,Heritage Hotel,Summer,10,Honeymoon Cruise,72597,Madhya Pradesh
+Pilgrimage Trip,Mountains,Ashram Accommodation,Winter,5,Religious visit,72597,Himachal Pradesh
+Honeymoon Trip,Religious Town,Homestay,Spring,9,Ayurvedic Spa,72597,Uttar Pradesh
+Cultural Trip,Deserts,Heritage Hotel,Summer,7,Temple hopping,72597,Rajasthan
+Group Trip,Forest,Ashram Accommodation,Summer,6,Relaxation,72597,Maharashtra
+Wildlife Trip,City,Hostel Dorm,Spring,3,Safari,72597,Uttar Pradesh
+Group Trip,Mountains,Beachfront Resort,Spring,5,Toy Train Ride,72597,Himachal Pradesh
+Solo Trip,Temple Town,Houseboat,Monsoon,10,Skiing,72597,Maharashtra
+Adventure Trip,Mountains,Heritage Hotel,Summer,9,Camping,72597,Jammu and Kashmir
+Group Trip,Mountains,Camping,Spring,10,Relaxation,72597,Ladakh
+Romantic Getaway,City,Beachfront Resort,Spring,9,Honeymoon Cruise,72597,Uttar Pradesh
+Backpacking Trip,Beach,Hostel Dorm,Spring,9,Camping,72597,Goa
+Adventure Trip,Mountains,Beachfront Resort,Monsoon,10,Trekking,72597,Uttarakhand
+Solo Trip,Beach,Luxury Hotel,Winter,6,Relaxation,72597,Goa
+Family Trip,Temples,Camping,Monsoon,6,Relaxation,72597,Madhya Pradesh
+Family Trip,Desert,Beachfront Villa,Winter,4,Heritage Walk,72597,Ladakh
+Romantic Getaway,Temples,Beachfront Villa,Winter,5,Honeymoon Cruise,72597,Madhya Pradesh
+Family Trip,Temple Town,Camping,Summer,2,Toy Train Ride,72597,Maharashtra
+Family Trip,Mountains,Jungle Lodge,Summer,4,Sightseeing,72597,Himachal Pradesh
+Honeymoon Trip,Forest,Beachfront Resort,Autumn,7,Scuba Diving,72597,Maharashtra
+Solo Trip,Beach,Luxury Hotel,Autumn,8,Trekking,72597,Goa
+Pilgrimage Trip,Mountains,Beachfront Villa,Spring,8,Religious visit,72597,Uttarakhand
+Solo Trip,Backwaters,Homestay,Autumn,3,Scuba Diving,72597,Kerala
+Backpacking Trip,Temples,Homestay,Monsoon,7,Motorcycling,72597,Madhya Pradesh
+Honeymoon Trip,Royal Palaces,Beachfront Villa,Spring,8,Sightseeing,72597,Rajasthan
+Pilgrimage Trip,Forest,Houseboat,Spring,2,Religious visit,72597,Maharashtra
+Adventure Trip,Desert,Heritage Hotel,Autumn,9,Camping,72597,Ladakh
+Wildlife Trip,City,Beachfront Villa,Spring,7,Safari,72597,Uttar Pradesh
+Wildlife Trip,Hills,Heritage Hotel,Spring,8,Safari,72597,Kerala
+Group Trip,Mountains,Beachfront Resort,Spring,4,Heritage Walk,72597,Himachal Pradesh
+Backpacking Trip,Beach,Camping,Summer,9,Camping,72597,Goa
+Wildlife Trip,Hills,Houseboat,Spring,10,Safari,72597,West Bengal
+Backpacking Trip,Hills,Beachfront Villa,Autumn,3,Camping,72597,West Bengal
+Group Trip,Forest,Houseboat,Monsoon,9,Relaxation,72597,Maharashtra
+Pilgrimage Trip,City,Jungle Lodge,Summer,10,Religious visit,72597,Uttar Pradesh
+Wildlife Trip,Forest,Hostel Dorm,Winter,3,Safari,72597,Madhya Pradesh
+Group Trip,Deserts,Camping,Winter,6,Temple hopping,72597,Rajasthan
+Honeymoon Trip,Royal Palaces,Heritage Hotel,Autumn,5,Sightseeing,72597,Rajasthan
+Honeymoon Trip,Religious Town,Hostel Dorm,Summer,6,Honeymoon Cruise,72597,Uttar Pradesh
+Honeymoon Trip,Beach,Beachfront Resort,Monsoon,5,Relaxation,72597,Goa
+Family Trip,Backwaters,Hostel Dorm,Spring,5,Toy Train Ride,72597,Kerala
+Wildlife Trip,City,Jungle Lodge,Spring,3,Safari,72597,Uttar Pradesh
+Cultural Trip,Royal Palaces,Luxury Hotel,Spring,9,Temple hopping,72597,Rajasthan
+Cultural Trip,Hills,Heritage Hotel,Spring,2,Temple hopping,72597,West Bengal
+Pilgrimage Trip,City,Camping,Summer,6,Religious visit,72597,Uttar Pradesh
+Pilgrimage Trip,Mountains,Jungle Lodge,Winter,3,Religious visit,72597,Ladakh
+Family Trip,Mountains,Camping,Autumn,4,Ayurvedic Spa,72597,Himachal Pradesh
+Group Trip,Backwaters,Beachfront Resort,Monsoon,9,Toy Train Ride,72597,Kerala
+Romantic Getaway,French Colony,Beachfront Resort,Winter,6,Relaxation,72597,Puducherry
+Honeymoon Trip,French Colony,Beachfront Villa,Autumn,9,Sightseeing,72597,Puducherry
+Adventure Trip,Mountains,Houseboat,Spring,4,White Water Rafting,72597,Himachal Pradesh
+Group Trip,City,Houseboat,Autumn,2,Temple hopping,72597,Uttar Pradesh
+Backpacking Trip,Temple Town,Camping,Autumn,6,Camping,72597,Maharashtra
+Adventure Trip,Mountains,Houseboat,Summer,3,Motorcycling,72597,Himachal Pradesh
+Group Trip,Religious Town,Houseboat,Monsoon,9,Toy Train Ride,72597,Uttar Pradesh
+Wildlife Trip,Temples,Beachfront Villa,Autumn,6,Safari,72597,Madhya Pradesh
+Pilgrimage Trip,Temple Town,Houseboat,Summer,8,Religious visit,72597,Maharashtra
+Adventure Trip,City,Ashram Accommodation,Winter,8,Motorcycling,72597,Uttar Pradesh
+Solo Trip,Mountains,Luxury Hotel,Summer,10,Trekking,72597,Uttarakhand
+Adventure Trip,Mountains,Beachfront Resort,Spring,5,Scuba Diving,72597,Jammu and Kashmir
+Honeymoon Trip,Mountains,Ashram Accommodation,Spring,3,Sightseeing,72597,Himachal Pradesh
+Family Trip,Temple Town,Beachfront Villa,Summer,6,Relaxation,72597,Maharashtra
+Honeymoon Trip,Beach,Beachfront Villa,Autumn,8,Ayurvedic Spa,72597,Goa
+Wildlife Trip,Forest,Jungle Lodge,Autumn,9,Safari,72597,Maharashtra
+Wildlife Trip,Hills,Jungle Lodge,Monsoon,5,Safari,72597,Kerala
+Honeymoon Trip,Hills,Ashram Accommodation,Winter,5,Sightseeing,72597,West Bengal
+Family Trip,Hills,Camping,Autumn,10,Ayurvedic Spa,72597,Kerala
+Group Trip,French Colony,Ashram Accommodation,Summer,2,Sightseeing,72597,Puducherry
+Solo Trip,Beach,Beachfront Resort,Winter,6,Relaxation,72597,Goa
+Backpacking Trip,Desert,Heritage Hotel,Autumn,8,Camping,72597,Ladakh
+Backpacking Trip,Beach,Ashram Accommodation,Winter,7,Trekking,72597,Andaman & Nicobar Islands
+Adventure Trip,Mountains,Hostel Dorm,Autumn,4,White Water Rafting,72597,Jammu and Kashmir
+Wildlife Trip,Temple Town,Ashram Accommodation,Monsoon,6,Safari,72597,Maharashtra
+Backpacking Trip,Mountains,Houseboat,Summer,4,Trekking,72597,Himachal Pradesh
+Pilgrimage Trip,Temple Town,Homestay,Summer,10,Religious visit,72597,Maharashtra
+Pilgrimage Trip,Backwaters,Luxury Hotel,Winter,4,Religious visit,72597,Kerala
+Solo Trip,Religious Town,Homestay,Summer,2,Trekking,72597,Uttar Pradesh
+Cultural Trip,Mountains,Luxury Hotel,Summer,6,Heritage Walk,72597,Uttarakhand
+Cultural Trip,Forest,Ashram Accommodation,Winter,6,Heritage Walk,72597,Madhya Pradesh
+Wildlife Trip,Forest,Ashram Accommodation,Monsoon,2,Safari,72597,Maharashtra
+Backpacking Trip,Hills,Beachfront Resort,Spring,7,Motorcycling,72597,West Bengal
+Wildlife Trip,Deserts,Houseboat,Spring,2,Safari,72597,Rajasthan
+Pilgrimage Trip,Hills,Hostel Dorm,Monsoon,10,Religious visit,72597,West Bengal
+Family Trip,Mountains,Camping,Monsoon,4,Heritage Walk,72597,Himachal Pradesh
+Solo Trip,Forest,Beachfront Resort,Autumn,2,Trekking,72597,Madhya Pradesh
+Backpacking Trip,Backwaters,Houseboat,Summer,7,Heritage Walk,72597,Kerala
+Romantic Getaway,Mountains,Beachfront Resort,Monsoon,3,Honeymoon Cruise,72597,Jammu and Kashmir
+Backpacking Trip,Mountains,Ashram Accommodation,Summer,5,Motorcycling,72597,Himachal Pradesh
+Cultural Trip,Hills,Luxury Hotel,Spring,6,Temple hopping,72597,Kerala
+Romantic Getaway,Religious Town,Luxury Hotel,Monsoon,8,Scuba Diving,72597,Uttar Pradesh
+Pilgrimage Trip,City,Hostel Dorm,Winter,2,Religious visit,72597,Uttar Pradesh
+Romantic Getaway,Beach,Luxury Hotel,Summer,7,Ayurvedic Spa,72597,Andaman & Nicobar Islands
+Family Trip,French Colony,Camping,Winter,2,Ayurvedic Spa,72597,Puducherry
+Backpacking Trip,Backwaters,Houseboat,Summer,9,Heritage Walk,72597,Kerala
+Pilgrimage Trip,Hills,Camping,Monsoon,8,Religious visit,72597,West Bengal
+Cultural Trip,Beach,Ashram Accommodation,Monsoon,4,Temple hopping,72597,Andaman & Nicobar Islands
+Honeymoon Trip,Forest,Homestay,Summer,7,Sightseeing,72597,Maharashtra
+Honeymoon Trip,Mountains,Ashram Accommodation,Monsoon,8,Relaxation,72597,Himachal Pradesh
+Pilgrimage Trip,Religious Town,Camping,Spring,2,Religious visit,72597,Uttar Pradesh
+Cultural Trip,Temple Town,Heritage Hotel,Spring,6,Temple hopping,72597,Maharashtra
+Cultural Trip,Mountains,Beachfront Villa,Winter,4,Temple hopping,72597,Ladakh
+Pilgrimage Trip,Backwaters,Jungle Lodge,Monsoon,3,Religious visit,72597,Kerala
+Group Trip,Mountains,Jungle Lodge,Spring,9,Toy Train Ride,72597,Ladakh
+Cultural Trip,Mountains,Hostel Dorm,Monsoon,9,Heritage Walk,72597,Jammu and Kashmir
+Romantic Getaway,Mountains,Beachfront Villa,Summer,2,Ayurvedic Spa,72597,Himachal Pradesh
+Romantic Getaway,Forest,Jungle Lodge,Spring,5,Ayurvedic Spa,72597,Maharashtra
+Solo Trip,Hills,Beachfront Resort,Winter,3,Skiing,72597,West Bengal
+Romantic Getaway,Backwaters,Hostel Dorm,Autumn,2,Ayurvedic Spa,72597,Kerala
+Backpacking Trip,Forest,Heritage Hotel,Autumn,2,Heritage Walk,72597,Madhya Pradesh
+Adventure Trip,Backwaters,Hostel Dorm,Spring,2,Camping,72597,Kerala
+Solo Trip,Hills,Houseboat,Monsoon,2,Skiing,72597,West Bengal
+Wildlife Trip,Mountains,Ashram Accommodation,Autumn,2,Safari,72597,Himachal Pradesh
+Adventure Trip,Mountains,Luxury Hotel,Winter,5,White Water Rafting,72597,Himachal Pradesh
+Family Trip,Hills,Hostel Dorm,Summer,2,Ayurvedic Spa,72597,Kerala
+Adventure Trip,Hills,Ashram Accommodation,Winter,2,Scuba Diving,72597,West Bengal
+Wildlife Trip,Backwaters,Homestay,Autumn,9,Safari,72597,Kerala
+Backpacking Trip,Temple Town,Beachfront Villa,Autumn,9,Camping,72597,Maharashtra
+Adventure Trip,French Colony,Camping,Monsoon,6,Motorcycling,72597,Puducherry
+Solo Trip,Forest,Heritage Hotel,Monsoon,6,Skiing,72597,Madhya Pradesh
+Honeymoon Trip,Temple Town,Jungle Lodge,Winter,10,Sightseeing,72597,Maharashtra
+Cultural Trip,Mountains,Ashram Accommodation,Winter,5,Heritage Walk,72597,Himachal Pradesh
+Solo Trip,Mountains,Luxury Hotel,Autumn,5,Relaxation,72597,Himachal Pradesh
+Group Trip,Mountains,Heritage Hotel,Spring,5,Relaxation,72597,Jammu and Kashmir
+Romantic Getaway,Mountains,Homestay,Autumn,8,Relaxation,72597,Himachal Pradesh
+Family Trip,Temples,Beachfront Resort,Autumn,8,Toy Train Ride,72597,Madhya Pradesh
+Romantic Getaway,Mountains,Ashram Accommodation,Autumn,9,Scuba Diving,72597,Himachal Pradesh
+Pilgrimage Trip,Mountains,Houseboat,Spring,8,Religious visit,72597,Jammu and Kashmir
+Group Trip,Mountains,Camping,Summer,6,Toy Train Ride,72597,Himachal Pradesh
+Solo Trip,Temples,Luxury Hotel,Monsoon,10,Motorcycling,72597,Madhya Pradesh
+Pilgrimage Trip,City,Beachfront Villa,Summer,8,Religious visit,72597,Uttar Pradesh
+Backpacking Trip,Forest,Camping,Spring,9,Trekking,72597,Madhya Pradesh
+Wildlife Trip,Mountains,Heritage Hotel,Monsoon,10,Safari,72597,Himachal Pradesh
+Pilgrimage Trip,Forest,Jungle Lodge,Spring,2,Religious visit,72597,Maharashtra
+Pilgrimage Trip,Forest,Houseboat,Winter,5,Religious visit,72597,Madhya Pradesh
+Solo Trip,City,Beachfront Resort,Monsoon,6,Skiing,72597,Uttar Pradesh
+Honeymoon Trip,Mountains,Beachfront Resort,Autumn,5,Relaxation,72597,Jammu and Kashmir
+Solo Trip,Beach,Homestay,Summer,2,Relaxation,72597,Goa
+Solo Trip,Religious Town,Jungle Lodge,Spring,4,Motorcycling,72597,Uttar Pradesh
+Family Trip,Temples,Hostel Dorm,Spring,5,Ayurvedic Spa,72597,Madhya Pradesh
+Honeymoon Trip,Desert,Jungle Lodge,Winter,2,Sightseeing,72597,Ladakh
+Family Trip,French Colony,Homestay,Autumn,2,Ayurvedic Spa,72597,Puducherry
+Honeymoon Trip,Forest,Heritage Hotel,Spring,3,Relaxation,72597,Maharashtra
+Family Trip,Mountains,Beachfront Resort,Winter,6,Heritage Walk,72597,Uttarakhand
+Adventure Trip,Mountains,Beachfront Villa,Winter,7,Camping,72597,Himachal Pradesh
+Group Trip,Beach,Camping,Spring,3,Toy Train Ride,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Backwaters,Hostel Dorm,Monsoon,3,Religious visit,72597,Kerala
+Group Trip,Religious Town,Heritage Hotel,Monsoon,3,Heritage Walk,72597,Uttar Pradesh
+Honeymoon Trip,Mountains,Ashram Accommodation,Winter,10,Ayurvedic Spa,72597,Himachal Pradesh
+Group Trip,Forest,Ashram Accommodation,Summer,10,Temple hopping,72597,Madhya Pradesh
+Wildlife Trip,Hills,Hostel Dorm,Summer,8,Safari,72597,Kerala
+Group Trip,Temple Town,Camping,Spring,4,Toy Train Ride,72597,Maharashtra
+Wildlife Trip,Mountains,Luxury Hotel,Spring,4,Safari,72597,Himachal Pradesh
+Cultural Trip,Backwaters,Beachfront Resort,Autumn,3,Heritage Walk,72597,Kerala
+Wildlife Trip,Backwaters,Beachfront Resort,Monsoon,7,Safari,72597,Kerala
+Wildlife Trip,French Colony,Hostel Dorm,Spring,4,Safari,72597,Puducherry
+Group Trip,Mountains,Homestay,Spring,8,Relaxation,72597,Uttarakhand
+Honeymoon Trip,Mountains,Luxury Hotel,Autumn,2,Relaxation,72597,Himachal Pradesh
+Adventure Trip,Forest,Camping,Monsoon,4,Motorcycling,72597,Maharashtra
+Romantic Getaway,Royal Palaces,Houseboat,Autumn,10,Ayurvedic Spa,72597,Rajasthan
+Wildlife Trip,Temple Town,Luxury Hotel,Winter,8,Safari,72597,Maharashtra
+Romantic Getaway,Mountains,Hostel Dorm,Winter,4,Relaxation,72597,Uttarakhand
+Romantic Getaway,Hills,Heritage Hotel,Winter,7,Ayurvedic Spa,72597,Kerala
+Honeymoon Trip,French Colony,Luxury Hotel,Monsoon,7,Scuba Diving,72597,Puducherry
+Pilgrimage Trip,French Colony,Ashram Accommodation,Winter,10,Religious visit,72597,Puducherry
+Solo Trip,Forest,Luxury Hotel,Summer,4,Trekking,72597,Madhya Pradesh
+Honeymoon Trip,Mountains,Ashram Accommodation,Autumn,5,Sightseeing,72597,Ladakh
+Cultural Trip,Religious Town,Beachfront Resort,Summer,4,Temple hopping,72597,Uttar Pradesh
+Family Trip,Mountains,Houseboat,Summer,5,Toy Train Ride,72597,Uttarakhand
+Backpacking Trip,Mountains,Camping,Winter,2,Heritage Walk,72597,Himachal Pradesh
+Wildlife Trip,Hills,Beachfront Villa,Winter,3,Safari,72597,West Bengal
+Romantic Getaway,Mountains,Camping,Spring,3,Relaxation,72597,Himachal Pradesh
+Backpacking Trip,Backwaters,Beachfront Resort,Summer,3,Camping,72597,Kerala
+Pilgrimage Trip,Mountains,Homestay,Spring,5,Religious visit,72597,Ladakh
+Family Trip,Beach,Hostel Dorm,Monsoon,9,Toy Train Ride,72597,Goa
+Family Trip,Mountains,Luxury Hotel,Spring,10,Relaxation,72597,Himachal Pradesh
+Romantic Getaway,Islands,Heritage Hotel,Winter,2,Relaxation,72597,Andaman & Nicobar Islands
+Cultural Trip,Hills,Homestay,Autumn,4,Heritage Walk,72597,West Bengal
+Honeymoon Trip,Mountains,Beachfront Villa,Monsoon,3,Honeymoon Cruise,72597,Uttarakhand
+Pilgrimage Trip,Temples,Homestay,Winter,10,Religious visit,72597,Madhya Pradesh
+Adventure Trip,Forest,Houseboat,Spring,6,Camping,72597,Madhya Pradesh
+Adventure Trip,Temple Town,Heritage Hotel,Spring,7,White Water Rafting,72597,Maharashtra
+Honeymoon Trip,City,Beachfront Resort,Spring,4,Honeymoon Cruise,72597,Uttar Pradesh
+Pilgrimage Trip,Mountains,Ashram Accommodation,Monsoon,8,Religious visit,72597,Himachal Pradesh
+Romantic Getaway,Mountains,Ashram Accommodation,Monsoon,9,Honeymoon Cruise,72597,Jammu and Kashmir
+Cultural Trip,Mountains,Hostel Dorm,Monsoon,5,Temple hopping,72597,Himachal Pradesh
+Cultural Trip,Forest,Luxury Hotel,Winter,2,Temple hopping,72597,Madhya Pradesh
+Family Trip,Deserts,Heritage Hotel,Monsoon,5,Sightseeing,72597,Rajasthan
+Wildlife Trip,Beach,Heritage Hotel,Winter,9,Safari,72597,Goa
+Group Trip,Forest,Luxury Hotel,Autumn,6,Temple hopping,72597,Madhya Pradesh
+Family Trip,French Colony,Beachfront Villa,Autumn,9,Sightseeing,72597,Puducherry
+Pilgrimage Trip,Desert,Homestay,Monsoon,4,Religious visit,72597,Ladakh
+Romantic Getaway,Mountains,Hostel Dorm,Autumn,4,Relaxation,72597,Himachal Pradesh
+Honeymoon Trip,Religious Town,Beachfront Resort,Spring,6,Relaxation,72597,Uttar Pradesh
+Group Trip,Deserts,Ashram Accommodation,Summer,5,Temple hopping,72597,Rajasthan
+Backpacking Trip,Forest,Ashram Accommodation,Monsoon,9,Heritage Walk,72597,Madhya Pradesh
+Solo Trip,Mountains,Jungle Lodge,Autumn,6,Relaxation,72597,Ladakh
+Romantic Getaway,Beach,Beachfront Resort,Spring,10,Scuba Diving,72597,Goa
+Group Trip,Backwaters,Jungle Lodge,Autumn,3,Toy Train Ride,72597,Kerala
+Group Trip,French Colony,Houseboat,Spring,5,Relaxation,72597,Puducherry
+Adventure Trip,Beach,Hostel Dorm,Spring,4,Scuba Diving,72597,Andaman & Nicobar Islands
+Group Trip,Desert,Jungle Lodge,Spring,3,Toy Train Ride,72597,Ladakh
+Honeymoon Trip,Forest,Ashram Accommodation,Spring,4,Honeymoon Cruise,72597,Madhya Pradesh
+Group Trip,Beach,Ashram Accommodation,Autumn,3,Temple hopping,72597,Andaman & Nicobar Islands
+Wildlife Trip,Mountains,Beachfront Villa,Autumn,3,Safari,72597,Jammu and Kashmir
+Family Trip,Religious Town,Hostel Dorm,Autumn,9,Sightseeing,72597,Uttar Pradesh
+Group Trip,Forest,Hostel Dorm,Spring,9,Toy Train Ride,72597,Madhya Pradesh
+Solo Trip,Mountains,Houseboat,Spring,6,Relaxation,72597,Jammu and Kashmir
+Wildlife Trip,Backwaters,Heritage Hotel,Summer,8,Safari,72597,Kerala
+Family Trip,Temples,Beachfront Resort,Autumn,9,Relaxation,72597,Madhya Pradesh
+Backpacking Trip,Backwaters,Houseboat,Autumn,4,Heritage Walk,72597,Kerala
+Group Trip,Mountains,Beachfront Resort,Spring,6,Toy Train Ride,72597,Himachal Pradesh
+Cultural Trip,French Colony,Jungle Lodge,Monsoon,3,Temple hopping,72597,Puducherry
+Family Trip,Mountains,Homestay,Spring,7,Sightseeing,72597,Himachal Pradesh
+Family Trip,Hills,Beachfront Villa,Spring,4,Sightseeing,72597,West Bengal
+Romantic Getaway,Mountains,Jungle Lodge,Summer,8,Scuba Diving,72597,Jammu and Kashmir
+Family Trip,Hills,Ashram Accommodation,Winter,4,Toy Train Ride,72597,West Bengal
+Group Trip,French Colony,Beachfront Villa,Monsoon,4,Relaxation,72597,Puducherry
+Cultural Trip,Religious Town,Luxury Hotel,Winter,10,Temple hopping,72597,Uttar Pradesh
+Family Trip,City,Houseboat,Spring,10,Heritage Walk,72597,Uttar Pradesh
+Family Trip,French Colony,Camping,Spring,5,Ayurvedic Spa,72597,Puducherry
+Pilgrimage Trip,Backwaters,Homestay,Winter,5,Religious visit,72597,Kerala
+Pilgrimage Trip,Backwaters,Houseboat,Monsoon,3,Religious visit,72597,Kerala
+Family Trip,French Colony,Heritage Hotel,Autumn,10,Heritage Walk,72597,Puducherry
+Cultural Trip,Hills,Heritage Hotel,Summer,8,Heritage Walk,72597,Kerala
+Cultural Trip,Mountains,Ashram Accommodation,Winter,7,Temple hopping,72597,Himachal Pradesh
+Adventure Trip,Temple Town,Beachfront Resort,Summer,8,Trekking,72597,Maharashtra
+Cultural Trip,Backwaters,Hostel Dorm,Winter,9,Heritage Walk,72597,Kerala
+Pilgrimage Trip,Temples,Beachfront Villa,Spring,4,Religious visit,72597,Madhya Pradesh
+Adventure Trip,Mountains,Beachfront Resort,Summer,10,Motorcycling,72597,Himachal Pradesh
+Adventure Trip,Backwaters,Hostel Dorm,Summer,7,Camping,72597,Kerala
+Pilgrimage Trip,Temples,Jungle Lodge,Winter,7,Religious visit,72597,Madhya Pradesh
+Pilgrimage Trip,Islands,Luxury Hotel,Winter,2,Religious visit,72597,Andaman & Nicobar Islands
+Backpacking Trip,Temple Town,Beachfront Villa,Monsoon,9,Heritage Walk,72597,Maharashtra
+Honeymoon Trip,Temple Town,Ashram Accommodation,Spring,4,Ayurvedic Spa,72597,Maharashtra
+Group Trip,Backwaters,Ashram Accommodation,Summer,8,Relaxation,72597,Kerala
+Pilgrimage Trip,Temple Town,Ashram Accommodation,Summer,3,Religious visit,72597,Maharashtra
+Romantic Getaway,Mountains,Beachfront Villa,Winter,8,Ayurvedic Spa,72597,Himachal Pradesh
+Romantic Getaway,Religious Town,Heritage Hotel,Autumn,4,Ayurvedic Spa,72597,Uttar Pradesh
+Backpacking Trip,Forest,Hostel Dorm,Autumn,10,Camping,72597,Maharashtra
+Honeymoon Trip,Deserts,Beachfront Resort,Autumn,9,Honeymoon Cruise,72597,Rajasthan
+Group Trip,Beach,Ashram Accommodation,Monsoon,6,Heritage Walk,72597,Goa
+Wildlife Trip,Hills,Jungle Lodge,Winter,10,Safari,72597,Kerala
+Solo Trip,Mountains,Heritage Hotel,Autumn,10,Motorcycling,72597,Ladakh
+Cultural Trip,Mountains,Luxury Hotel,Autumn,3,Temple hopping,72597,Jammu and Kashmir
+Cultural Trip,Mountains,Hostel Dorm,Monsoon,5,Temple hopping,72597,Uttarakhand
+Solo Trip,Temples,Camping,Winter,4,Relaxation,72597,Madhya Pradesh
+Family Trip,Hills,Houseboat,Monsoon,4,Relaxation,72597,West Bengal
+Romantic Getaway,Forest,Houseboat,Winter,7,Scuba Diving,72597,Madhya Pradesh
+Romantic Getaway,Backwaters,Luxury Hotel,Winter,10,Honeymoon Cruise,72597,Kerala
+Family Trip,Temple Town,Beachfront Resort,Summer,6,Ayurvedic Spa,72597,Maharashtra
+Group Trip,Mountains,Ashram Accommodation,Winter,3,Sightseeing,72597,Himachal Pradesh
+Adventure Trip,Desert,Heritage Hotel,Winter,9,Scuba Diving,72597,Ladakh
+Wildlife Trip,Hills,Houseboat,Spring,9,Safari,72597,Kerala
+Pilgrimage Trip,Hills,Camping,Autumn,2,Religious visit,72597,Kerala
+Honeymoon Trip,Backwaters,Beachfront Villa,Spring,6,Sightseeing,72597,Kerala
+Solo Trip,Religious Town,Houseboat,Autumn,8,Trekking,72597,Uttar Pradesh
+Family Trip,Islands,Hostel Dorm,Winter,7,Toy Train Ride,72597,Andaman & Nicobar Islands
+Romantic Getaway,Beach,Camping,Spring,8,Honeymoon Cruise,72597,Goa
+Family Trip,Hills,Jungle Lodge,Autumn,4,Sightseeing,72597,Kerala
+Cultural Trip,Mountains,Beachfront Resort,Monsoon,5,Heritage Walk,72597,Himachal Pradesh
+Adventure Trip,Islands,Camping,Spring,8,Trekking,72597,Andaman & Nicobar Islands
+Family Trip,Temples,Jungle Lodge,Autumn,8,Relaxation,72597,Madhya Pradesh
+Pilgrimage Trip,Mountains,Beachfront Villa,Monsoon,5,Religious visit,72597,Ladakh
+Romantic Getaway,Hills,Beachfront Resort,Summer,7,Honeymoon Cruise,72597,Kerala
+Backpacking Trip,French Colony,Hostel Dorm,Autumn,4,Motorcycling,72597,Puducherry
+Group Trip,Mountains,Beachfront Villa,Spring,5,Sightseeing,72597,Himachal Pradesh
+Honeymoon Trip,Hills,Hostel Dorm,Summer,6,Sightseeing,72597,Kerala
+Wildlife Trip,Backwaters,Houseboat,Autumn,6,Safari,72597,Kerala
+Wildlife Trip,Mountains,Homestay,Summer,3,Safari,72597,Uttarakhand
+Solo Trip,Forest,Beachfront Villa,Winter,9,Trekking,72597,Madhya Pradesh
+Cultural Trip,Mountains,Beachfront Villa,Monsoon,4,Heritage Walk,72597,Himachal Pradesh
+Family Trip,Hills,Ashram Accommodation,Autumn,5,Heritage Walk,72597,West Bengal
+Wildlife Trip,Temples,Homestay,Spring,4,Safari,72597,Madhya Pradesh
+Honeymoon Trip,Temple Town,Camping,Autumn,7,Scuba Diving,72597,Maharashtra
+Group Trip,Temples,Luxury Hotel,Monsoon,8,Sightseeing,72597,Madhya Pradesh
+Solo Trip,Forest,Camping,Spring,6,Trekking,72597,Madhya Pradesh
+Romantic Getaway,Beach,Jungle Lodge,Monsoon,10,Scuba Diving,72597,Goa
+Pilgrimage Trip,Hills,Beachfront Villa,Summer,10,Religious visit,72597,West Bengal
+Wildlife Trip,Hills,Beachfront Villa,Monsoon,3,Safari,72597,West Bengal
+Wildlife Trip,Mountains,Houseboat,Autumn,7,Safari,72597,Himachal Pradesh
+Solo Trip,Temples,Beachfront Resort,Monsoon,2,Trekking,72597,Madhya Pradesh
+Adventure Trip,Backwaters,Luxury Hotel,Winter,2,Motorcycling,72597,Kerala
+Solo Trip,Hills,Luxury Hotel,Winter,8,Trekking,72597,West Bengal
+Honeymoon Trip,City,Hostel Dorm,Autumn,7,Ayurvedic Spa,72597,Uttar Pradesh
+Pilgrimage Trip,Hills,Beachfront Villa,Monsoon,5,Religious visit,72597,West Bengal
+Pilgrimage Trip,Backwaters,Jungle Lodge,Autumn,2,Religious visit,72597,Kerala
+Adventure Trip,Forest,Houseboat,Autumn,3,Motorcycling,72597,Madhya Pradesh
+Honeymoon Trip,Beach,Ashram Accommodation,Spring,3,Scuba Diving,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Hills,Camping,Summer,3,Religious visit,72597,Kerala
+Wildlife Trip,Backwaters,Jungle Lodge,Summer,4,Safari,72597,Kerala
+Solo Trip,Desert,Luxury Hotel,Winter,2,Relaxation,72597,Ladakh
+Backpacking Trip,Mountains,Houseboat,Autumn,8,Motorcycling,72597,Himachal Pradesh
+Adventure Trip,Mountains,Houseboat,Spring,8,Trekking,72597,Jammu and Kashmir
+Family Trip,Mountains,Homestay,Spring,9,Heritage Walk,72597,Himachal Pradesh
+Romantic Getaway,Mountains,Beachfront Villa,Winter,5,Ayurvedic Spa,72597,Ladakh
+Group Trip,Mountains,Heritage Hotel,Winter,5,Temple hopping,72597,Himachal Pradesh
+Wildlife Trip,Mountains,Houseboat,Monsoon,6,Safari,72597,Uttarakhand
+Solo Trip,City,Ashram Accommodation,Summer,2,Skiing,72597,Uttar Pradesh
+Cultural Trip,Mountains,Houseboat,Autumn,2,Heritage Walk,72597,Jammu and Kashmir
+Adventure Trip,Hills,Jungle Lodge,Summer,10,Motorcycling,72597,Kerala
+Wildlife Trip,Temples,Houseboat,Autumn,10,Safari,72597,Madhya Pradesh
+Adventure Trip,Religious Town,Beachfront Resort,Autumn,3,White Water Rafting,72597,Uttar Pradesh
+Backpacking Trip,Hills,Jungle Lodge,Spring,6,Camping,72597,West Bengal
+Cultural Trip,Islands,Homestay,Autumn,5,Heritage Walk,72597,Andaman & Nicobar Islands
+Wildlife Trip,Temple Town,Beachfront Resort,Autumn,3,Safari,72597,Maharashtra
+Wildlife Trip,Mountains,Camping,Monsoon,2,Safari,72597,Himachal Pradesh
+Group Trip,Islands,Luxury Hotel,Monsoon,10,Relaxation,72597,Andaman & Nicobar Islands
+Honeymoon Trip,Forest,Beachfront Villa,Winter,7,Honeymoon Cruise,72597,Madhya Pradesh
+Solo Trip,Islands,Heritage Hotel,Summer,7,Scuba Diving,72597,Andaman & Nicobar Islands
+Romantic Getaway,Backwaters,Beachfront Villa,Winter,8,Honeymoon Cruise,72597,Kerala
+Adventure Trip,Desert,Jungle Lodge,Winter,6,White Water Rafting,72597,Ladakh
+Backpacking Trip,Backwaters,Heritage Hotel,Spring,6,Motorcycling,72597,Kerala
+Cultural Trip,Forest,Beachfront Villa,Winter,7,Temple hopping,72597,Madhya Pradesh
+Adventure Trip,Backwaters,Beachfront Villa,Winter,5,White Water Rafting,72597,Kerala
+Honeymoon Trip,Temple Town,Hostel Dorm,Summer,4,Scuba Diving,72597,Maharashtra
+Solo Trip,French Colony,Ashram Accommodation,Autumn,9,Scuba Diving,72597,Puducherry
+Cultural Trip,Forest,Homestay,Monsoon,6,Temple hopping,72597,Maharashtra
+Pilgrimage Trip,Hills,Homestay,Monsoon,8,Religious visit,72597,West Bengal
+Cultural Trip,Backwaters,Beachfront Resort,Spring,2,Temple hopping,72597,Kerala
+Family Trip,Forest,Homestay,Winter,10,Heritage Walk,72597,Maharashtra
+Pilgrimage Trip,Desert,Jungle Lodge,Spring,10,Religious visit,72597,Ladakh
+Honeymoon Trip,Backwaters,Camping,Autumn,7,Relaxation,72597,Kerala
+Adventure Trip,City,Luxury Hotel,Spring,5,White Water Rafting,72597,Uttar Pradesh
+Cultural Trip,Temples,Luxury Hotel,Winter,8,Heritage Walk,72597,Madhya Pradesh
+Adventure Trip,Beach,Heritage Hotel,Winter,4,Trekking,72597,Goa
+Cultural Trip,French Colony,Luxury Hotel,Summer,8,Heritage Walk,72597,Puducherry
+Romantic Getaway,Royal Palaces,Camping,Spring,10,Honeymoon Cruise,72597,Rajasthan
+Pilgrimage Trip,Backwaters,Hostel Dorm,Autumn,2,Religious visit,72597,Kerala
+Family Trip,Forest,Beachfront Resort,Monsoon,8,Sightseeing,72597,Madhya Pradesh
+Romantic Getaway,French Colony,Houseboat,Winter,10,Ayurvedic Spa,72597,Puducherry
+Adventure Trip,Forest,Camping,Spring,8,Camping,72597,Maharashtra
+Wildlife Trip,Forest,Hostel Dorm,Autumn,2,Safari,72597,Madhya Pradesh
+Backpacking Trip,Mountains,Beachfront Resort,Monsoon,3,Trekking,72597,Ladakh
+Honeymoon Trip,Forest,Luxury Hotel,Autumn,8,Sightseeing,72597,Madhya Pradesh
+Honeymoon Trip,Backwaters,Hostel Dorm,Monsoon,7,Sightseeing,72597,Kerala
+Solo Trip,Forest,Houseboat,Spring,6,Skiing,72597,Maharashtra
+Wildlife Trip,Islands,Heritage Hotel,Autumn,9,Safari,72597,Andaman & Nicobar Islands
+Group Trip,Forest,Camping,Spring,6,Relaxation,72597,Madhya Pradesh
+Solo Trip,Backwaters,Houseboat,Winter,6,Scuba Diving,72597,Kerala
+Adventure Trip,Forest,Ashram Accommodation,Monsoon,7,Motorcycling,72597,Madhya Pradesh
+Family Trip,Mountains,Hostel Dorm,Summer,7,Toy Train Ride,72597,Uttarakhand
+Honeymoon Trip,Mountains,Houseboat,Winter,7,Scuba Diving,72597,Uttarakhand
+Wildlife Trip,Temples,Ashram Accommodation,Summer,10,Safari,72597,Madhya Pradesh
+Backpacking Trip,City,Beachfront Villa,Summer,7,Motorcycling,72597,Uttar Pradesh
+Adventure Trip,French Colony,Jungle Lodge,Autumn,6,White Water Rafting,72597,Puducherry
+Cultural Trip,Mountains,Houseboat,Monsoon,8,Temple hopping,72597,Ladakh
+Romantic Getaway,Mountains,Hostel Dorm,Winter,5,Honeymoon Cruise,72597,Jammu and Kashmir
+Wildlife Trip,French Colony,Jungle Lodge,Autumn,2,Safari,72597,Puducherry
+Group Trip,Hills,Heritage Hotel,Monsoon,4,Relaxation,72597,West Bengal
+Backpacking Trip,Mountains,Homestay,Spring,4,Motorcycling,72597,Uttarakhand
+Adventure Trip,Mountains,Luxury Hotel,Autumn,8,White Water Rafting,72597,Ladakh
+Adventure Trip,Backwaters,Luxury Hotel,Autumn,2,Scuba Diving,72597,Kerala
+Honeymoon Trip,Deserts,Luxury Hotel,Spring,8,Relaxation,72597,Rajasthan
+Cultural Trip,Religious Town,Beachfront Villa,Autumn,4,Temple hopping,72597,Uttar Pradesh
+Romantic Getaway,Religious Town,Luxury Hotel,Autumn,7,Ayurvedic Spa,72597,Uttar Pradesh
+Honeymoon Trip,Beach,Luxury Hotel,Summer,5,Scuba Diving,72597,Goa
+Pilgrimage Trip,Backwaters,Camping,Summer,8,Religious visit,72597,Kerala
+Family Trip,Mountains,Luxury Hotel,Autumn,9,Sightseeing,72597,Himachal Pradesh
+Honeymoon Trip,Hills,Jungle Lodge,Monsoon,6,Scuba Diving,72597,Kerala
+Pilgrimage Trip,French Colony,Beachfront Villa,Spring,8,Religious visit,72597,Puducherry
+Cultural Trip,Mountains,Beachfront Resort,Monsoon,10,Heritage Walk,72597,Himachal Pradesh
+Adventure Trip,Forest,Beachfront Resort,Spring,2,Camping,72597,Madhya Pradesh
+Adventure Trip,Beach,Heritage Hotel,Winter,7,Camping,72597,Goa
+Honeymoon Trip,Islands,Houseboat,Autumn,5,Ayurvedic Spa,72597,Andaman & Nicobar Islands
+Adventure Trip,French Colony,Jungle Lodge,Autumn,7,Scuba Diving,72597,Puducherry
+Romantic Getaway,French Colony,Luxury Hotel,Monsoon,7,Ayurvedic Spa,72597,Puducherry
+Honeymoon Trip,Mountains,Jungle Lodge,Winter,8,Sightseeing,72597,Ladakh
+Cultural Trip,Religious Town,Ashram Accommodation,Summer,3,Temple hopping,72597,Uttar Pradesh
+Cultural Trip,Temple Town,Beachfront Resort,Summer,5,Heritage Walk,72597,Maharashtra
+Wildlife Trip,Beach,Hostel Dorm,Autumn,8,Safari,72597,Andaman & Nicobar Islands
+Romantic Getaway,Backwaters,Heritage Hotel,Winter,8,Ayurvedic Spa,72597,Kerala
+Wildlife Trip,French Colony,Houseboat,Monsoon,10,Safari,72597,Puducherry
+Backpacking Trip,Mountains,Ashram Accommodation,Autumn,6,Motorcycling,72597,Jammu and Kashmir
+Family Trip,Desert,Luxury Hotel,Spring,2,Relaxation,72597,Ladakh
+Romantic Getaway,Forest,Ashram Accommodation,Winter,4,Honeymoon Cruise,72597,Maharashtra
+Family Trip,Beach,Homestay,Monsoon,5,Heritage Walk,72597,Goa
+Solo Trip,Mountains,Houseboat,Summer,5,Relaxation,72597,Jammu and Kashmir
+Cultural Trip,City,Ashram Accommodation,Spring,2,Heritage Walk,72597,Uttar Pradesh
+Cultural Trip,Mountains,Camping,Winter,10,Temple hopping,72597,Himachal Pradesh
+Family Trip,Deserts,Jungle Lodge,Monsoon,5,Sightseeing,72597,Rajasthan
+Adventure Trip,Mountains,Luxury Hotel,Spring,6,White Water Rafting,72597,Jammu and Kashmir
+Cultural Trip,Backwaters,Luxury Hotel,Summer,10,Temple hopping,72597,Kerala
+Family Trip,Temple Town,Homestay,Spring,6,Sightseeing,72597,Maharashtra
+Backpacking Trip,Deserts,Camping,Winter,9,Camping,72597,Rajasthan
+Pilgrimage Trip,Beach,Hostel Dorm,Spring,7,Religious visit,72597,Andaman & Nicobar Islands
+Solo Trip,Forest,Hostel Dorm,Winter,2,Relaxation,72597,Maharashtra
+Wildlife Trip,Forest,Heritage Hotel,Winter,8,Safari,72597,Madhya Pradesh
+Wildlife Trip,French Colony,Beachfront Villa,Summer,8,Safari,72597,Puducherry
+Family Trip,Beach,Houseboat,Winter,2,Heritage Walk,72597,Andaman & Nicobar Islands
+Romantic Getaway,City,Homestay,Summer,4,Relaxation,72597,Uttar Pradesh
+Adventure Trip,Mountains,Ashram Accommodation,Autumn,3,Scuba Diving,72597,Himachal Pradesh
+Adventure Trip,Mountains,Beachfront Villa,Spring,4,Trekking,72597,Himachal Pradesh
+Group Trip,Hills,Beachfront Villa,Summer,6,Relaxation,72597,Kerala
+Cultural Trip,Forest,Heritage Hotel,Winter,4,Temple hopping,72597,Madhya Pradesh
+Cultural Trip,Mountains,Jungle Lodge,Summer,6,Temple hopping,72597,Ladakh
+Pilgrimage Trip,Religious Town,Homestay,Monsoon,7,Religious visit,72597,Uttar Pradesh
+Adventure Trip,Backwaters,Beachfront Resort,Spring,7,Motorcycling,72597,Kerala
+Solo Trip,Mountains,Houseboat,Monsoon,2,Trekking,72597,Himachal Pradesh
+Wildlife Trip,Temple Town,Camping,Spring,6,Safari,72597,Maharashtra
+Wildlife Trip,Mountains,Heritage Hotel,Winter,3,Safari,72597,Ladakh
+Pilgrimage Trip,Temple Town,Houseboat,Monsoon,5,Religious visit,72597,Maharashtra
+Cultural Trip,City,Beachfront Villa,Monsoon,10,Temple hopping,72597,Uttar Pradesh
+Backpacking Trip,Mountains,Jungle Lodge,Autumn,3,Heritage Walk,72597,Jammu and Kashmir
+Pilgrimage Trip,City,Homestay,Summer,6,Religious visit,72597,Uttar Pradesh
+Group Trip,Backwaters,Jungle Lodge,Summer,5,Sightseeing,72597,Kerala
+Wildlife Trip,Beach,Hostel Dorm,Autumn,4,Safari,72597,Goa
+Cultural Trip,Beach,Heritage Hotel,Summer,9,Temple hopping,72597,Andaman & Nicobar Islands
+Wildlife Trip,Backwaters,Luxury Hotel,Spring,2,Safari,72597,Kerala
+Group Trip,Mountains,Heritage Hotel,Spring,6,Temple hopping,72597,Himachal Pradesh
+Adventure Trip,Mountains,Ashram Accommodation,Autumn,5,White Water Rafting,72597,Uttarakhand
+Pilgrimage Trip,Hills,Heritage Hotel,Summer,10,Religious visit,72597,Kerala
+Pilgrimage Trip,Mountains,Luxury Hotel,Monsoon,3,Religious visit,72597,Himachal Pradesh
+Backpacking Trip,Temples,Luxury Hotel,Winter,5,Motorcycling,72597,Madhya Pradesh
+Cultural Trip,Mountains,Hostel Dorm,Winter,3,Heritage Walk,72597,Himachal Pradesh
+Wildlife Trip,Temples,Beachfront Resort,Spring,10,Safari,72597,Madhya Pradesh
+Cultural Trip,Backwaters,Hostel Dorm,Winter,3,Heritage Walk,72597,Kerala
+Family Trip,Hills,Heritage Hotel,Autumn,6,Sightseeing,72597,Kerala
+Cultural Trip,Mountains,Jungle Lodge,Autumn,8,Heritage Walk,72597,Himachal Pradesh
+Backpacking Trip,City,Camping,Spring,10,Motorcycling,72597,Uttar Pradesh
+Adventure Trip,Mountains,Ashram Accommodation,Autumn,6,White Water Rafting,72597,Jammu and Kashmir
+Pilgrimage Trip,Mountains,Jungle Lodge,Monsoon,4,Religious visit,72597,Himachal Pradesh
+Group Trip,French Colony,Ashram Accommodation,Autumn,6,Toy Train Ride,72597,Puducherry
+Honeymoon Trip,Temples,Beachfront Villa,Summer,10,Honeymoon Cruise,72597,Madhya Pradesh
+Pilgrimage Trip,Mountains,Luxury Hotel,Spring,9,Religious visit,72597,Himachal Pradesh
+Honeymoon Trip,City,Houseboat,Winter,5,Ayurvedic Spa,72597,Uttar Pradesh
+Adventure Trip,Mountains,Ashram Accommodation,Spring,2,Motorcycling,72597,Uttarakhand
+Solo Trip,Temples,Camping,Summer,4,Scuba Diving,72597,Madhya Pradesh
+Honeymoon Trip,City,Houseboat,Winter,10,Scuba Diving,72597,Uttar Pradesh
+Pilgrimage Trip,City,Beachfront Villa,Monsoon,6,Religious visit,72597,Uttar Pradesh
+Honeymoon Trip,Temples,Heritage Hotel,Winter,8,Honeymoon Cruise,72597,Madhya Pradesh
+Cultural Trip,Hills,Hostel Dorm,Summer,6,Heritage Walk,72597,Kerala
+Wildlife Trip,Temples,Homestay,Spring,8,Safari,72597,Madhya Pradesh
+Cultural Trip,Beach,Hostel Dorm,Autumn,6,Heritage Walk,72597,Goa
+Backpacking Trip,Temple Town,Hostel Dorm,Summer,6,Trekking,72597,Maharashtra
+Honeymoon Trip,Forest,Heritage Hotel,Summer,6,Sightseeing,72597,Maharashtra
+Adventure Trip,Religious Town,Jungle Lodge,Autumn,9,White Water Rafting,72597,Uttar Pradesh
+Group Trip,Religious Town,Jungle Lodge,Autumn,2,Sightseeing,72597,Uttar Pradesh
+Cultural Trip,Backwaters,Homestay,Winter,9,Temple hopping,72597,Kerala
+Group Trip,Royal Palaces,Beachfront Villa,Spring,10,Toy Train Ride,72597,Rajasthan
+Backpacking Trip,City,Beachfront Resort,Monsoon,2,Camping,72597,Uttar Pradesh
+Pilgrimage Trip,Beach,Ashram Accommodation,Winter,2,Religious visit,72597,Goa
+Wildlife Trip,Forest,Luxury Hotel,Monsoon,5,Safari,72597,Maharashtra
+Backpacking Trip,Forest,Ashram Accommodation,Spring,4,Motorcycling,72597,Madhya Pradesh
+Group Trip,Hills,Hostel Dorm,Summer,3,Sightseeing,72597,West Bengal
+Backpacking Trip,Backwaters,Luxury Hotel,Summer,4,Heritage Walk,72597,Kerala
+Solo Trip,Forest,Beachfront Resort,Spring,9,Trekking,72597,Maharashtra
+Solo Trip,Mountains,Heritage Hotel,Winter,10,Skiing,72597,Himachal Pradesh
+Cultural Trip,Mountains,Luxury Hotel,Winter,5,Heritage Walk,72597,Jammu and Kashmir
+Backpacking Trip,Temple Town,Beachfront Resort,Winter,6,Camping,72597,Maharashtra
+Pilgrimage Trip,City,Ashram Accommodation,Winter,7,Religious visit,72597,Uttar Pradesh
+Cultural Trip,Mountains,Camping,Summer,8,Heritage Walk,72597,Himachal Pradesh
+Backpacking Trip,Beach,Homestay,Monsoon,4,Trekking,72597,Andaman & Nicobar Islands
+Backpacking Trip,Desert,Camping,Summer,9,Heritage Walk,72597,Ladakh
+Cultural Trip,Religious Town,Beachfront Resort,Winter,3,Heritage Walk,72597,Uttar Pradesh
+Adventure Trip,Backwaters,Hostel Dorm,Winter,4,White Water Rafting,72597,Kerala
+Backpacking Trip,Beach,Jungle Lodge,Monsoon,2,Motorcycling,72597,Goa
+Adventure Trip,Temple Town,Luxury Hotel,Autumn,7,Camping,72597,Maharashtra
+Honeymoon Trip,Temples,Beachfront Villa,Spring,5,Ayurvedic Spa,72597,Madhya Pradesh
+Family Trip,Religious Town,Beachfront Villa,Spring,6,Toy Train Ride,72597,Uttar Pradesh
+Solo Trip,French Colony,Jungle Lodge,Spring,10,Skiing,72597,Puducherry
+Cultural Trip,Religious Town,Luxury Hotel,Autumn,2,Heritage Walk,72597,Uttar Pradesh
+Family Trip,Mountains,Beachfront Resort,Winter,8,Sightseeing,72597,Jammu and Kashmir
+Group Trip,Mountains,Beachfront Villa,Summer,3,Toy Train Ride,72597,Himachal Pradesh
+Family Trip,Hills,Beachfront Resort,Summer,8,Toy Train Ride,72597,Kerala
+Romantic Getaway,Beach,Jungle Lodge,Autumn,4,Ayurvedic Spa,72597,Goa
+Honeymoon Trip,Mountains,Homestay,Monsoon,8,Ayurvedic Spa,72597,Ladakh
+Cultural Trip,Mountains,Jungle Lodge,Spring,9,Heritage Walk,72597,Uttarakhand
+Backpacking Trip,Mountains,Luxury Hotel,Summer,6,Heritage Walk,72597,Himachal Pradesh
+Honeymoon Trip,Royal Palaces,Homestay,Autumn,2,Sightseeing,72597,Rajasthan
+Pilgrimage Trip,Temples,Houseboat,Spring,6,Religious visit,72597,Madhya Pradesh
+Pilgrimage Trip,Religious Town,Beachfront Villa,Monsoon,7,Religious visit,72597,Uttar Pradesh
+Group Trip,Mountains,Heritage Hotel,Winter,8,Toy Train Ride,72597,Jammu and Kashmir
+Backpacking Trip,Beach,Camping,Summer,10,Motorcycling,72597,Goa
+Backpacking Trip,Beach,Homestay,Autumn,4,Camping,72597,Andaman & Nicobar Islands
+Backpacking Trip,Mountains,Homestay,Monsoon,5,Heritage Walk,72597,Himachal Pradesh
+Cultural Trip,Temple Town,Beachfront Resort,Winter,6,Temple hopping,72597,Maharashtra
+Backpacking Trip,Backwaters,Jungle Lodge,Summer,3,Motorcycling,72597,Kerala
+Cultural Trip,Hills,Camping,Monsoon,10,Heritage Walk,72597,Kerala
+Family Trip,Beach,Ashram Accommodation,Autumn,5,Sightseeing,72597,Goa
+Family Trip,City,Homestay,Spring,3,Relaxation,72597,Uttar Pradesh
+Solo Trip,French Colony,Jungle Lodge,Monsoon,9,Scuba Diving,72597,Puducherry
+Wildlife Trip,French Colony,Luxury Hotel,Monsoon,5,Safari,72597,Puducherry
+Adventure Trip,Forest,Hostel Dorm,Monsoon,4,White Water Rafting,72597,Madhya Pradesh
+Family Trip,Backwaters,Heritage Hotel,Winter,5,Heritage Walk,72597,Kerala
+Group Trip,Mountains,Camping,Summer,10,Toy Train Ride,72597,Jammu and Kashmir
+Pilgrimage Trip,Beach,Ashram Accommodation,Spring,3,Religious visit,72597,Goa
+Romantic Getaway,Forest,Houseboat,Winter,6,Scuba Diving,72597,Madhya Pradesh
+Cultural Trip,Backwaters,Beachfront Resort,Monsoon,9,Heritage Walk,72597,Kerala
+Cultural Trip,Mountains,Homestay,Spring,2,Heritage Walk,72597,Himachal Pradesh
+Pilgrimage Trip,Hills,Ashram Accommodation,Monsoon,4,Religious visit,72597,West Bengal
+Family Trip,French Colony,Luxury Hotel,Autumn,2,Heritage Walk,72597,Puducherry
+Honeymoon Trip,Hills,Heritage Hotel,Summer,10,Relaxation,72597,West Bengal
+Group Trip,Forest,Luxury Hotel,Monsoon,3,Temple hopping,72597,Maharashtra
+Backpacking Trip,French Colony,Homestay,Spring,5,Camping,72597,Puducherry
+Wildlife Trip,French Colony,Hostel Dorm,Spring,7,Safari,72597,Puducherry
+Adventure Trip,Deserts,Camping,Winter,6,Scuba Diving,72597,Rajasthan
+Family Trip,City,Camping,Summer,6,Ayurvedic Spa,72597,Uttar Pradesh
+Pilgrimage Trip,Hills,Houseboat,Autumn,7,Religious visit,72597,Kerala
+Pilgrimage Trip,French Colony,Houseboat,Monsoon,5,Religious visit,72597,Puducherry
+Solo Trip,City,Jungle Lodge,Winter,8,Scuba Diving,72597,Uttar Pradesh
+Wildlife Trip,Beach,Beachfront Villa,Monsoon,5,Safari,72597,Andaman & Nicobar Islands
+Solo Trip,Islands,Hostel Dorm,Spring,3,Trekking,72597,Andaman & Nicobar Islands
+Solo Trip,Religious Town,Homestay,Autumn,9,Motorcycling,72597,Uttar Pradesh
+Pilgrimage Trip,Temples,Luxury Hotel,Summer,4,Religious visit,72597,Madhya Pradesh
+Adventure Trip,Backwaters,Hostel Dorm,Summer,3,Motorcycling,72597,Kerala
+Honeymoon Trip,Religious Town,Ashram Accommodation,Monsoon,3,Sightseeing,72597,Uttar Pradesh
+Group Trip,Backwaters,Beachfront Resort,Monsoon,10,Sightseeing,72597,Kerala
+Group Trip,Mountains,Beachfront Villa,Autumn,10,Toy Train Ride,72597,Uttarakhand
+Wildlife Trip,Backwaters,Beachfront Resort,Winter,7,Safari,72597,Kerala
+Solo Trip,Temple Town,Ashram Accommodation,Winter,8,Relaxation,72597,Maharashtra
+Solo Trip,French Colony,Luxury Hotel,Winter,4,Trekking,72597,Puducherry
+Solo Trip,Forest,Homestay,Winter,10,Scuba Diving,72597,Madhya Pradesh
+Cultural Trip,Religious Town,Hostel Dorm,Monsoon,9,Temple hopping,72597,Uttar Pradesh
+Honeymoon Trip,Temple Town,Beachfront Villa,Summer,5,Ayurvedic Spa,72597,Maharashtra
+Backpacking Trip,Religious Town,Beachfront Resort,Monsoon,9,Motorcycling,72597,Uttar Pradesh
+Cultural Trip,Desert,Camping,Monsoon,10,Heritage Walk,72597,Ladakh
+Adventure Trip,Temple Town,Beachfront Villa,Winter,8,Camping,72597,Maharashtra
+Backpacking Trip,Backwaters,Hostel Dorm,Monsoon,7,Trekking,72597,Kerala
+Honeymoon Trip,Mountains,Jungle Lodge,Summer,8,Scuba Diving,72597,Himachal Pradesh
+Adventure Trip,Temples,Homestay,Summer,4,Trekking,72597,Madhya Pradesh
+Cultural Trip,Hills,Camping,Monsoon,4,Temple hopping,72597,Kerala
+Solo Trip,Backwaters,Luxury Hotel,Winter,4,Trekking,72597,Kerala
+Honeymoon Trip,French Colony,Houseboat,Autumn,2,Scuba Diving,72597,Puducherry
+Group Trip,Backwaters,Luxury Hotel,Autumn,8,Toy Train Ride,72597,Kerala
+Family Trip,Mountains,Homestay,Autumn,9,Ayurvedic Spa,72597,Himachal Pradesh
+Adventure Trip,Deserts,Camping,Autumn,4,Trekking,72597,Rajasthan
+Cultural Trip,Mountains,Camping,Summer,9,Heritage Walk,72597,Himachal Pradesh
+Group Trip,Forest,Hostel Dorm,Spring,7,Relaxation,72597,Maharashtra
+Wildlife Trip,Islands,Camping,Spring,2,Safari,72597,Andaman & Nicobar Islands
+Backpacking Trip,Temples,Camping,Autumn,5,Camping,72597,Madhya Pradesh
+Cultural Trip,Backwaters,Houseboat,Autumn,8,Heritage Walk,72597,Kerala
+Cultural Trip,Mountains,Houseboat,Winter,8,Temple hopping,72597,Himachal Pradesh
+Solo Trip,Deserts,Homestay,Monsoon,5,Skiing,72597,Rajasthan
+Group Trip,Religious Town,Heritage Hotel,Monsoon,10,Relaxation,72597,Uttar Pradesh
+Backpacking Trip,Forest,Ashram Accommodation,Spring,4,Motorcycling,72597,Madhya Pradesh
+Cultural Trip,Beach,Hostel Dorm,Autumn,10,Heritage Walk,72597,Goa
+Group Trip,Backwaters,Beachfront Resort,Autumn,10,Relaxation,72597,Kerala
+Romantic Getaway,Temple Town,Heritage Hotel,Summer,5,Honeymoon Cruise,72597,Maharashtra
+Pilgrimage Trip,Mountains,Luxury Hotel,Summer,5,Religious visit,72597,Himachal Pradesh
+Honeymoon Trip,Temple Town,Camping,Autumn,3,Relaxation,72597,Maharashtra
+Solo Trip,City,Homestay,Winter,5,Skiing,72597,Uttar Pradesh
+Backpacking Trip,French Colony,Luxury Hotel,Summer,4,Trekking,72597,Puducherry
+Solo Trip,Beach,Heritage Hotel,Summer,5,Skiing,72597,Goa
+Group Trip,Temple Town,Camping,Spring,7,Toy Train Ride,72597,Maharashtra
+Backpacking Trip,Backwaters,Heritage Hotel,Autumn,9,Motorcycling,72597,Kerala
+Solo Trip,Religious Town,Heritage Hotel,Winter,4,Trekking,72597,Uttar Pradesh
+Cultural Trip,City,Hostel Dorm,Winter,8,Temple hopping,72597,Uttar Pradesh
+Backpacking Trip,Temple Town,Beachfront Resort,Spring,8,Motorcycling,72597,Maharashtra
+Adventure Trip,Temple Town,Homestay,Winter,4,White Water Rafting,72597,Maharashtra
+Cultural Trip,City,Camping,Autumn,2,Heritage Walk,72597,Uttar Pradesh
+Adventure Trip,Mountains,Camping,Summer,10,Motorcycling,72597,Himachal Pradesh
+Romantic Getaway,Backwaters,Ashram Accommodation,Autumn,10,Relaxation,72597,Kerala
+Backpacking Trip,Backwaters,Houseboat,Autumn,8,Camping,72597,Kerala
+Romantic Getaway,Forest,Houseboat,Winter,10,Scuba Diving,72597,Maharashtra
+Adventure Trip,Backwaters,Beachfront Villa,Summer,4,Scuba Diving,72597,Kerala
+Backpacking Trip,Backwaters,Luxury Hotel,Spring,2,Camping,72597,Kerala
+Pilgrimage Trip,Royal Palaces,Camping,Spring,2,Religious visit,72597,Rajasthan
+Family Trip,City,Beachfront Resort,Spring,9,Sightseeing,72597,Uttar Pradesh
+Wildlife Trip,Forest,Beachfront Resort,Monsoon,4,Safari,72597,Madhya Pradesh
+Adventure Trip,Hills,Houseboat,Monsoon,8,Camping,72597,Kerala
+Pilgrimage Trip,Mountains,Hostel Dorm,Summer,4,Religious visit,72597,Ladakh
+Wildlife Trip,Forest,Luxury Hotel,Summer,3,Safari,72597,Madhya Pradesh
+Honeymoon Trip,Desert,Camping,Summer,5,Sightseeing,72597,Ladakh
+Cultural Trip,Hills,Homestay,Winter,6,Heritage Walk,72597,Kerala
+Family Trip,Forest,Camping,Spring,5,Sightseeing,72597,Maharashtra
+Cultural Trip,Forest,Heritage Hotel,Autumn,10,Temple hopping,72597,Maharashtra
+Adventure Trip,Mountains,Luxury Hotel,Summer,7,Trekking,72597,Uttarakhand
+Honeymoon Trip,Hills,Jungle Lodge,Spring,6,Sightseeing,72597,West Bengal
+Solo Trip,French Colony,Homestay,Monsoon,9,Skiing,72597,Puducherry
+Adventure Trip,Mountains,Beachfront Villa,Spring,10,Motorcycling,72597,Himachal Pradesh
+Solo Trip,Temples,Camping,Spring,2,Relaxation,72597,Madhya Pradesh
+Group Trip,City,Beachfront Villa,Winter,3,Toy Train Ride,72597,Uttar Pradesh
+Adventure Trip,Mountains,Camping,Winter,7,White Water Rafting,72597,Uttarakhand
+Honeymoon Trip,Mountains,Camping,Winter,6,Honeymoon Cruise,72597,Himachal Pradesh
+Adventure Trip,Hills,Beachfront Villa,Monsoon,6,Trekking,72597,West Bengal
+Cultural Trip,Forest,Jungle Lodge,Spring,2,Heritage Walk,72597,Madhya Pradesh
+Solo Trip,Mountains,Homestay,Winter,10,Scuba Diving,72597,Jammu and Kashmir
+Solo Trip,Deserts,Camping,Autumn,10,Relaxation,72597,Rajasthan
+Group Trip,Mountains,Houseboat,Monsoon,6,Temple hopping,72597,Jammu and Kashmir
+Adventure Trip,Temple Town,Beachfront Resort,Monsoon,8,Trekking,72597,Maharashtra
+Solo Trip,Beach,Houseboat,Spring,10,Motorcycling,72597,Goa
+Honeymoon Trip,Temple Town,Luxury Hotel,Monsoon,5,Sightseeing,72597,Maharashtra
+Backpacking Trip,Forest,Houseboat,Winter,5,Trekking,72597,Madhya Pradesh
+Cultural Trip,Hills,Heritage Hotel,Summer,10,Heritage Walk,72597,Kerala
+Adventure Trip,Forest,Hostel Dorm,Spring,3,Motorcycling,72597,Madhya Pradesh
+Honeymoon Trip,Hills,Homestay,Summer,7,Sightseeing,72597,West Bengal
+Honeymoon Trip,Backwaters,Homestay,Spring,9,Relaxation,72597,Kerala
+Honeymoon Trip,Forest,Homestay,Autumn,4,Relaxation,72597,Maharashtra
+Cultural Trip,Beach,Hostel Dorm,Winter,7,Temple hopping,72597,Goa
+Pilgrimage Trip,Deserts,Heritage Hotel,Spring,10,Religious visit,72597,Rajasthan
+Group Trip,Mountains,Camping,Monsoon,3,Toy Train Ride,72597,Himachal Pradesh
+Honeymoon Trip,Hills,Houseboat,Winter,4,Honeymoon Cruise,72597,Kerala
+Adventure Trip,Temple Town,Jungle Lodge,Monsoon,7,Camping,72597,Maharashtra
+Cultural Trip,Temples,Luxury Hotel,Monsoon,3,Temple hopping,72597,Madhya Pradesh
+Cultural Trip,Temple Town,Beachfront Resort,Winter,8,Heritage Walk,72597,Maharashtra
+Romantic Getaway,Forest,Camping,Autumn,4,Honeymoon Cruise,72597,Maharashtra
+Pilgrimage Trip,Backwaters,Ashram Accommodation,Autumn,2,Religious visit,72597,Kerala
+Cultural Trip,French Colony,Jungle Lodge,Spring,6,Temple hopping,72597,Puducherry
+Wildlife Trip,Temples,Ashram Accommodation,Winter,3,Safari,72597,Madhya Pradesh
+Group Trip,Religious Town,Beachfront Resort,Autumn,2,Heritage Walk,72597,Uttar Pradesh
+Honeymoon Trip,Backwaters,Ashram Accommodation,Spring,7,Honeymoon Cruise,72597,Kerala
+Cultural Trip,Mountains,Homestay,Winter,3,Temple hopping,72597,Ladakh
+Pilgrimage Trip,Backwaters,Camping,Winter,9,Religious visit,72597,Kerala
+Wildlife Trip,Hills,Beachfront Resort,Autumn,6,Safari,72597,West Bengal
+Solo Trip,Mountains,Jungle Lodge,Spring,4,Skiing,72597,Ladakh
+Pilgrimage Trip,Backwaters,Ashram Accommodation,Summer,8,Religious visit,72597,Kerala
+Backpacking Trip,Beach,Ashram Accommodation,Summer,5,Camping,72597,Goa
+Honeymoon Trip,Forest,Beachfront Resort,Spring,9,Honeymoon Cruise,72597,Maharashtra
+Pilgrimage Trip,Religious Town,Beachfront Resort,Spring,5,Religious visit,72597,Uttar Pradesh
+Pilgrimage Trip,Mountains,Jungle Lodge,Summer,2,Religious visit,72597,Uttarakhand
+Romantic Getaway,Mountains,Luxury Hotel,Monsoon,6,Honeymoon Cruise,72597,Uttarakhand
+Wildlife Trip,Desert,Jungle Lodge,Autumn,8,Safari,72597,Ladakh
+Solo Trip,Mountains,Houseboat,Monsoon,6,Scuba Diving,72597,Himachal Pradesh
+Group Trip,Mountains,Beachfront Villa,Summer,9,Toy Train Ride,72597,Himachal Pradesh
+Group Trip,Beach,Luxury Hotel,Spring,5,Relaxation,72597,Andaman & Nicobar Islands
+Adventure Trip,Beach,Hostel Dorm,Summer,9,Scuba Diving,72597,Andaman & Nicobar Islands
+Romantic Getaway,Beach,Heritage Hotel,Spring,3,Honeymoon Cruise,72597,Goa
+Group Trip,Deserts,Homestay,Monsoon,3,Temple hopping,72597,Rajasthan
+Pilgrimage Trip,City,Camping,Winter,4,Religious visit,72597,Uttar Pradesh
+Romantic Getaway,Forest,Luxury Hotel,Monsoon,10,Honeymoon Cruise,72597,Maharashtra
+Honeymoon Trip,Beach,Hostel Dorm,Summer,2,Scuba Diving,72597,Andaman & Nicobar Islands
+Romantic Getaway,Mountains,Ashram Accommodation,Monsoon,10,Honeymoon Cruise,72597,Himachal Pradesh
+Adventure Trip,Forest,Beachfront Villa,Summer,9,Motorcycling,72597,Maharashtra
+Pilgrimage Trip,Religious Town,Camping,Summer,4,Religious visit,72597,Uttar Pradesh
+Family Trip,Hills,Homestay,Spring,3,Relaxation,72597,West Bengal
+Adventure Trip,Deserts,Jungle Lodge,Spring,10,Trekking,72597,Rajasthan
+Pilgrimage Trip,Desert,Hostel Dorm,Monsoon,9,Religious visit,72597,Ladakh
+Wildlife Trip,Mountains,Jungle Lodge,Summer,5,Safari,72597,Uttarakhand
+Romantic Getaway,Backwaters,Ashram Accommodation,Summer,5,Ayurvedic Spa,72597,Kerala
+Wildlife Trip,Beach,Houseboat,Monsoon,6,Safari,72597,Andaman & Nicobar Islands
+Romantic Getaway,Royal Palaces,Luxury Hotel,Summer,5,Scuba Diving,72597,Rajasthan
+Cultural Trip,Religious Town,Hostel Dorm,Summer,3,Heritage Walk,72597,Uttar Pradesh
+Pilgrimage Trip,Beach,Heritage Hotel,Summer,8,Religious visit,72597,Goa
+Honeymoon Trip,French Colony,Homestay,Monsoon,5,Relaxation,72597,Puducherry
+Group Trip,Forest,Camping,Spring,6,Heritage Walk,72597,Madhya Pradesh
+Honeymoon Trip,Temple Town,Heritage Hotel,Monsoon,9,Honeymoon Cruise,72597,Maharashtra
+Pilgrimage Trip,Islands,Beachfront Resort,Spring,6,Religious visit,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Hills,Hostel Dorm,Summer,4,Religious visit,72597,West Bengal
+Wildlife Trip,Mountains,Hostel Dorm,Autumn,3,Safari,72597,Himachal Pradesh
+Adventure Trip,Deserts,Beachfront Resort,Monsoon,4,Camping,72597,Rajasthan
+Pilgrimage Trip,Backwaters,Beachfront Villa,Spring,4,Religious visit,72597,Kerala
+Backpacking Trip,Deserts,Heritage Hotel,Spring,8,Camping,72597,Rajasthan
+Solo Trip,Backwaters,Houseboat,Autumn,10,Scuba Diving,72597,Kerala
+Pilgrimage Trip,Hills,Houseboat,Monsoon,6,Religious visit,72597,Kerala
+Group Trip,Temple Town,Beachfront Resort,Autumn,5,Relaxation,72597,Maharashtra
+Honeymoon Trip,Mountains,Beachfront Resort,Summer,7,Sightseeing,72597,Jammu and Kashmir
+Pilgrimage Trip,Religious Town,Jungle Lodge,Spring,6,Religious visit,72597,Uttar Pradesh
+Romantic Getaway,Backwaters,Luxury Hotel,Winter,5,Honeymoon Cruise,72597,Kerala
+Adventure Trip,Hills,Beachfront Villa,Autumn,7,Trekking,72597,West Bengal
+Backpacking Trip,City,Heritage Hotel,Spring,6,Heritage Walk,72597,Uttar Pradesh
+Romantic Getaway,Temple Town,Jungle Lodge,Monsoon,8,Scuba Diving,72597,Maharashtra
+Cultural Trip,Mountains,Luxury Hotel,Spring,9,Heritage Walk,72597,Jammu and Kashmir
+Group Trip,Mountains,Camping,Summer,10,Toy Train Ride,72597,Himachal Pradesh
+Family Trip,Religious Town,Houseboat,Summer,5,Relaxation,72597,Uttar Pradesh
+Solo Trip,Deserts,Homestay,Winter,10,Skiing,72597,Rajasthan
+Pilgrimage Trip,Mountains,Houseboat,Summer,3,Religious visit,72597,Jammu and Kashmir
+Romantic Getaway,Mountains,Jungle Lodge,Autumn,7,Ayurvedic Spa,72597,Himachal Pradesh
+Adventure Trip,Forest,Luxury Hotel,Summer,4,Trekking,72597,Maharashtra
+Cultural Trip,Beach,Heritage Hotel,Summer,5,Temple hopping,72597,Andaman & Nicobar Islands
+Solo Trip,Forest,Beachfront Villa,Summer,6,Skiing,72597,Madhya Pradesh
+Honeymoon Trip,Hills,Homestay,Winter,3,Scuba Diving,72597,Kerala
+Family Trip,Mountains,Heritage Hotel,Winter,3,Ayurvedic Spa,72597,Ladakh
+Honeymoon Trip,Forest,Houseboat,Autumn,10,Sightseeing,72597,Madhya Pradesh
+Pilgrimage Trip,Royal Palaces,Luxury Hotel,Summer,2,Religious visit,72597,Rajasthan
+Adventure Trip,Mountains,Ashram Accommodation,Winter,5,Scuba Diving,72597,Himachal Pradesh
+Romantic Getaway,Mountains,Beachfront Villa,Monsoon,5,Relaxation,72597,Himachal Pradesh
+Romantic Getaway,Beach,Hostel Dorm,Autumn,7,Honeymoon Cruise,72597,Goa
+Backpacking Trip,Backwaters,Houseboat,Autumn,2,Motorcycling,72597,Kerala
+Honeymoon Trip,City,Luxury Hotel,Monsoon,5,Honeymoon Cruise,72597,Uttar Pradesh
+Pilgrimage Trip,Temples,Heritage Hotel,Autumn,4,Religious visit,72597,Madhya Pradesh
+Pilgrimage Trip,Temples,Luxury Hotel,Spring,7,Religious visit,72597,Madhya Pradesh
+Adventure Trip,Backwaters,Beachfront Resort,Monsoon,5,Trekking,72597,Kerala
+Adventure Trip,Forest,Homestay,Autumn,6,Scuba Diving,72597,Maharashtra
+Cultural Trip,Temple Town,Jungle Lodge,Spring,7,Heritage Walk,72597,Maharashtra
+Wildlife Trip,Mountains,Jungle Lodge,Winter,10,Safari,72597,Himachal Pradesh
+Adventure Trip,Hills,Luxury Hotel,Spring,7,Scuba Diving,72597,West Bengal
+Pilgrimage Trip,Beach,Hostel Dorm,Autumn,9,Religious visit,72597,Goa
+Group Trip,Mountains,Homestay,Autumn,8,Toy Train Ride,72597,Himachal Pradesh
+Romantic Getaway,Backwaters,Homestay,Autumn,3,Ayurvedic Spa,72597,Kerala
+Backpacking Trip,Backwaters,Camping,Winter,7,Trekking,72597,Kerala
+Romantic Getaway,Beach,Luxury Hotel,Autumn,6,Honeymoon Cruise,72597,Goa
+Family Trip,Forest,Beachfront Resort,Spring,3,Relaxation,72597,Madhya Pradesh
+Wildlife Trip,Hills,Ashram Accommodation,Winter,6,Safari,72597,Kerala
+Solo Trip,Mountains,Beachfront Villa,Spring,8,Relaxation,72597,Uttarakhand
+Cultural Trip,Temples,Luxury Hotel,Summer,4,Heritage Walk,72597,Madhya Pradesh
+Family Trip,Mountains,Ashram Accommodation,Winter,4,Ayurvedic Spa,72597,Uttarakhand
+Honeymoon Trip,Hills,Luxury Hotel,Winter,4,Ayurvedic Spa,72597,West Bengal
+Pilgrimage Trip,Temples,Beachfront Resort,Autumn,3,Religious visit,72597,Madhya Pradesh
+Group Trip,Hills,Hostel Dorm,Winter,6,Relaxation,72597,Kerala
+Family Trip,Mountains,Hostel Dorm,Monsoon,5,Relaxation,72597,Himachal Pradesh
+Honeymoon Trip,Mountains,Houseboat,Monsoon,9,Sightseeing,72597,Ladakh
+Cultural Trip,City,Camping,Monsoon,4,Temple hopping,72597,Uttar Pradesh
+Adventure Trip,Desert,Luxury Hotel,Monsoon,3,Trekking,72597,Ladakh
+Cultural Trip,City,Luxury Hotel,Spring,7,Temple hopping,72597,Uttar Pradesh
+Group Trip,Mountains,Luxury Hotel,Spring,2,Relaxation,72597,Jammu and Kashmir
+Solo Trip,French Colony,Luxury Hotel,Winter,7,Trekking,72597,Puducherry
+Romantic Getaway,Backwaters,Camping,Autumn,4,Relaxation,72597,Kerala
+Honeymoon Trip,Backwaters,Jungle Lodge,Autumn,2,Ayurvedic Spa,72597,Kerala
+Adventure Trip,Backwaters,Beachfront Villa,Monsoon,5,White Water Rafting,72597,Kerala
+Cultural Trip,Backwaters,Homestay,Winter,3,Temple hopping,72597,Kerala
+Adventure Trip,Religious Town,Hostel Dorm,Spring,9,White Water Rafting,72597,Uttar Pradesh
+Romantic Getaway,Royal Palaces,Beachfront Resort,Summer,6,Relaxation,72597,Rajasthan
+Family Trip,Forest,Beachfront Villa,Summer,2,Heritage Walk,72597,Maharashtra
+Pilgrimage Trip,Hills,Camping,Winter,9,Religious visit,72597,West Bengal
+Wildlife Trip,Mountains,Heritage Hotel,Autumn,8,Safari,72597,Himachal Pradesh
+Solo Trip,Beach,Jungle Lodge,Winter,9,Motorcycling,72597,Goa
+Wildlife Trip,French Colony,Jungle Lodge,Summer,3,Safari,72597,Puducherry
+Family Trip,Mountains,Luxury Hotel,Summer,7,Heritage Walk,72597,Himachal Pradesh
+Backpacking Trip,Hills,Hostel Dorm,Summer,2,Camping,72597,West Bengal
+Cultural Trip,Backwaters,Homestay,Monsoon,6,Temple hopping,72597,Kerala
+Solo Trip,Forest,Camping,Summer,10,Skiing,72597,Maharashtra
+Solo Trip,Mountains,Homestay,Monsoon,4,Trekking,72597,Jammu and Kashmir
+Wildlife Trip,Beach,Hostel Dorm,Winter,7,Safari,72597,Goa
+Group Trip,Religious Town,Beachfront Villa,Autumn,8,Temple hopping,72597,Uttar Pradesh
+Romantic Getaway,Hills,Beachfront Villa,Spring,9,Scuba Diving,72597,Kerala
+Romantic Getaway,Mountains,Heritage Hotel,Winter,8,Relaxation,72597,Himachal Pradesh
+Wildlife Trip,Mountains,Jungle Lodge,Monsoon,6,Safari,72597,Himachal Pradesh
+Backpacking Trip,Forest,Ashram Accommodation,Summer,9,Camping,72597,Maharashtra
+Pilgrimage Trip,Hills,Beachfront Resort,Monsoon,3,Religious visit,72597,West Bengal
+Family Trip,Backwaters,Beachfront Villa,Autumn,2,Toy Train Ride,72597,Kerala
+Honeymoon Trip,Mountains,Houseboat,Monsoon,2,Ayurvedic Spa,72597,Jammu and Kashmir
+Honeymoon Trip,Hills,Beachfront Resort,Spring,10,Sightseeing,72597,Kerala
+Pilgrimage Trip,Religious Town,Jungle Lodge,Summer,6,Religious visit,72597,Uttar Pradesh
+Cultural Trip,Religious Town,Heritage Hotel,Winter,8,Heritage Walk,72597,Uttar Pradesh
+Pilgrimage Trip,City,Ashram Accommodation,Spring,10,Religious visit,72597,Uttar Pradesh
+Pilgrimage Trip,Mountains,Beachfront Resort,Autumn,6,Religious visit,72597,Himachal Pradesh
+Adventure Trip,Desert,Camping,Spring,5,Scuba Diving,72597,Ladakh
+Cultural Trip,Beach,Jungle Lodge,Spring,8,Heritage Walk,72597,Goa
+Wildlife Trip,City,Hostel Dorm,Monsoon,5,Safari,72597,Uttar Pradesh
+Adventure Trip,French Colony,Homestay,Summer,9,Camping,72597,Puducherry
+Pilgrimage Trip,Beach,Jungle Lodge,Monsoon,4,Religious visit,72597,Goa
+Pilgrimage Trip,Mountains,Homestay,Spring,6,Religious visit,72597,Uttarakhand
+Honeymoon Trip,Hills,Beachfront Villa,Autumn,2,Ayurvedic Spa,72597,Kerala
+Adventure Trip,Hills,Homestay,Monsoon,10,Scuba Diving,72597,West Bengal
+Honeymoon Trip,Forest,Luxury Hotel,Winter,5,Ayurvedic Spa,72597,Maharashtra
+Wildlife Trip,Mountains,Luxury Hotel,Spring,6,Safari,72597,Jammu and Kashmir
+Pilgrimage Trip,Beach,Ashram Accommodation,Summer,9,Religious visit,72597,Andaman & Nicobar Islands
+Group Trip,French Colony,Jungle Lodge,Spring,3,Relaxation,72597,Puducherry
+Wildlife Trip,Beach,Houseboat,Autumn,2,Safari,72597,Goa
+Group Trip,Forest,Hostel Dorm,Spring,7,Heritage Walk,72597,Maharashtra
+Family Trip,Forest,Hostel Dorm,Winter,3,Heritage Walk,72597,Maharashtra
+Backpacking Trip,Forest,Hostel Dorm,Summer,4,Camping,72597,Madhya Pradesh
+Backpacking Trip,Temple Town,Ashram Accommodation,Autumn,3,Motorcycling,72597,Maharashtra
+Adventure Trip,Mountains,Beachfront Resort,Spring,9,Motorcycling,72597,Himachal Pradesh
+Group Trip,City,Hostel Dorm,Monsoon,10,Heritage Walk,72597,Uttar Pradesh
+Honeymoon Trip,City,Beachfront Resort,Summer,4,Ayurvedic Spa,72597,Uttar Pradesh
+Family Trip,Temple Town,Jungle Lodge,Spring,7,Sightseeing,72597,Maharashtra
+Backpacking Trip,Temple Town,Beachfront Resort,Summer,8,Trekking,72597,Maharashtra
+Adventure Trip,Temple Town,Hostel Dorm,Autumn,5,Motorcycling,72597,Maharashtra
+Romantic Getaway,Backwaters,Ashram Accommodation,Autumn,5,Scuba Diving,72597,Kerala
+Honeymoon Trip,Backwaters,Houseboat,Autumn,6,Scuba Diving,72597,Kerala
+Pilgrimage Trip,Forest,Hostel Dorm,Spring,5,Religious visit,72597,Maharashtra
+Solo Trip,Backwaters,Jungle Lodge,Monsoon,2,Motorcycling,72597,Kerala
+Backpacking Trip,Backwaters,Camping,Monsoon,9,Motorcycling,72597,Kerala
+Solo Trip,Hills,Houseboat,Spring,10,Skiing,72597,West Bengal
+Cultural Trip,Temple Town,Luxury Hotel,Autumn,2,Temple hopping,72597,Maharashtra
+Honeymoon Trip,Forest,Houseboat,Summer,8,Relaxation,72597,Madhya Pradesh
+Backpacking Trip,Temple Town,Heritage Hotel,Monsoon,3,Trekking,72597,Maharashtra
+Group Trip,Temple Town,Luxury Hotel,Spring,10,Toy Train Ride,72597,Maharashtra
+Cultural Trip,Hills,Beachfront Villa,Winter,2,Temple hopping,72597,Kerala
+Family Trip,French Colony,Ashram Accommodation,Autumn,9,Ayurvedic Spa,72597,Puducherry
+Solo Trip,Beach,Beachfront Villa,Autumn,7,Trekking,72597,Goa
+Adventure Trip,Temples,Homestay,Winter,8,Scuba Diving,72597,Madhya Pradesh
+Cultural Trip,Religious Town,Heritage Hotel,Autumn,10,Temple hopping,72597,Uttar Pradesh
+Family Trip,Hills,Ashram Accommodation,Spring,5,Sightseeing,72597,Kerala
+Family Trip,Backwaters,Heritage Hotel,Monsoon,3,Toy Train Ride,72597,Kerala
+Adventure Trip,Mountains,Heritage Hotel,Monsoon,5,Trekking,72597,Uttarakhand
+Honeymoon Trip,Temples,Jungle Lodge,Autumn,2,Sightseeing,72597,Madhya Pradesh
+Adventure Trip,Backwaters,Ashram Accommodation,Summer,7,Trekking,72597,Kerala
+Adventure Trip,Mountains,Luxury Hotel,Winter,8,White Water Rafting,72597,Jammu and Kashmir
+Wildlife Trip,Forest,Camping,Spring,4,Safari,72597,Maharashtra
+Group Trip,Backwaters,Camping,Spring,4,Relaxation,72597,Kerala
+Romantic Getaway,Forest,Heritage Hotel,Summer,6,Honeymoon Cruise,72597,Maharashtra
+Group Trip,Temples,Homestay,Autumn,6,Relaxation,72597,Madhya Pradesh
+Cultural Trip,Islands,Ashram Accommodation,Autumn,9,Heritage Walk,72597,Andaman & Nicobar Islands
+Backpacking Trip,Religious Town,Camping,Spring,4,Trekking,72597,Uttar Pradesh
+Solo Trip,Temples,Heritage Hotel,Monsoon,5,Relaxation,72597,Madhya Pradesh
+Pilgrimage Trip,Backwaters,Jungle Lodge,Autumn,10,Religious visit,72597,Kerala
+Romantic Getaway,Beach,Heritage Hotel,Autumn,2,Scuba Diving,72597,Goa
+Solo Trip,Forest,Ashram Accommodation,Summer,10,Trekking,72597,Madhya Pradesh
+Honeymoon Trip,Forest,Beachfront Villa,Autumn,4,Honeymoon Cruise,72597,Maharashtra
+Adventure Trip,Mountains,Heritage Hotel,Autumn,6,Scuba Diving,72597,Himachal Pradesh
+Cultural Trip,Temple Town,Hostel Dorm,Spring,9,Heritage Walk,72597,Maharashtra
+Group Trip,Religious Town,Heritage Hotel,Monsoon,10,Relaxation,72597,Uttar Pradesh
+Backpacking Trip,Mountains,Jungle Lodge,Autumn,8,Camping,72597,Himachal Pradesh
+Group Trip,Religious Town,Jungle Lodge,Monsoon,5,Temple hopping,72597,Uttar Pradesh
+Backpacking Trip,Temple Town,Camping,Winter,10,Motorcycling,72597,Maharashtra
+Group Trip,French Colony,Luxury Hotel,Autumn,3,Sightseeing,72597,Puducherry
+Wildlife Trip,Mountains,Luxury Hotel,Monsoon,2,Safari,72597,Himachal Pradesh
+Wildlife Trip,Temple Town,Hostel Dorm,Winter,5,Safari,72597,Maharashtra
+Honeymoon Trip,Temples,Beachfront Villa,Monsoon,2,Honeymoon Cruise,72597,Madhya Pradesh
+Romantic Getaway,Royal Palaces,Houseboat,Spring,3,Honeymoon Cruise,72597,Rajasthan
+Honeymoon Trip,Religious Town,Beachfront Resort,Winter,2,Honeymoon Cruise,72597,Uttar Pradesh
+Cultural Trip,City,Heritage Hotel,Summer,3,Heritage Walk,72597,Uttar Pradesh
+Adventure Trip,Hills,Heritage Hotel,Winter,2,Scuba Diving,72597,Kerala
+Family Trip,Hills,Camping,Autumn,6,Relaxation,72597,Kerala
+Solo Trip,Beach,Beachfront Villa,Winter,8,Scuba Diving,72597,Goa
+Group Trip,City,Heritage Hotel,Winter,7,Sightseeing,72597,Uttar Pradesh
+Adventure Trip,Mountains,Jungle Lodge,Monsoon,8,White Water Rafting,72597,Ladakh
+Romantic Getaway,French Colony,Beachfront Villa,Spring,10,Ayurvedic Spa,72597,Puducherry
+Pilgrimage Trip,Mountains,Ashram Accommodation,Winter,2,Religious visit,72597,Uttarakhand
+Backpacking Trip,Forest,Houseboat,Autumn,6,Camping,72597,Madhya Pradesh
+Honeymoon Trip,Temple Town,Heritage Hotel,Spring,6,Ayurvedic Spa,72597,Maharashtra
+Adventure Trip,Mountains,Hostel Dorm,Autumn,10,White Water Rafting,72597,Himachal Pradesh
+Group Trip,Temples,Beachfront Resort,Spring,7,Sightseeing,72597,Madhya Pradesh
+Wildlife Trip,Islands,Heritage Hotel,Autumn,6,Safari,72597,Andaman & Nicobar Islands
+Backpacking Trip,Mountains,Camping,Spring,4,Heritage Walk,72597,Himachal Pradesh
+Backpacking Trip,Mountains,Heritage Hotel,Autumn,8,Motorcycling,72597,Himachal Pradesh
+Family Trip,Forest,Heritage Hotel,Summer,5,Heritage Walk,72597,Madhya Pradesh
+Pilgrimage Trip,Beach,Beachfront Villa,Winter,9,Religious visit,72597,Goa
+Romantic Getaway,Beach,Beachfront Resort,Spring,7,Honeymoon Cruise,72597,Goa
+Solo Trip,Temple Town,Houseboat,Winter,6,Relaxation,72597,Maharashtra
+Honeymoon Trip,Forest,Beachfront Resort,Autumn,6,Sightseeing,72597,Madhya Pradesh
+Solo Trip,Mountains,Ashram Accommodation,Summer,10,Scuba Diving,72597,Himachal Pradesh
+Romantic Getaway,Religious Town,Beachfront Resort,Winter,2,Honeymoon Cruise,72597,Uttar Pradesh
+Family Trip,Islands,Camping,Winter,7,Toy Train Ride,72597,Andaman & Nicobar Islands
+Wildlife Trip,Temples,Camping,Summer,6,Safari,72597,Madhya Pradesh
+Pilgrimage Trip,Mountains,Heritage Hotel,Monsoon,4,Religious visit,72597,Himachal Pradesh
+Wildlife Trip,Beach,Houseboat,Monsoon,4,Safari,72597,Goa
+Romantic Getaway,City,Luxury Hotel,Autumn,5,Honeymoon Cruise,72597,Uttar Pradesh
+Group Trip,Mountains,Heritage Hotel,Spring,7,Temple hopping,72597,Jammu and Kashmir
+Pilgrimage Trip,Temples,Camping,Summer,6,Religious visit,72597,Madhya Pradesh
+Pilgrimage Trip,Backwaters,Luxury Hotel,Monsoon,9,Religious visit,72597,Kerala
+Pilgrimage Trip,Religious Town,Houseboat,Autumn,7,Religious visit,72597,Uttar Pradesh
+Romantic Getaway,Mountains,Ashram Accommodation,Monsoon,4,Ayurvedic Spa,72597,Uttarakhand
+Family Trip,Deserts,Luxury Hotel,Autumn,7,Ayurvedic Spa,72597,Rajasthan
+Pilgrimage Trip,Hills,Beachfront Villa,Monsoon,2,Religious visit,72597,Kerala
+Backpacking Trip,Religious Town,Beachfront Resort,Summer,4,Trekking,72597,Uttar Pradesh
+Family Trip,French Colony,Heritage Hotel,Spring,4,Ayurvedic Spa,72597,Puducherry
+Romantic Getaway,Hills,Camping,Spring,3,Relaxation,72597,West Bengal
+Solo Trip,Mountains,Luxury Hotel,Autumn,6,Skiing,72597,Himachal Pradesh
+Cultural Trip,French Colony,Camping,Monsoon,2,Heritage Walk,72597,Puducherry
+Group Trip,Backwaters,Beachfront Resort,Spring,8,Heritage Walk,72597,Kerala
+Pilgrimage Trip,Beach,Heritage Hotel,Summer,5,Religious visit,72597,Goa
+Group Trip,Hills,Luxury Hotel,Winter,8,Temple hopping,72597,Kerala
+Backpacking Trip,Mountains,Camping,Winter,3,Heritage Walk,72597,Himachal Pradesh
+Romantic Getaway,French Colony,Luxury Hotel,Monsoon,4,Scuba Diving,72597,Puducherry
+Cultural Trip,Royal Palaces,Hostel Dorm,Spring,7,Heritage Walk,72597,Rajasthan
+Backpacking Trip,Deserts,Jungle Lodge,Spring,9,Trekking,72597,Rajasthan
+Backpacking Trip,City,Jungle Lodge,Autumn,10,Heritage Walk,72597,Uttar Pradesh
+Family Trip,Backwaters,Jungle Lodge,Monsoon,10,Toy Train Ride,72597,Kerala
+Pilgrimage Trip,Mountains,Beachfront Resort,Summer,7,Religious visit,72597,Uttarakhand
+Solo Trip,Mountains,Jungle Lodge,Spring,2,Motorcycling,72597,Uttarakhand
+Solo Trip,Hills,Hostel Dorm,Summer,8,Scuba Diving,72597,West Bengal
+Adventure Trip,Forest,Heritage Hotel,Monsoon,5,Camping,72597,Maharashtra
+Cultural Trip,French Colony,Camping,Autumn,6,Heritage Walk,72597,Puducherry
+Family Trip,French Colony,Homestay,Spring,6,Sightseeing,72597,Puducherry
+Cultural Trip,Deserts,Heritage Hotel,Spring,7,Temple hopping,72597,Rajasthan
+Pilgrimage Trip,Beach,Camping,Monsoon,4,Religious visit,72597,Goa
+Backpacking Trip,Islands,Jungle Lodge,Spring,9,Trekking,72597,Andaman & Nicobar Islands
+Wildlife Trip,Hills,Camping,Monsoon,5,Safari,72597,West Bengal
+Cultural Trip,Backwaters,Hostel Dorm,Monsoon,9,Heritage Walk,72597,Kerala
+Romantic Getaway,Forest,Camping,Summer,10,Ayurvedic Spa,72597,Maharashtra
+Solo Trip,Backwaters,Hostel Dorm,Monsoon,4,Relaxation,72597,Kerala
+Wildlife Trip,Hills,Jungle Lodge,Monsoon,3,Safari,72597,West Bengal
+Pilgrimage Trip,Mountains,Beachfront Villa,Monsoon,6,Religious visit,72597,Jammu and Kashmir
+Family Trip,Mountains,Beachfront Resort,Monsoon,4,Ayurvedic Spa,72597,Himachal Pradesh
+Cultural Trip,Mountains,Ashram Accommodation,Autumn,7,Temple hopping,72597,Jammu and Kashmir
+Romantic Getaway,Mountains,Ashram Accommodation,Summer,3,Relaxation,72597,Uttarakhand
+Solo Trip,Beach,Houseboat,Summer,9,Trekking,72597,Andaman & Nicobar Islands
+Romantic Getaway,Backwaters,Camping,Autumn,6,Relaxation,72597,Kerala
+Cultural Trip,Hills,Heritage Hotel,Spring,2,Heritage Walk,72597,Kerala
+Romantic Getaway,City,Houseboat,Summer,6,Ayurvedic Spa,72597,Uttar Pradesh
+Solo Trip,Hills,Jungle Lodge,Winter,7,Trekking,72597,Kerala
+Backpacking Trip,Mountains,Houseboat,Winter,3,Trekking,72597,Himachal Pradesh
+Cultural Trip,Mountains,Jungle Lodge,Spring,4,Heritage Walk,72597,Himachal Pradesh
+Solo Trip,Mountains,Homestay,Autumn,6,Scuba Diving,72597,Uttarakhand
+Family Trip,Royal Palaces,Hostel Dorm,Spring,8,Heritage Walk,72597,Rajasthan
+Romantic Getaway,Deserts,Ashram Accommodation,Autumn,3,Honeymoon Cruise,72597,Rajasthan
+Backpacking Trip,Forest,Heritage Hotel,Winter,4,Heritage Walk,72597,Madhya Pradesh
+Cultural Trip,Deserts,Beachfront Villa,Autumn,7,Heritage Walk,72597,Rajasthan
+Honeymoon Trip,Backwaters,Homestay,Summer,10,Scuba Diving,72597,Kerala
+Adventure Trip,Religious Town,Beachfront Resort,Summer,5,Camping,72597,Uttar Pradesh
+Honeymoon Trip,City,Ashram Accommodation,Winter,3,Honeymoon Cruise,72597,Uttar Pradesh
+Romantic Getaway,Religious Town,Beachfront Resort,Winter,2,Scuba Diving,72597,Uttar Pradesh
+Backpacking Trip,Mountains,Heritage Hotel,Monsoon,6,Motorcycling,72597,Himachal Pradesh
+Pilgrimage Trip,City,Heritage Hotel,Spring,8,Religious visit,72597,Uttar Pradesh
+Backpacking Trip,Beach,Houseboat,Winter,10,Camping,72597,Goa
+Cultural Trip,Royal Palaces,Beachfront Resort,Monsoon,10,Temple hopping,72597,Rajasthan
+Romantic Getaway,Desert,Houseboat,Winter,5,Relaxation,72597,Ladakh
+Family Trip,Forest,Hostel Dorm,Autumn,5,Heritage Walk,72597,Madhya Pradesh
+Wildlife Trip,Hills,Ashram Accommodation,Winter,8,Safari,72597,Kerala
+Cultural Trip,Temples,Beachfront Resort,Winter,7,Temple hopping,72597,Madhya Pradesh
+Honeymoon Trip,Hills,Jungle Lodge,Spring,5,Relaxation,72597,West Bengal
+Adventure Trip,Temples,Jungle Lodge,Winter,5,Trekking,72597,Madhya Pradesh
+Wildlife Trip,Hills,Jungle Lodge,Winter,4,Safari,72597,West Bengal
+Backpacking Trip,Hills,Hostel Dorm,Summer,6,Camping,72597,West Bengal
+Honeymoon Trip,Mountains,Beachfront Villa,Spring,10,Honeymoon Cruise,72597,Himachal Pradesh
+Solo Trip,French Colony,Jungle Lodge,Spring,6,Scuba Diving,72597,Puducherry
+Adventure Trip,Mountains,Beachfront Villa,Autumn,5,Scuba Diving,72597,Himachal Pradesh
+Backpacking Trip,Forest,Jungle Lodge,Summer,3,Camping,72597,Maharashtra
+Backpacking Trip,French Colony,Beachfront Resort,Spring,4,Trekking,72597,Puducherry
+Romantic Getaway,Backwaters,Ashram Accommodation,Summer,7,Relaxation,72597,Kerala
+Wildlife Trip,Mountains,Camping,Autumn,7,Safari,72597,Jammu and Kashmir
+Honeymoon Trip,Backwaters,Luxury Hotel,Autumn,5,Sightseeing,72597,Kerala
+Pilgrimage Trip,Beach,Luxury Hotel,Monsoon,2,Religious visit,72597,Goa
+Adventure Trip,Mountains,Ashram Accommodation,Spring,9,Trekking,72597,Himachal Pradesh
+Backpacking Trip,French Colony,Jungle Lodge,Spring,8,Trekking,72597,Puducherry
+Wildlife Trip,Mountains,Hostel Dorm,Summer,9,Safari,72597,Himachal Pradesh
+Honeymoon Trip,Religious Town,Beachfront Villa,Autumn,6,Relaxation,72597,Uttar Pradesh
+Backpacking Trip,Beach,Ashram Accommodation,Summer,7,Heritage Walk,72597,Andaman & Nicobar Islands
+Pilgrimage Trip,Backwaters,Camping,Autumn,9,Religious visit,72597,Kerala
+Solo Trip,Forest,Beachfront Resort,Monsoon,7,Relaxation,72597,Madhya Pradesh
+Adventure Trip,Royal Palaces,Beachfront Villa,Autumn,10,Scuba Diving,72597,Rajasthan
+Group Trip,Royal Palaces,Beachfront Villa,Spring,7,Relaxation,72597,Rajasthan
+Wildlife Trip,French Colony,Hostel Dorm,Monsoon,8,Safari,72597,Puducherry
+Cultural Trip,Backwaters,Luxury Hotel,Spring,7,Heritage Walk,72597,Kerala
+Pilgrimage Trip,Beach,Hostel Dorm,Autumn,10,Religious visit,72597,Goa
+Group Trip,Hills,Camping,Spring,5,Heritage Walk,72597,West Bengal
+Backpacking Trip,Beach,Camping,Summer,4,Trekking,72597,Goa
+Family Trip,Islands,Jungle Lodge,Winter,7,Sightseeing,72597,Andaman & Nicobar Islands
+Backpacking Trip,Beach,Ashram Accommodation,Autumn,5,Heritage Walk,72597,Goa
+Cultural Trip,Backwaters,Houseboat,Spring,8,Temple hopping,72597,Kerala
+Solo Trip,Mountains,Heritage Hotel,Monsoon,6,Skiing,72597,Himachal Pradesh
+Group Trip,Mountains,Camping,Autumn,3,Sightseeing,72597,Uttarakhand
+Wildlife Trip,Backwaters,Luxury Hotel,Winter,8,Safari,72597,Kerala
+Honeymoon Trip,Mountains,Hostel Dorm,Autumn,5,Honeymoon Cruise,72597,Himachal Pradesh
+Cultural Trip,Mountains,Heritage Hotel,Winter,7,Heritage Walk,72597,Jammu and Kashmir
+Adventure Trip,Desert,Camping,Monsoon,3,Motorcycling,72597,Ladakh
+Backpacking Trip,Religious Town,Ashram Accommodation,Monsoon,9,Heritage Walk,72597,Uttar Pradesh
+Adventure Trip,Desert,Luxury Hotel,Summer,9,Scuba Diving,72597,Ladakh
+Backpacking Trip,Backwaters,Camping,Autumn,8,Motorcycling,72597,Kerala
+Pilgrimage Trip,Backwaters,Hostel Dorm,Monsoon,6,Religious visit,72597,Kerala
+Romantic Getaway,Forest,Jungle Lodge,Monsoon,9,Ayurvedic Spa,72597,Madhya Pradesh
+Wildlife Trip,Religious Town,Houseboat,Summer,6,Safari,72597,Uttar Pradesh
+Romantic Getaway,Mountains,Luxury Hotel,Summer,9,Ayurvedic Spa,72597,Uttarakhand
+Honeymoon Trip,Mountains,Beachfront Villa,Autumn,2,Relaxation,72597,Ladakh
+Backpacking Trip,Temples,Hostel Dorm,Autumn,3,Trekking,72597,Madhya Pradesh
+Family Trip,Temples,Heritage Hotel,Spring,9,Heritage Walk,72597,Madhya Pradesh
+Group Trip,Hills,Hostel Dorm,Winter,8,Toy Train Ride,72597,Kerala
+Solo Trip,Forest,Beachfront Villa,Winter,4,Skiing,72597,Maharashtra
+Pilgrimage Trip,Mountains,Heritage Hotel,Monsoon,7,Religious visit,72597,Uttarakhand
+Pilgrimage Trip,Mountains,Jungle Lodge,Summer,6,Religious visit,72597,Uttarakhand
+Pilgrimage Trip,Backwaters,Camping,Summer,9,Religious visit,72597,Kerala
+Group Trip,Beach,Homestay,Spring,8,Relaxation,72597,Goa
+Pilgrimage Trip,Backwaters,Jungle Lodge,Autumn,5,Religious visit,72597,Kerala
+Romantic Getaway,French Colony,Camping,Summer,8,Relaxation,72597,Puducherry
+Pilgrimage Trip,Hills,Houseboat,Autumn,9,Religious visit,72597,West Bengal
+Family Trip,Beach,Hostel Dorm,Winter,2,Heritage Walk,72597,Goa
+Group Trip,Islands,Hostel Dorm,Spring,4,Sightseeing,72597,Andaman & Nicobar Islands
+Family Trip,Beach,Homestay,Autumn,6,Sightseeing,72597,Goa
+Solo Trip,Deserts,Jungle Lodge,Monsoon,9,Trekking,72597,Rajasthan
+Group Trip,Hills,Homestay,Spring,9,Toy Train Ride,72597,West Bengal
+Pilgrimage Trip,Mountains,Jungle Lodge,Summer,5,Religious visit,72597,Jammu and Kashmir
+Solo Trip,Mountains,Beachfront Resort,Winter,8,Trekking,72597,Jammu and Kashmir
+Cultural Trip,Religious Town,Heritage Hotel,Summer,2,Temple hopping,72597,Uttar Pradesh
+Family Trip,Beach,Luxury Hotel,Summer,5,Relaxation,72597,Andaman & Nicobar Islands
+Wildlife Trip,Backwaters,Luxury Hotel,Summer,6,Safari,72597,Kerala
+Romantic Getaway,Beach,Heritage Hotel,Autumn,4,Honeymoon Cruise,72597,Goa
+Backpacking Trip,Backwaters,Homestay,Winter,3,Camping,72597,Kerala
+Solo Trip,Hills,Houseboat,Autumn,8,Motorcycling,72597,West Bengal
+Backpacking Trip,City,Houseboat,Summer,4,Trekking,72597,Uttar Pradesh
+Adventure Trip,Royal Palaces,Ashram Accommodation,Autumn,6,White Water Rafting,72597,Rajasthan
+Honeymoon Trip,Deserts,Camping,Spring,5,Relaxation,72597,Rajasthan
+Solo Trip,Backwaters,Ashram Accommodation,Autumn,2,Relaxation,72597,Kerala
+Group Trip,Hills,Beachfront Villa,Autumn,9,Toy Train Ride,72597,Kerala
+Pilgrimage Trip,Beach,Ashram Accommodation,Winter,7,Religious visit,72597,Goa
+Solo Trip,Forest,Homestay,Autumn,4,Trekking,72597,Maharashtra
+Adventure Trip,Backwaters,Jungle Lodge,Autumn,10,Camping,72597,Kerala
+Solo Trip,Forest,Hostel Dorm,Winter,3,Motorcycling,72597,Maharashtra
+Wildlife Trip,Mountains,Beachfront Resort,Winter,4,Safari,72597,Ladakh
+Family Trip,Backwaters,Luxury Hotel,Spring,4,Relaxation,72597,Kerala
+Adventure Trip,Mountains,Ashram Accommodation,Winter,7,Trekking,72597,Himachal Pradesh
+Adventure Trip,Temple Town,Hostel Dorm,Monsoon,8,Camping,72597,Maharashtra
+Romantic Getaway,Forest,Heritage Hotel,Winter,9,Scuba Diving,72597,Madhya Pradesh
+Backpacking Trip,Hills,Beachfront Resort,Summer,6,Camping,72597,Kerala
+Backpacking Trip,Mountains,Luxury Hotel,Monsoon,4,Heritage Walk,72597,Jammu and Kashmir
+Family Trip,Religious Town,Ashram Accommodation,Monsoon,6,Sightseeing,72597,Uttar Pradesh
+Backpacking Trip,Forest,Jungle Lodge,Autumn,6,Heritage Walk,72597,Madhya Pradesh
+Honeymoon Trip,Beach,Heritage Hotel,Summer,5,Ayurvedic Spa,72597,Goa
+Backpacking Trip,Beach,Camping,Monsoon,9,Camping,72597,Goa
+Wildlife Trip,French Colony,Camping,Spring,10,Safari,72597,Puducherry
+Pilgrimage Trip,Mountains,Luxury Hotel,Summer,5,Religious visit,72597,Himachal Pradesh
+Pilgrimage Trip,Backwaters,Hostel Dorm,Summer,6,Religious visit,72597,Kerala
+Pilgrimage Trip,Hills,Camping,Spring,8,Religious visit,72597,Kerala
+Group Trip,Beach,Luxury Hotel,Winter,2,Temple hopping,72597,Andaman & Nicobar Islands
+Backpacking Trip,Religious Town,Heritage Hotel,Autumn,5,Heritage Walk,72597,Uttar Pradesh
+Backpacking Trip,Forest,Beachfront Resort,Winter,2,Camping,72597,Madhya Pradesh
+Cultural Trip,Forest,Luxury Hotel,Spring,4,Temple hopping,72597,Maharashtra
+Adventure Trip,Mountains,Beachfront Villa,Spring,10,Trekking,72597,Himachal Pradesh
+Honeymoon Trip,Beach,Heritage Hotel,Summer,7,Ayurvedic Spa,72597,Goa
+Romantic Getaway,Hills,Homestay,Autumn,10,Ayurvedic Spa,72597,Kerala
+Wildlife Trip,City,Heritage Hotel,Spring,7,Safari,72597,Uttar Pradesh
+Backpacking Trip,Religious Town,Houseboat,Winter,7,Camping,72597,Uttar Pradesh
+Cultural Trip,Religious Town,Beachfront Resort,Spring,6,Temple hopping,72597,Uttar Pradesh
+Cultural Trip,Backwaters,Jungle Lodge,Monsoon,5,Temple hopping,72597,Kerala
+Group Trip,Mountains,Houseboat,Summer,6,Relaxation,72597,Jammu and Kashmir
+Backpacking Trip,Temples,Jungle Lodge,Autumn,4,Motorcycling,72597,Madhya Pradesh
+Adventure Trip,Mountains,Camping,Summer,7,White Water Rafting,72597,Himachal Pradesh
+Wildlife Trip,Mountains,Heritage Hotel,Spring,3,Safari,72597,Jammu and Kashmir
+Adventure Trip,Religious Town,Luxury Hotel,Monsoon,4,White Water Rafting,72597,Uttar Pradesh
+Group Trip,French Colony,Camping,Winter,7,Heritage Walk,72597,Puducherry
+Group Trip,Hills,Jungle Lodge,Autumn,2,Toy Train Ride,72597,Kerala
+Romantic Getaway,Backwaters,Jungle Lodge,Spring,4,Honeymoon Cruise,72597,Kerala
+Backpacking Trip,Backwaters,Camping,Summer,5,Camping,72597,Kerala
+Group Trip,Mountains,Houseboat,Winter,10,Toy Train Ride,72597,Himachal Pradesh
+Backpacking Trip,Hills,Houseboat,Monsoon,8,Motorcycling,72597,West Bengal
+Solo Trip,Mountains,Ashram Accommodation,Monsoon,7,Relaxation,72597,Himachal Pradesh
+Pilgrimage Trip,Backwaters,Beachfront Villa,Monsoon,10,Religious visit,72597,Kerala
+Adventure Trip,Hills,Beachfront Villa,Spring,10,Camping,72597,Kerala
+Honeymoon Trip,Mountains,Heritage Hotel,Monsoon,3,Sightseeing,72597,Himachal Pradesh
+Wildlife Trip,French Colony,Hostel Dorm,Monsoon,6,Safari,72597,Puducherry
+Wildlife Trip,Temples,Houseboat,Spring,8,Safari,72597,Madhya Pradesh
+Adventure Trip,Beach,Ashram Accommodation,Spring,3,Camping,72597,Goa
+Romantic Getaway,Hills,Jungle Lodge,Spring,4,Scuba Diving,72597,West Bengal
+Backpacking Trip,Temples,Houseboat,Monsoon,5,Heritage Walk,72597,Madhya Pradesh
+Family Trip,Hills,Houseboat,Spring,5,Sightseeing,72597,West Bengal
+Honeymoon Trip,Desert,Luxury Hotel,Autumn,4,Relaxation,72597,Ladakh
+Wildlife Trip,French Colony,Hostel Dorm,Spring,2,Safari,72597,Puducherry
+Cultural Trip,Forest,Homestay,Winter,5,Temple hopping,72597,Maharashtra
+Honeymoon Trip,Temple Town,Camping,Monsoon,3,Ayurvedic Spa,72597,Maharashtra
+Romantic Getaway,City,Heritage Hotel,Autumn,10,Ayurvedic Spa,72597,Uttar Pradesh
+Solo Trip,Backwaters,Houseboat,Spring,2,Relaxation,72597,Kerala
+Romantic Getaway,Mountains,Heritage Hotel,Summer,5,Relaxation,72597,Jammu and Kashmir
+Romantic Getaway,Beach,Camping,Monsoon,7,Honeymoon Cruise,72597,Goa
+Honeymoon Trip,Mountains,Camping,Monsoon,3,Honeymoon Cruise,72597,Jammu and Kashmir
+Wildlife Trip,Hills,Beachfront Villa,Summer,9,Safari,72597,West Bengal
+Group Trip,French Colony,Heritage Hotel,Autumn,2,Temple hopping,72597,Puducherry
+Romantic Getaway,Temples,Luxury Hotel,Monsoon,8,Relaxation,72597,Madhya Pradesh
+Group Trip,Temples,Heritage Hotel,Monsoon,6,Heritage Walk,72597,Madhya Pradesh
+Adventure Trip,French Colony,Hostel Dorm,Autumn,5,Scuba Diving,72597,Puducherry
+Group Trip,Islands,Homestay,Summer,2,Toy Train Ride,72597,Andaman & Nicobar Islands
+Backpacking Trip,Mountains,Heritage Hotel,Monsoon,6,Heritage Walk,72597,Himachal Pradesh
+Backpacking Trip,French Colony,Beachfront Resort,Monsoon,9,Motorcycling,72597,Puducherry
+Solo Trip,Beach,Beachfront Villa,Monsoon,7,Scuba Diving,72597,Goa
+Adventure Trip,Mountains,Beachfront Villa,Summer,4,Trekking,72597,Jammu and Kashmir
+Pilgrimage Trip,Beach,Hostel Dorm,Summer,7,Religious visit,72597,Goa
+Wildlife Trip,Temples,Heritage Hotel,Summer,6,Safari,72597,Madhya Pradesh
+Family Trip,Mountains,Luxury Hotel,Monsoon,6,Ayurvedic Spa,72597,Jammu and Kashmir
+Group Trip,Mountains,Beachfront Villa,Autumn,8,Heritage Walk,72597,Jammu and Kashmir
+Adventure Trip,Temples,Homestay,Spring,2,Motorcycling,72597,Madhya Pradesh
+Solo Trip,Royal Palaces,Hostel Dorm,Summer,8,Scuba Diving,72597,Rajasthan
+Cultural Trip,Temples,Homestay,Summer,3,Heritage Walk,72597,Madhya Pradesh
+Wildlife Trip,Backwaters,Beachfront Villa,Spring,8,Safari,72597,Kerala
+Solo Trip,Mountains,Hostel Dorm,Autumn,4,Skiing,72597,Jammu and Kashmir
+Group Trip,Backwaters,Jungle Lodge,Spring,6,Heritage Walk,72597,Kerala
+Pilgrimage Trip,Temples,Homestay,Summer,4,Religious visit,72597,Madhya Pradesh
+Wildlife Trip,Deserts,Hostel Dorm,Autumn,4,Safari,72597,Rajasthan
+Cultural Trip,Forest,Houseboat,Monsoon,4,Temple hopping,72597,Maharashtra
+Family Trip,Beach,Hostel Dorm,Winter,10,Ayurvedic Spa,72597,Andaman & Nicobar Islands
+Group Trip,Beach,Beachfront Resort,Monsoon,9,Relaxation,72597,Andaman & Nicobar Islands
+Cultural Trip,Islands,Beachfront Villa,Summer,7,Heritage Walk,72597,Andaman & Nicobar Islands
+Adventure Trip,French Colony,Camping,Winter,2,Scuba Diving,72597,Puducherry
+Pilgrimage Trip,Hills,Jungle Lodge,Winter,2,Religious visit,72597,Kerala
+Romantic Getaway,Mountains,Hostel Dorm,Summer,7,Ayurvedic Spa,72597,Ladakh
+Adventure Trip,Mountains,Beachfront Villa,Spring,6,Trekking,72597,Jammu and Kashmir
+Pilgrimage Trip,Beach,Camping,Winter,6,Religious visit,72597,Goa
+Wildlife Trip,Hills,Jungle Lodge,Winter,4,Safari,72597,West Bengal
+Honeymoon Trip,Backwaters,Luxury Hotel,Monsoon,4,Ayurvedic Spa,72597,Kerala
+Wildlife Trip,Forest,Ashram Accommodation,Autumn,7,Safari,72597,Maharashtra
+Solo Trip,Forest,Ashram Accommodation,Winter,8,Scuba Diving,72597,Maharashtra
+Family Trip,Mountains,Camping,Autumn,7,Ayurvedic Spa,72597,Uttarakhand
+Honeymoon Trip,Mountains,Beachfront Resort,Winter,3,Relaxation,72597,Himachal Pradesh
+Romantic Getaway,City,Beachfront Villa,Summer,5,Ayurvedic Spa,72597,Uttar Pradesh
+Family Trip,Hills,Camping,Autumn,10,Heritage Walk,72597,Kerala
+Cultural Trip,Islands,Beachfront Resort,Spring,7,Temple hopping,72597,Andaman & Nicobar Islands
+Cultural Trip,Hills,Houseboat,Summer,2,Temple hopping,72597,West Bengal
+Adventure Trip,Forest,Homestay,Autumn,3,Motorcycling,72597,Madhya Pradesh
+Family Trip,Temple Town,Jungle Lodge,Autumn,7,Heritage Walk,72597,Maharashtra
+Honeymoon Trip,Mountains,Hostel Dorm,Spring,8,Scuba Diving,72597,Jammu and Kashmir
+Backpacking Trip,City,Camping,Summer,10,Trekking,72597,Uttar Pradesh
+Family Trip,Backwaters,Beachfront Villa,Winter,6,Toy Train Ride,72597,Kerala
+Solo Trip,Religious Town,Ashram Accommodation,Winter,8,Trekking,72597,Uttar Pradesh
+Adventure Trip,City,Houseboat,Winter,10,Trekking,72597,Uttar Pradesh
+Pilgrimage Trip,Mountains,Beachfront Villa,Summer,8,Religious visit,72597,Himachal Pradesh
+Adventure Trip,Forest,Beachfront Villa,Autumn,10,Camping,72597,Madhya Pradesh
+Romantic Getaway,Mountains,Luxury Hotel,Spring,4,Relaxation,72597,Himachal Pradesh
+Group Trip,Mountains,Hostel Dorm,Winter,8,Sightseeing,72597,Jammu and Kashmir
+Honeymoon Trip,Desert,Jungle Lodge,Winter,5,Scuba Diving,72597,Ladakh
+Solo Trip,Forest,Houseboat,Winter,10,Relaxation,72597,Maharashtra
+Solo Trip,Religious Town,Houseboat,Summer,8,Skiing,72597,Uttar Pradesh
+Wildlife Trip,French Colony,Houseboat,Spring,6,Safari,72597,Puducherry
+Pilgrimage Trip,Beach,Beachfront Resort,Winter,6,Religious visit,72597,Goa
+Adventure Trip,Temples,Heritage Hotel,Monsoon,5,Trekking,72597,Madhya Pradesh
+Group Trip,Mountains,Heritage Hotel,Monsoon,9,Sightseeing,72597,Uttarakhand
+Adventure Trip,Mountains,Beachfront Villa,Autumn,5,Trekking,72597,Himachal Pradesh
+Family Trip,Islands,Jungle Lodge,Summer,5,Ayurvedic Spa,72597,Andaman & Nicobar Islands
+Wildlife Trip,Beach,Houseboat,Autumn,3,Safari,72597,Goa
+Cultural Trip,French Colony,Beachfront Villa,Winter,3,Temple hopping,72597,Puducherry
+Pilgrimage Trip,City,Beachfront Villa,Autumn,9,Religious visit,72597,Uttar Pradesh
+Wildlife Trip,Mountains,Heritage Hotel,Autumn,5,Safari,72597,Uttarakhand
+Honeymoon Trip,Religious Town,Hostel Dorm,Monsoon,3,Honeymoon Cruise,72597,Uttar Pradesh
+Romantic Getaway,Hills,Hostel Dorm,Winter,10,Relaxation,72597,Kerala
+Cultural Trip,City,Beachfront Resort,Summer,3,Temple hopping,72597,Uttar Pradesh
+Solo Trip,Mountains,Camping,Summer,5,Motorcycling,72597,Jammu and Kashmir
+Family Trip,Temple Town,Beachfront Resort,Autumn,8,Sightseeing,72597,Maharashtra
+Adventure Trip,Mountains,Hostel Dorm,Summer,4,Trekking,72597,Jammu and Kashmir
+Romantic Getaway,Mountains,Houseboat,Monsoon,6,Honeymoon Cruise,72597,Himachal Pradesh
+Cultural Trip,Backwaters,Houseboat,Winter,4,Heritage Walk,72597,Kerala
+Pilgrimage Trip,Mountains,Houseboat,Monsoon,7,Religious visit,72597,Uttarakhand
+Solo Trip,Forest,Beachfront Villa,Monsoon,7,Skiing,72597,Maharashtra
+Group Trip,City,Heritage Hotel,Autumn,6,Toy Train Ride,72597,Uttar Pradesh
+Cultural Trip,Mountains,Beachfront Villa,Monsoon,8,Heritage Walk,72597,Himachal Pradesh
+Romantic Getaway,Backwaters,Luxury Hotel,Spring,4,Scuba Diving,72597,Kerala
+Honeymoon Trip,Backwaters,Ashram Accommodation,Autumn,5,Honeymoon Cruise,72597,Kerala
+Cultural Trip,Backwaters,Luxury Hotel,Summer,5,Heritage Walk,72597,Kerala
+Adventure Trip,Hills,Beachfront Villa,Autumn,2,Camping,72597,Kerala
+Cultural Trip,Temple Town,Hostel Dorm,Winter,10,Temple hopping,72597,Maharashtra
+Pilgrimage Trip,Mountains,Ashram Accommodation,Monsoon,3,Religious visit,72597,Jammu and Kashmir
+Cultural Trip,Mountains,Camping,Spring,10,Temple hopping,72597,Himachal Pradesh
+Wildlife Trip,Mountains,Camping,Monsoon,9,Safari,72597,Uttarakhand
+Cultural Trip,Hills,Beachfront Resort,Spring,2,Temple hopping,72597,West Bengal
+Adventure Trip,Forest,Homestay,Winter,5,Trekking,72597,Madhya Pradesh
+Romantic Getaway,Mountains,Beachfront Resort,Summer,6,Ayurvedic Spa,72597,Ladakh
+Adventure Trip,Hills,Heritage Hotel,Summer,3,Trekking,72597,Kerala
+Wildlife Trip,Backwaters,Ashram Accommodation,Autumn,6,Safari,72597,Kerala
+Honeymoon Trip,Backwaters,Heritage Hotel,Monsoon,5,Sightseeing,72597,Kerala
+Adventure Trip,Desert,Camping,Spring,3,Trekking,72597,Ladakh
+Group Trip,Backwaters,Hostel Dorm,Spring,6,Heritage Walk,72597,Kerala
+Cultural Trip,Temple Town,Homestay,Summer,5,Temple hopping,72597,Maharashtra
+Romantic Getaway,Mountains,Houseboat,Spring,6,Ayurvedic Spa,72597,Jammu and Kashmir
+Pilgrimage Trip,Forest,Heritage Hotel,Summer,5,Religious visit,72597,Maharashtra
+Family Trip,Mountains,Ashram Accommodation,Winter,7,Ayurvedic Spa,72597,Jammu and Kashmir
+Cultural Trip,Mountains,Hostel Dorm,Spring,9,Heritage Walk,72597,Himachal Pradesh
+Group Trip,Forest,Homestay,Winter,8,Temple hopping,72597,Maharashtra
+Romantic Getaway,Backwaters,Ashram Accommodation,Autumn,2,Relaxation,72597,Kerala
+Family Trip,Temples,Homestay,Summer,7,Relaxation,72597,Madhya Pradesh
+Cultural Trip,Temples,Jungle Lodge,Summer,6,Heritage Walk,72597,Madhya Pradesh
+Adventure Trip,Beach,Beachfront Resort,Winter,8,White Water Rafting,72597,Goa
+Solo Trip,Backwaters,Houseboat,Monsoon,6,Skiing,72597,Kerala
+Romantic Getaway,Mountains,Beachfront Villa,Autumn,2,Relaxation,72597,Himachal Pradesh
+Family Trip,French Colony,Hostel Dorm,Winter,3,Relaxation,72597,Puducherry
+Pilgrimage Trip,Beach,Ashram Accommodation,Summer,5,Religious visit,72597,Goa
+Honeymoon Trip,Mountains,Luxury Hotel,Summer,5,Relaxation,72597,Himachal Pradesh
+Family Trip,City,Luxury Hotel,Summer,8,Relaxation,72597,Uttar Pradesh
+Group Trip,Backwaters,Beachfront Villa,Autumn,8,Relaxation,72597,Kerala
+Group Trip,Forest,Houseboat,Winter,3,Relaxation,72597,Madhya Pradesh
+Family Trip,Backwaters,Luxury Hotel,Summer,2,Relaxation,72597,Kerala
+Solo Trip,Mountains,Beachfront Resort,Autumn,2,Relaxation,72597,Himachal Pradesh
+Group Trip,Mountains,Jungle Lodge,Spring,5,Temple hopping,72597,Himachal Pradesh
+Adventure Trip,Mountains,Hostel Dorm,Winter,10,Camping,72597,Uttarakhand
+Solo Trip,Desert,Beachfront Resort,Spring,7,Motorcycling,72597,Ladakh
+Backpacking Trip,Hills,Beachfront Villa,Monsoon,3,Motorcycling,72597,West Bengal
+Wildlife Trip,Forest,Houseboat,Winter,10,Safari,72597,Madhya Pradesh
+Wildlife Trip,Mountains,Houseboat,Monsoon,6,Safari,72597,Himachal Pradesh
+Family Trip,Temple Town,Beachfront Resort,Autumn,9,Sightseeing,72597,Maharashtra
+Romantic Getaway,Backwaters,Luxury Hotel,Monsoon,5,Ayurvedic Spa,72597,Kerala
+Wildlife Trip,Hills,Hostel Dorm,Winter,6,Safari,72597,West Bengal
+Solo Trip,Forest,Heritage Hotel,Monsoon,5,Scuba Diving,72597,Madhya Pradesh
+Adventure Trip,Backwaters,Houseboat,Winter,8,White Water Rafting,72597,Kerala
+Solo Trip,Temple Town,Ashram Accommodation,Summer,3,Scuba Diving,72597,Maharashtra
+Family Trip,Beach,Camping,Autumn,6,Toy Train Ride,72597,Goa
+Backpacking Trip,Religious Town,Heritage Hotel,Monsoon,10,Motorcycling,72597,Uttar Pradesh
+Pilgrimage Trip,Hills,Camping,Monsoon,8,Religious visit,72597,West Bengal
+Group Trip,Backwaters,Hostel Dorm,Monsoon,6,Toy Train Ride,72597,Kerala
+Cultural Trip,Desert,Beachfront Resort,Monsoon,4,Temple hopping,72597,Ladakh
+Romantic Getaway,Deserts,Homestay,Spring,10,Ayurvedic Spa,72597,Rajasthan
+Cultural Trip,City,Ashram Accommodation,Autumn,2,Heritage Walk,72597,Uttar Pradesh
+Family Trip,Forest,Jungle Lodge,Winter,4,Toy Train Ride,72597,Maharashtra
+Family Trip,Beach,Beachfront Villa,Winter,8,Ayurvedic Spa,72597,Goa
+Group Trip,Temples,Beachfront Resort,Winter,2,Toy Train Ride,72597,Madhya Pradesh
+Family Trip,Desert,Homestay,Summer,5,Relaxation,72597,Ladakh
+Adventure Trip,Forest,Hostel Dorm,Spring,8,Camping,72597,Madhya Pradesh
+Adventure Trip,Temples,Beachfront Villa,Summer,9,Motorcycling,72597,Madhya Pradesh
+Honeymoon Trip,Religious Town,Beachfront Resort,Spring,10,Scuba Diving,72597,Uttar Pradesh
+Group Trip,Temples,Houseboat,Monsoon,8,Temple hopping,72597,Madhya Pradesh
+Solo Trip,Mountains,Heritage Hotel,Monsoon,3,Relaxation,72597,Uttarakhand
+Pilgrimage Trip,Backwaters,Heritage Hotel,Summer,2,Religious visit,72597,Kerala
+Wildlife Trip,Mountains,Beachfront Villa,Spring,5,Safari,72597,Uttarakhand
+Group Trip,Mountains,Beachfront Villa,Autumn,7,Sightseeing,72597,Jammu and Kashmir
+Solo Trip,Deserts,Homestay,Winter,5,Motorcycling,72597,Rajasthan
+Cultural Trip,City,Ashram Accommodation,Spring,5,Heritage Walk,72597,Uttar Pradesh
+Cultural Trip,Mountains,Camping,Monsoon,7,Heritage Walk,72597,Jammu and Kashmir
+Adventure Trip,Forest,Houseboat,Summer,2,Camping,72597,Maharashtra
+Adventure Trip,Forest,Houseboat,Autumn,3,Motorcycling,72597,Madhya Pradesh
+Solo Trip,Beach,Ashram Accommodation,Winter,7,Trekking,72597,Goa
+Group Trip,Temple Town,Beachfront Resort,Summer,7,Toy Train Ride,72597,Maharashtra
+Wildlife Trip,Forest,Beachfront Resort,Spring,3,Safari,72597,Madhya Pradesh
+Wildlife Trip,Mountains,Jungle Lodge,Spring,8,Safari,72597,Himachal Pradesh
+Adventure Trip,City,Luxury Hotel,Monsoon,2,Camping,72597,Uttar Pradesh
+Family Trip,Mountains,Houseboat,Summer,7,Relaxation,72597,Himachal Pradesh
+Pilgrimage Trip,Temple Town,Houseboat,Autumn,7,Religious visit,72597,Maharashtra
+Romantic Getaway,Backwaters,Jungle Lodge,Monsoon,5,Ayurvedic Spa,72597,Kerala
+Honeymoon Trip,French Colony,Beachfront Resort,Summer,4,Scuba Diving,72597,Puducherry
+Adventure Trip,Mountains,Beachfront Villa,Summer,5,White Water Rafting,72597,Jammu and Kashmir
+Romantic Getaway,Hills,Ashram Accommodation,Winter,7,Honeymoon Cruise,72597,West Bengal
+Backpacking Trip,Mountains,Luxury Hotel,Autumn,3,Motorcycling,72597,Uttarakhand
+Cultural Trip,Mountains,Beachfront Resort,Spring,7,Temple hopping,72597,Jammu and Kashmir
+Wildlife Trip,French Colony,Camping,Winter,8,Safari,72597,Puducherry
+Adventure Trip,Hills,Hostel Dorm,Winter,9,Scuba Diving,72597,Kerala
+Romantic Getaway,Mountains,Jungle Lodge,Spring,8,Scuba Diving,72597,Himachal Pradesh
+Backpacking Trip,Backwaters,Ashram Accommodation,Winter,4,Heritage Walk,72597,Kerala
+Cultural Trip,Backwaters,Heritage Hotel,Monsoon,5,Temple hopping,72597,Kerala
+Honeymoon Trip,Royal Palaces,Luxury Hotel,Summer,7,Ayurvedic Spa,72597,Rajasthan
+Solo Trip,City,Beachfront Villa,Winter,6,Motorcycling,72597,Uttar Pradesh
+Family Trip,City,Heritage Hotel,Winter,4,Ayurvedic Spa,72597,Uttar Pradesh
+Honeymoon Trip,Backwaters,Jungle Lodge,Autumn,2,Scuba Diving,72597,Kerala
+Solo Trip,Forest,Hostel Dorm,Summer,5,Skiing,72597,Madhya Pradesh
+Romantic Getaway,Islands,Beachfront Resort,Monsoon,4,Ayurvedic Spa,72597,Andaman & Nicobar Islands
+Wildlife Trip,Backwaters,Jungle Lodge,Spring,6,Safari,72597,Kerala
+Cultural Trip,Religious Town,Hostel Dorm,Monsoon,7,Heritage Walk,72597,Uttar Pradesh
+Wildlife Trip,Forest,Ashram Accommodation,Spring,6,Safari,72597,Madhya Pradesh
