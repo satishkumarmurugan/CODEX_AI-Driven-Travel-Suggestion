@@ -28,7 +28,7 @@ Before running the web application, you need to train the machine learning model
 3. Open the Jupyter Notebook used for model training:
 
    ```bash
-   jupyter notebook <model-training-notebook>.ipynb
+   jupyter notebook ID3.ipynb
    ```
 
 4. Follow the instructions in the notebook to train the model. This will involve loading your dataset, preprocessing the data, training the model, and saving the trained model along with any necessary label encoders to disk.
