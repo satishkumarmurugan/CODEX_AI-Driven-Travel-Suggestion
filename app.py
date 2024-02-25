@@ -19,6 +19,7 @@ def handle_form_submission():
     Season = request.form.get('Season')
     Duration_Days = int(request.form.get('Duration_Days'))
     Activity_To_Perform = request.form.getlist('Activity_To_Perform') 
+    Budget = request.form['Budget']
   
 
     # Encode the input data
@@ -43,13 +44,12 @@ def handle_form_submission():
 
     pack = str(prediction[0])
 
-    # Replace spaces in the prediction with hyphens and concatenate with the URL
+# Replace spaces in the prediction with hyphens and concatenate with the URL
     pack_small = pack.lower()
     pack_url_safe = pack_small.replace(" ", "-")
 
-    
-    # Assuming Budget is a variable containing the budget value
-    url = "https://www.thomascook.in/holidays/india-tour-packages/" + pack_url_safe + "-tour-packages?holidayBudget=1,100000"
+    # Constructing the dynamic URL
+    url = f"https://www.thomascook.in/holidays/india-tour-packages/{pack_url_safe}-tour-packages?holidayBudget={Budget}"
 
     # Redirecting to the desired URL
     return redirect(url)

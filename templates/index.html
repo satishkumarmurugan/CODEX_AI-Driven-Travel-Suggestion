@@ -118,6 +118,13 @@ document.addEventListener('DOMContentLoaded', function() {
     <!-- Activity_To_Perform will be populated based on the trip type selection -->
     </select>
 
+    <label for="Budget">Choose a Duration_Days (in days):</label>
+    <select name="Budget" id="Budget">
+        <option value="1,30000">Less than 30,000</option>
+        <option value="30000,100000">30,000 to 1 Lac</option>
+        <option value="100000,200000">1 Lac to 2 Lac</option>
+        <option value="200000,0">Above 2 Lac</option>
+    </select>
     
     <button type="submit">Submit</button>
 
