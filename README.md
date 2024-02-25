@@ -50,3 +50,5 @@ After training the model and saving it, you can start the Flask web application 
 
 3. The application will start running on a local server (usually `http://127.0.0.1:5000`). Open a web browser and go to the URL provided in the terminal to interact with the application.
 
+## Demo Video
+  https://youtu.be/70KGhECCD_A
