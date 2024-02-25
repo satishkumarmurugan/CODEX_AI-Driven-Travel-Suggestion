@@ -17,7 +17,7 @@ Before running the web application, you need to train the machine learning model
 
    ```bash
    git clone https://github.com/satishkumarmurugan/CODEX_AI-Driven-Travel-Suggestion.git
-   ```
+   ```bash
 
 2. Navigate to the project directory:
 
